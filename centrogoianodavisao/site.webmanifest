@@ -1,0 +1,20 @@
+{
+  "name": "Centro Goiano da Visão",
+  "short_name": "Centro Goiano da Visão",
+  "description": "Clínica oftalmológica no Edifício Clínico Jacob Facuri, Setor Central de Goiânia (GO). Consultas, urgências diurnas e exames de consultório em oftalmologia.",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/marca/logo-vertical-dourada.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+User-agent: *
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+User-agent: OAI-SearchBot
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+User-agent: ChatGPT-User
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+User-agent: Claude-SearchBot
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+User-agent: Claude-User
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+User-agent: PerplexityBot
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+User-agent: Perplexity-User
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+User-agent: GoogleOther
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+User-agent: Google-Agent
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+User-agent: DuckAssistBot
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+User-agent: Meta-ExternalFetcher
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+User-agent: MistralAI-User
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+User-agent: GPTBot
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+User-agent: ClaudeBot
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+User-agent: anthropic-ai
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+User-agent: Google-Extended
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+User-agent: Applebot-Extended
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+User-agent: Meta-ExternalAgent
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+User-agent: Amazonbot
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+User-agent: cohere-ai
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+Sitemap: https://drricardobittar.com.br/sitemap.xml

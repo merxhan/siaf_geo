@@ -1,0 +1,53 @@
+{
+  "name": "Reserva 35 — Vinhos, Destilados, Cestas e Eventos",
+  "short_name": "Reserva 35",
+  "description": "A maior adega de vinhos e destilados do Brasil, no coração do Setor Marista em Goiânia – GO. Mais de 5 mil rótulos de 33 países, cestas de Natal personalizadas a partir de R$ 99,90, alta gastronomia e salas privativas para eventos.",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "id": "https://reserva35.com.br/",
+  "start_url": "https://reserva35.com.br/",
+  "scope": "https://reserva35.com.br/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#141414",
+  "theme_color": "#9E1B1E",
+  "categories": [
+    "food",
+    "shopping",
+    "lifestyle"
+  ],
+  "icons": [
+    {
+      "src": "https://reserva35.com.br/wp-content/uploads/2025/12/cropped-cropped-Logo-35.png",
+      "sizes": "250x250",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Cestas de Natal & Presentes",
+      "short_name": "Cestas",
+      "description": "Catálogo de cestas natalinas e presentes corporativos a partir de R$ 99,90.",
+      "url": "https://reserva35.com.br/cestas-presentes/"
+    },
+    {
+      "name": "Espaços & Eventos",
+      "short_name": "Eventos",
+      "description": "Salas privativas climatizadas e gastronomia harmonizada no Setor Marista.",
+      "url": "https://reserva35.com.br/conheca-nossos-espacos-de-experiencia/"
+    },
+    {
+      "name": "Curadoria de Rótulos",
+      "short_name": "Adega",
+      "description": "Seleção personalizada com mais de 5 mil rótulos de 33 países.",
+      "url": "https://reserva35.com.br/curadoria-reserva-35-selecoes-que-contam-historias/"
+    },
+    {
+      "name": "Contato WhatsApp",
+      "short_name": "Contato",
+      "description": "Atendimento comercial para adega, cestas e reservas de eventos.",
+      "url": "https://reserva35.com.br/quer-falar-com-a-reserva-35/"
+    }
+  ]
+}

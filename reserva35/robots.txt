@@ -1,0 +1,79 @@
+User-agent: *
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Disallow: /wp-admin/
+Disallow: /?s=
+Disallow: /search/
+Allow: /wp-admin/admin-ajax.php
+
+User-agent: GPTBot
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Disallow: /wp-admin/
+Allow: /
+
+User-agent: OAI-SearchBot
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Disallow: /wp-admin/
+Allow: /
+
+User-agent: ChatGPT-User
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Disallow: /wp-admin/
+Allow: /
+
+User-agent: Google-Extended
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Disallow: /wp-admin/
+Allow: /
+
+User-agent: Google-Agent
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Disallow: /wp-admin/
+Allow: /
+
+User-agent: ClaudeBot
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Disallow: /wp-admin/
+Allow: /
+
+User-agent: Claude-SearchBot
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Disallow: /wp-admin/
+Allow: /
+
+User-agent: Claude-User
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Disallow: /wp-admin/
+Allow: /
+
+User-agent: PerplexityBot
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Disallow: /wp-admin/
+Allow: /
+
+User-agent: Perplexity-User
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Disallow: /wp-admin/
+Allow: /
+
+User-agent: Applebot-Extended
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Disallow: /wp-admin/
+Allow: /
+
+User-agent: DuckAssistBot
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Disallow: /wp-admin/
+Allow: /
+
+User-agent: Meta-ExternalFetcher
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Disallow: /wp-admin/
+Allow: /
+
+User-agent: MistralAI-User
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Disallow: /wp-admin/
+Allow: /
+
+# LLMs-Txt: https://reserva35.com.br/llms.txt
+Sitemap: https://reserva35.com.br/wp-sitemap.xml

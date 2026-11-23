@@ -1,0 +1,1052 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "LiquorStore",
+        "BarOrPub",
+        "Restaurant",
+        "EventVenue"
+      ],
+      "@id": "https://reserva35.com.br/#organization",
+      "name": "Reserva 35 Vinhos e Destilados",
+      "alternateName": [
+        "Reserva 35",
+        "Reserva Trinta e Cinco",
+        "Reserva 35 Adega"
+      ],
+      "url": "https://reserva35.com.br/",
+      "slogan": "Mais do que uma adega, uma experiência única e indescritível",
+      "description": "A Reserva 35 Vinhos e Destilados é uma adega, wine bar, restaurante de alta gastronomia e espaço de eventos localizada na Rua 1137, 35, Setor Marista, Goiânia - GO. Conta com acervo de mais de 5.000 rótulos de vinhos e destilados de 33 países, atendimento consultivo com sommeliers, consultoria gratuita para montagem e organização de adegas residenciais, happy hour com rótulos a preço de gôndola, confrarias harmonizadas, catálogo especial de Cestas de Natal 2026 e kits corporativos para Black Friday e festas de fim de ano com entrega em Goiânia, fornecimento de bebidas consignadas (70% pago / 30% consignado) e 4 salas privativas sonorizadas para confraternizações, eventos sociais e corporativos de 8 a 80 pessoas com gastronomia sazonal assinada pela Chef Lorena Calil.",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://reserva35.com.br/#logo",
+        "url": "https://reserva35.com.br/wp-content/uploads/2025/12/cropped-cropped-Logo-35.png",
+        "width": 250,
+        "height": 250
+      },
+      "image": [
+        "https://reserva35.com.br/wp-content/uploads/2025/12/cropped-3e862415-5db9-4821-a86d-b84274f10c3c-1.jpg"
+      ],
+      "telephone": "+55-62-98240-1403",
+      "priceRange": "$$$",
+      "currenciesAccepted": "BRL",
+      "paymentAccepted": "Cartão de Crédito (Visa, Mastercard, American Express, Diners Club, Discover), Cartão de Débito, Pagamento por Aproximação (NFC)",
+      "servesCuisine": [
+        "Alta Gastronomia Contemporânea",
+        "Gastronomia Sazonal Harmonizada",
+        "Finger Foods"
+      ],
+      "acceptsReservations": true,
+      "publicAccess": true,
+      "isAccessibleForFree": true,
+      "maximumAttendeeCapacity": 80,
+      "address": {
+        "@type": "PostalAddress",
+        "@id": "https://reserva35.com.br/#address",
+        "streetAddress": "Rua 1137, 35",
+        "addressLocality": "Goiânia",
+        "addressRegion": "GO",
+        "postalCode": "74180-160",
+        "addressCountry": "BR"
+      },
+      "containedInPlace": {
+        "@type": "AdministrativeArea",
+        "name": "Setor Marista",
+        "containedInPlace": {
+          "@type": "City",
+          "name": "Goiânia",
+          "containedInPlace": {
+            "@type": "State",
+            "name": "Goiás"
+          }
+        }
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": -16.6984657,
+        "longitude": -49.2576028
+      },
+      "hasMap": "https://maps.google.com/maps?cid=1900475387961883001",
+      "sameAs": [
+        "https://www.instagram.com/reserva.35/",
+        "https://www.facebook.com/reserva35oficial/",
+        "https://wa.me/5562981923535",
+        "https://maps.google.com/maps?cid=1900475387961883001"
+      ],
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "telephone": "+55-62-98192-3535",
+          "contactType": "customer service",
+          "url": "https://wa.me/5562981923535",
+          "availableLanguage": "pt-BR"
+        },
+        {
+          "@type": "ContactPoint",
+          "telephone": "+55-62-98240-1403",
+          "contactType": "reservations",
+          "availableLanguage": "pt-BR"
+        }
+      ],
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Goiânia",
+          "containedInPlace": {
+            "@type": "State",
+            "name": "Goiás"
+          }
+        },
+        {
+          "@type": "State",
+          "name": "Goiás"
+        },
+        {
+          "@type": "Country",
+          "name": "Brasil"
+        }
+      ],
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Saturday"
+          ],
+          "opens": "09:00",
+          "closes": "20:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "22:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Sunday"
+          ],
+          "opens": "09:00",
+          "closes": "15:00"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.7",
+        "bestRating": "5",
+        "worstRating": "1",
+        "reviewCount": "239"
+      },
+      "amenityFeature": [
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Entrada acessível para cadeirantes",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Estacionamento acessível para cadeirantes",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Assentos acessíveis para cadeirantes",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Banheiro acessível para cadeirantes",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Wi-Fi gratuito",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Estacionamento gratuito no local e na rua",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Sonorização ambiente nas salas privativas",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Mesa posta completa com taças de cristal",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Ambiente acolhedor LGBTQ+ e espaço seguro para pessoas trans",
+          "value": true
+        }
+      ],
+      "containsPlace": [
+        {
+          "@type": [
+            "Place",
+            "EventVenue"
+          ],
+          "@id": "https://reserva35.com.br/eventos/#sala-cabernet-sauvignon",
+          "name": "Sala Cabernet Sauvignon - Reserva 35",
+          "description": "Maior espaço privativo da Reserva 35 no Setor Marista, com capacidade para até 80 pessoas, sonorização ambiente e infraestrutura completa para casamentos, confraternizações de Natal e fim de ano, grandes celebrações e convenções corporativas. Consumação mínima ou aluguel de R$ 5.000,00.",
+          "maximumAttendeeCapacity": 80,
+          "address": {
+            "@id": "https://reserva35.com.br/#address"
+          }
+        },
+        {
+          "@type": [
+            "Place",
+            "EventVenue"
+          ],
+          "@id": "https://reserva35.com.br/eventos/#sala-chardonnay",
+          "name": "Sala Chardonnay - Reserva 35",
+          "description": "Sala privativa totalmente acessível para cadeirantes com capacidade para até 28 pessoas sentadas, prateleiras personalizáveis para exposição de marcas ou produtos e sonorização ambiente. Ideal para jantares de negócios, confraternizações corporativas, lançamentos e encontros familiares. Consumação mínima ou aluguel de R$ 3.500,00.",
+          "maximumAttendeeCapacity": 28,
+          "amenityFeature": [
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Totalmente acessível para cadeirantes",
+              "value": true
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Prateleiras personalizáveis",
+              "value": true
+            }
+          ],
+          "address": {
+            "@id": "https://reserva35.com.br/#address"
+          }
+        },
+        {
+          "@type": [
+            "Place",
+            "EventVenue"
+          ],
+          "@id": "https://reserva35.com.br/eventos/#sala-malbec",
+          "name": "Sala Malbec - Reserva 35",
+          "description": "Sala privativa versátil com capacidade para até 20 pessoas, projetada para jantares harmonizados, amigo secreto e celebrações intimistas de fim de ano. Consumação mínima ou aluguel de R$ 2.500,00.",
+          "maximumAttendeeCapacity": 20,
+          "address": {
+            "@id": "https://reserva35.com.br/#address"
+          }
+        },
+        {
+          "@type": [
+            "Place",
+            "EventVenue"
+          ],
+          "@id": "https://reserva35.com.br/eventos/#sala-nebbiolo",
+          "name": "Sala Nebbiolo - Reserva 35",
+          "description": "Espaço ultra-exclusivo com atmosfera intimista e cozinha gourmet para até 8 pessoas, ideal para reuniões de diretoria, decisões estratégicas e experiências reservadas. Consumação mínima ou aluguel de R$ 1.500,00.",
+          "maximumAttendeeCapacity": 8,
+          "address": {
+            "@id": "https://reserva35.com.br/#address"
+          }
+        }
+      ],
+      "knowsAbout": [
+        "Vinhos Nacionais e Importados de 33 Países",
+        "Destilados, Whiskies, Licores, Espumantes e Champagnes",
+        "Consultoria e Organização de Adegas Residenciais",
+        "Harmonização de Vinhos e Alta Gastronomia",
+        "Cestas de Natal 2026 e Presentes Corporativos Personalizados em Goiânia",
+        "Encomendas de Black Friday e Antecipação de Presentes de Fim de Ano",
+        "Kits para Amigo Secreto e Brindes Empresariais",
+        "Salas Privativas para Confraternizações de Natal, Eventos Corporativos e Sociais em Goiânia",
+        "Confrarias de Vinhos e Degustações Guiadas por Sommelier",
+        "Bebidas Consignadas para Casamentos, Ceias e Eventos Externos"
+      ],
+      "hasOfferCatalog": [
+        {
+          "@id": "https://reserva35.com.br/cestas-presentes/#offercatalog"
+        },
+        {
+          "@id": "https://reserva35.com.br/eventos/#offercatalog"
+        },
+        {
+          "@id": "https://reserva35.com.br/#servicos-catalog"
+        }
+      ]
+    },
+    {
+      "@type": "SaleEvent",
+      "@id": "https://reserva35.com.br/#campanha-black-friday-2026",
+      "name": "Especial Black Friday e Antecipação de Fim de Ano 2026 - Reserva 35",
+      "description": "Período estratégico para antecipação de compras de vinhos e destilados do acervo de mais de 5.000 rótulos de 33 países, encomendas corporativas e familiares do Catálogo de Cestas de Natal 2026 (a partir de R$ 99,90), personalização de bolsas em couro e reserva antecipada de salas privativas para confraternizações de fim de ano em Goiânia, além de degustação na loja com rótulos a preço de gôndola no Happy Hour.",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-30",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "url": "https://reserva35.com.br/",
+      "location": {
+        "@id": "https://reserva35.com.br/#organization"
+      },
+      "organizer": {
+        "@id": "https://reserva35.com.br/#organization"
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "url": "https://reserva35.com.br/cestas-presentes/",
+        "lowPrice": "89.90",
+        "highPrice": "2049.90",
+        "priceCurrency": "BRL",
+        "offerCount": 16,
+        "availability": "https://schema.org/InStock",
+        "validFrom": "2026-11-20",
+        "validThrough": "2026-11-30",
+        "seller": {
+          "@id": "https://reserva35.com.br/#organization"
+        }
+      }
+    },
+    {
+      "@type": "SaleEvent",
+      "@id": "https://reserva35.com.br/#campanha-natal-2026",
+      "name": "Campanha de Natal e Confraternizações de Fim de Ano 2026 - Reserva 35",
+      "description": "Campanha oficial de Natal 2026 da Reserva 35 Vinhos e Destilados em Goiânia com cestas natalinas exclusivas a partir de R$ 99,90, opções 100% personalizadas para pessoa física e jurídica, kits corporativos, estojos rígidos, bolsas em couro gravadas, entrega em toda a cidade de Goiânia e estrutura completa para confraternizações de Natal e encerramento de ano.",
+      "startDate": "2026-11-01",
+      "endDate": "2026-12-31",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "url": "https://reserva35.com.br/cestas-presentes/",
+      "location": {
+        "@id": "https://reserva35.com.br/#organization"
+      },
+      "organizer": {
+        "@id": "https://reserva35.com.br/#organization"
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "url": "https://reserva35.com.br/cestas-presentes/",
+        "lowPrice": "89.90",
+        "highPrice": "2049.90",
+        "priceCurrency": "BRL",
+        "offerCount": 16,
+        "availability": "https://schema.org/InStock",
+        "validFrom": "2026-11-01",
+        "validThrough": "2026-12-31",
+        "seller": {
+          "@id": "https://reserva35.com.br/#organization"
+        }
+      }
+    },
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://reserva35.com.br/cestas-presentes/#offercatalog",
+      "name": "Catálogo de Cestas de Natal e Presentes Reserva 35 - 2026",
+      "description": "Cestas natalinas exclusivas, kits para amigo secreto, presentes corporativos e familiares 100% personalizados para pessoa física e jurídica, ideais para antecipação na Black Friday e celebrações de Natal 2026, a partir de R$ 99,90, com entrega em toda a cidade de Goiânia. Oferta válida durante a campanha de Natal 2026. Proibida a venda para menores de 18 anos.",
+      "url": "https://reserva35.com.br/wp-content/uploads/2026/08/Catalogo-de-Cestas-Reserva-35-2.pdf",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "price": "99.90",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Cesta Chilano - Natal 2026",
+            "category": "Cestas de Natal e Presentes Corporativos",
+            "description": "Composição: Vinho Chilano (Valle Central Carménère), Bruschetta Maretti e Cesta P preta Reserva 35 com papel de seda."
+          }
+        },
+        {
+          "@type": "Offer",
+          "price": "109.90",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Cesta El Marqués de los Lagos - Natal 2026",
+            "category": "Cestas de Natal e Presentes Corporativos",
+            "description": "Composição: Vinho El Marqués de los Lagos (Chile), Mini panetone Santa Edwiges gotas de chocolate belga 80g e Cesta P preta Reserva 35 com papel de seda."
+          }
+        },
+        {
+          "@type": "Offer",
+          "price": "184.90",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Cesta La Colina - Natal 2026",
+            "category": "Cestas de Natal e Presentes Corporativos",
+            "description": "Composição: Vinho La Colina Merlot (Valle Aconcagua, Chile), Chips Plaza del Sol, Bruschetta Maretti, Mini panetone Santa Edwiges gotas de chocolate belga, Chocolate Calma e Cesta preta Reserva 35 com palha."
+          }
+        },
+        {
+          "@type": "Offer",
+          "price": "234.90",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Cesta Terras do Cartaxo - Natal 2026",
+            "category": "Cestas de Natal e Presentes Corporativos",
+            "description": "Composição: Vinho Terras do Cartaxo D.O.C. do Tejo Clássico (Portugal), Mini panetone Santa Edwiges gotas de chocolate belga, Castanhas, Chips Plaza del Sol Trufa, Bruschetta Maretti e Cesta M."
+          }
+        },
+        {
+          "@type": "Offer",
+          "price": "299.90",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Cesta Massa Italiana - Natal 2026",
+            "category": "Cestas de Natal e Presentes Corporativos",
+            "description": "Composição: Vinho branco Freixenet Pinot Grigio, Massa Maestra Linguine di Gragnano IGP 500g, Passata di pomodoro La Pastina 680g, Amarena Fabbri Cereja 230g e Cesta preta Reserva 35 com palha."
+          }
+        },
+        {
+          "@type": "Offer",
+          "price": "299.90",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Cesta Adega de Pegões - Natal 2026",
+            "category": "Cestas de Natal e Presentes Corporativos",
+            "description": "Composição: Vinho Adega de Pegões (Portugal), Arroz arbório La Pastina, Bruschetta Maretti, Bahlsen Wafer, Colle Del Tartufo trufado e Caixa preta Reserva 35 com alças."
+          }
+        },
+        {
+          "@type": "Offer",
+          "price": "439.90",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Cesta Espumante e Petiscos - Natal 2026",
+            "category": "Cestas de Natal e Presentes Corporativos",
+            "description": "Composição: Espumante Segura Viudas Brut Cava, Chips Plaza del Sol Trufa, Bruschetta Maretti, Crostini La Pastina, Mel Casa Madeira de assa-peixe, Azeite Montosco trufado, Antepasto La Pastina e Caixa preta Reserva 35 com alças."
+          }
+        },
+        {
+          "@type": "Offer",
+          "price": "464.90",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Cesta Licor 43 - Natal 2026",
+            "category": "Cestas de Natal e Presentes Corporativos",
+            "description": "Composição: Licor 43 Original, Chocolate Guylian The Original Seashells, Chips Plaza del Sol Trufa, Mini panetone Santa Edwiges gotas de chocolate belga, Milho torrado com mostarda e Caixa preta Reserva 35 com alças."
+          }
+        },
+        {
+          "@type": "Offer",
+          "price": "624.90",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Cesta Altosur - Natal 2026",
+            "category": "Cestas de Natal e Presentes Corporativos",
+            "description": "Composição: Vinho Altosur Malbec (Mendoza, Argentina), Chocolate Guylian The Original Seashells, Chips Plaza del Sol, Antepasto italiano Casa Madeira Gourmet, Geleia de morango com pimenta Casa Madeira Gourmet, Queijo Romaria Serra do Bálsamo e Cesta em couro preto com alças."
+          }
+        },
+        {
+          "@type": "Offer",
+          "price": "654.90",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Cesta Gold Label - Natal 2026",
+            "category": "Cestas de Natal e Presentes Corporativos",
+            "description": "Composição: Whisky Johnnie Walker Gold Label Reserve 750 ml, Mini panetone Santa Edwiges gotas de chocolate belga, Chips Plaza del Sol, Grissini Obra Prima Gourmet, Chocolate Calma, Snack Kalassi 100g e Cesta preta Reserva 35 com palha."
+          }
+        },
+        {
+          "@type": "Offer",
+          "price": "999.90",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Cesta Cartuxa - Natal 2026",
+            "category": "Cestas de Natal e Presentes Corporativos",
+            "description": "Composição: Vinho Cartuxa Tinto Colheita Évora 750ml (Portugal), Chocolate Guylian The Original Seashells, Duas taças Riedel 001 840ml e Cesta em couro marrom com alças."
+          }
+        },
+        {
+          "@type": "Offer",
+          "price": "1019.90",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Cesta Moët - Natal 2026",
+            "category": "Cestas de Natal e Presentes Corporativos",
+            "description": "Composição: Champagne Moët & Chandon Impérial Brut, Bombons Ferrero Rocher 12 unidades, Chips Plaza del Sol Trufa, Amarena Fabbri cereja 230g, Balas Mixed Fruit Cavendish & Harvey em lata, Biscoito Lotus Biscoff e Cesta em couro caramelo."
+          }
+        },
+        {
+          "@type": "Offer",
+          "price": "1179.90",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Estojo Vinho Banfi - Natal 2026",
+            "category": "Cestas de Natal e Presentes Corporativos",
+            "description": "Composição: Vinho Tinto Castello Banfi e Estojo preto rígido com interior em cetim."
+          }
+        },
+        {
+          "@type": "Offer",
+          "price": "2049.90",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Cesta Fondue - Natal 2026",
+            "category": "Cestas de Natal e Presentes Corporativos",
+            "description": "Composição: Espumante Freixenet Royal Brut, Vinho tinto Don Nestore, Massa Maestra Tagliolini, Molho Puttanesca La Pastina, Grissini, Fondue de chocolate São Vicente, Fondue de Queijo São Vicente, Conjunto de fondue (panela e garfos), Chips Plaza del Sol, Bruschetta, Arroz arbório La Pastina, Mini panetone Santa Edwiges gotas de chocolate belga, Bombons Ferrero Rocher 12 unidades, Kinder Bueno 2 barras, Biscoito Biscoff, Crostini, Azeite La Pastina 500ml, Geleia, Queijo Romaria Serra do Bálsamo, Balas Wild Berry em lata, Antepasto, Amarena Fabbri Cereja 600g, Biscoito Loacker de coco e Caixa preta grande Reserva 35."
+          }
+        },
+        {
+          "@type": "Offer",
+          "price": "89.90",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Bolsa de Couro 1 Garrafa - Presentes e Brindes Corporativos",
+            "category": "Presentes Personalizados e Corporativos",
+            "description": "Bolsa em couro preto com logo Reserva 35 gravado (R$ 89,90 sem personalização; R$ 109,90 com personalização)."
+          }
+        },
+        {
+          "@type": "Offer",
+          "price": "590.00",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Bolsa Croco 3 Garrafas - Presentes e Brindes Corporativos",
+            "category": "Presentes Personalizados e Corporativos",
+            "description": "Bolsa em couro preto legítimo texturizado croco para 3 garrafas, com alça, tag personalizável, divisórias internas e saca-rolhas."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://reserva35.com.br/eventos/#offercatalog",
+      "name": "Catálogo de Eventos, Confraternizações de Fim de Ano, Salas Privativas e Gastronomia Reserva 35 - 2026",
+      "description": "Formatos gastronômicos (Menu Mesa Posta, Coquetel Volante, Café da Manhã Premium, Coffee Break Executivo, Confraria Signature), pacotes de bebidas e locação/consumação mínima de salas privativas para confraternizações de Natal, eventos sociais e corporativos em Goiânia. Valores válidos para 2026 (reajuste de 10% em 2027). Duração padrão de 4 horas, confirmação mediante 50% de sinal, taxa de hospitalidade de 10% e taxa de rolha de R$ 200,00 por garrafa.",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "price": "240.00",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Menu Mesa Posta Essence (por pessoa)",
+            "description": "Cardápio sazonal assinado em 3 etapas por convidado: 1 entrada (escolha entre 2 opções), 1 prato principal (escolha entre 3 opções) e 1 sobremesa (escolha entre 2 opções ou Café Especial). Não inclui bebidas."
+          }
+        },
+        {
+          "@type": "Offer",
+          "price": "290.00",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Menu Mesa Posta Terroir (por pessoa)",
+            "description": "Cardápio sazonal assinado por convidado: degustação de 2 entradas, 1 prato principal (escolha entre 3 opções) e 1 sobremesa (escolha entre 2 opções ou Café Especial). Não inclui bebidas."
+          }
+        },
+        {
+          "@type": "Offer",
+          "price": "350.00",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Menu Degustação do Chef (por pessoa)",
+            "description": "Menu fixo sazonal desenvolvido pelo Chef: degustação de 3 entradas, 2 pratos principais e 1 sobremesa (substituível por Café Especial). Não inclui bebidas."
+          }
+        },
+        {
+          "@type": "Offer",
+          "price": "150.00",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Coquetel Volante Tanino - 4 Etapas (por pessoa)",
+            "description": "Menu personalizado de finger foods em 4 etapas para eventos curtos, dinâmicos e descontraídos."
+          }
+        },
+        {
+          "@type": "Offer",
+          "price": "180.00",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Coquetel Volante Safra - 6 Etapas (por pessoa)",
+            "description": "Menu personalizado de finger foods em 6 etapas equilibrando variedade gastronômica e sofisticação."
+          }
+        },
+        {
+          "@type": "Offer",
+          "price": "210.00",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Coquetel Volante Barrica - 8 Etapas (por pessoa)",
+            "description": "Experiência festiva completa do cardápio de finger foods em 8 etapas."
+          }
+        },
+        {
+          "@type": "Offer",
+          "price": "70.00",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Pacote de Bebidas Não Alcoólico (por pessoa)",
+            "description": "Inclui água mineral com e sem gás, suco de uva integral, Coca-Cola e Coca-Cola Zero durante o evento."
+          }
+        },
+        {
+          "@type": "Offer",
+          "price": "140.00",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Pacote de Bebidas Com Vinhos Selecionados (por pessoa)",
+            "description": "Inclui bebidas não alcoólicas, Vinho Branco Becas Chardonnay e Vinho Tinto Becas Malbec (ou similar)."
+          }
+        },
+        {
+          "@type": "Offer",
+          "price": "170.00",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Pacote de Bebidas Com Vinhos Selecionados e Cerveja Premium (por pessoa)",
+            "description": "Inclui bebidas não alcoólicas, Vinho Branco Becas Chardonnay, Vinho Tinto Becas Malbec (ou similar) e Cerveja Premium."
+          }
+        },
+        {
+          "@type": "Offer",
+          "price": "390.00",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Confraria Reserva 35 - Experiência Signature (por pessoa)",
+            "description": "Imersão sensorial conduzida por Sommelier especializado combinando gastronomia autoral em 4 etapas e sequência de taças harmonizadas de Espumante, Vinho Branco, Vinho Rosé e Vinho Tinto."
+          }
+        },
+        {
+          "@type": "Offer",
+          "price": "99.90",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Café da Manhã Premium para Eventos Diurnos (por pessoa)",
+            "description": "Serviço matinal para reuniões de negócios e lançamentos com café, sucos, pão de queijo artesanal, mini sanduíches e bolos especiais da casa."
+          }
+        },
+        {
+          "@type": "Offer",
+          "price": "49.90",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Coffee Break Executivo (por pessoa)",
+            "description": "Pausa executiva para reuniões e treinamentos com seleção de cafés e chás selecionados, pão de queijo quentinho e biscoito de queijo tradicional."
+          }
+        },
+        {
+          "@type": "Offer",
+          "price": "5000.00",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Consumação Mínima / Aluguel Sala Cabernet Sauvignon (até 80 pessoas)",
+            "description": "Valor de consumação mínima ou aluguel da Sala Cabernet Sauvignon (capacidade até 80 pessoas, duração padrão de 4 horas). O aluguel é cobrado caso o consumo não atinja o mínimo; não é permitido buffet externo."
+          }
+        },
+        {
+          "@type": "Offer",
+          "price": "3500.00",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Consumação Mínima / Aluguel Sala Chardonnay Acessível (até 28 pessoas)",
+            "description": "Valor de consumação mínima ou aluguel da Sala Chardonnay acessível para cadeirantes (capacidade até 28 pessoas, duração padrão de 4 horas). Não é permitido buffet externo."
+          }
+        },
+        {
+          "@type": "Offer",
+          "price": "2500.00",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Consumação Mínima / Aluguel Sala Malbec (até 20 pessoas)",
+            "description": "Valor de consumação mínima ou aluguel da Sala Malbec (capacidade até 20 pessoas, duração padrão de 4 horas). Não é permitido buffet externo."
+          }
+        },
+        {
+          "@type": "Offer",
+          "price": "1500.00",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Consumação Mínima / Aluguel Sala Nebbiolo (até 8 pessoas)",
+            "description": "Valor de consumação mínima ou aluguel da Sala Nebbiolo (capacidade até 8 pessoas, duração padrão de 4 horas). Não é permitido buffet externo."
+          }
+        },
+        {
+          "@type": "Offer",
+          "price": "200.00",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Taxa de Rolha (por garrafa)",
+            "description": "Taxa cobrada por garrafa de bebida levada pelo cliente para consumo em eventos na Reserva 35."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://reserva35.com.br/#servicos-catalog",
+      "name": "Serviços Especializados Reserva 35",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "price": "0.00",
+          "priceCurrency": "BRL",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Service",
+            "@id": "https://reserva35.com.br/#consultoria-adega",
+            "name": "Consultoria e Montagem de Adegas Residenciais",
+            "serviceType": "Consultoria Enológica e Organização de Adegas",
+            "provider": {
+              "@id": "https://reserva35.com.br/#organization"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Goiânia"
+            },
+            "description": "Serviço gratuito para clientes Reserva 35 (mediante consulta de condições). Inclui entrevista de perfil sensorial e orçamento, definição de vinhos do dia a dia e de guarda, entrega com tags técnicas personalizadas (safra, uva e indicação de harmonização) e organização estratégica da adega por país e relevância."
+          }
+        },
+        {
+          "@type": "Offer",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Service",
+            "@id": "https://reserva35.com.br/#eventos-consignados",
+            "name": "Fornecimento de Bebidas Consignadas para Eventos Externos, Ceias e Festas de Fim de Ano (70% / 30%)",
+            "serviceType": "Fornecimento de Vinhos e Destilados para Eventos",
+            "provider": {
+              "@id": "https://reserva35.com.br/#organization"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Goiânia"
+            },
+            "description": "Fornecimento de vinhos, espumantes, champagnes e destilados para casamentos, ceias de Natal, réveillon, aniversários e eventos corporativos externos com sistema consignado: pagamento de 70% do pedido e 30% em consignação com devolução integral das garrafas não consumidas."
+          }
+        },
+        {
+          "@type": "Offer",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Service",
+            "@id": "https://reserva35.com.br/#happy-hour",
+            "name": "Happy Hour Reserva 35 com Preço de Gôndola",
+            "serviceType": "Wine Bar e Gastronomia",
+            "provider": {
+              "@id": "https://reserva35.com.br/#organization"
+            },
+            "description": "Degustação na loja de rótulos selecionados da adega cobrados a preço de gôndola acompanhados de menu gastronômico para compartilhar (segunda a sábado das 16h às 20h; catálogo a partir das 17h)."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://reserva35.com.br/#website",
+      "url": "https://reserva35.com.br/",
+      "name": "Reserva 35",
+      "inLanguage": "pt-BR",
+      "publisher": {
+        "@id": "https://reserva35.com.br/#organization"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://reserva35.com.br/#webpage",
+      "url": "https://reserva35.com.br/",
+      "name": "Bebidas | Presentes | Eventos",
+      "description": "Adega no Setor Marista em Goiânia com mais de 5 mil rótulos de 33 países, consultoria gratuita de adegas, cestas de Natal 2026 personalizadas, oportunidades de Black Friday e salas privativas para confraternizações e eventos.",
+      "inLanguage": "pt-BR",
+      "isPartOf": {
+        "@id": "https://reserva35.com.br/#website"
+      },
+      "about": {
+        "@id": "https://reserva35.com.br/#organization"
+      },
+      "mainEntity": {
+        "@id": "https://reserva35.com.br/#faq"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://reserva35.com.br/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Onde fica a Reserva 35 Vinhos e Destilados e qual é o horário de funcionamento?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Reserva 35 Vinhos e Destilados está localizada na Rua 1137, nº 35, Setor Marista, Goiânia - GO (CEP 74180-160). Funciona de segunda, terça e sábado das 09h às 20h; quarta, quinta e sexta das 09h às 22h; e domingo das 09h às 15h. O serviço de entregas opera de segunda a sábado das 09h às 17h."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Como aproveitar a Black Friday e antecipar as compras de Natal 2026 na Reserva 35 em Goiânia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Durante a temporada de Black Friday e novembro/dezembro de 2026, a Reserva 35 oferece atendimento consultivo com sommeliers para compra antecipada de vinhos, espumantes, champagnes e destilados entre mais de 5.000 rótulos de 33 países, além do Catálogo oficial de Cestas de Natal 2026 (a partir de R$ 99,90) para encomendas corporativas e familiares, personalização de bolsas em couro e reserva antecipada das salas privativas para confraternizações de fim de ano. Na loja física, o Happy Hour diário (segunda a sábado, das 16h às 20h) permite degustar rótulos a preço de gôndola."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quais cestas de Natal 2026 e presentes corporativos a Reserva 35 oferece e quais os preços?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No Catálogo de Cestas de Natal 2026, a Reserva 35 monta cestas natalinas e presentes personalizados para pessoa física e jurídica com entrega em Goiânia: Cesta Chilano (R$ 99,90), Cesta El Marqués de los Lagos (R$ 109,90), Cesta La Colina (R$ 184,90), Cesta Terras do Cartaxo (R$ 234,90), Cesta Massa Italiana (R$ 299,90), Cesta Adega de Pegões (R$ 299,90), Cesta Espumante e Petiscos (R$ 439,90), Cesta Licor 43 (R$ 464,90), Cesta Altosur (R$ 624,90), Cesta Gold Label (R$ 654,90), Cesta Cartuxa com taças Riedel (R$ 999,90), Cesta Moët & Chandon (R$ 1.019,90), Estojo Vinho Banfi (R$ 1.179,90) e Cesta Fondue completa (R$ 2.049,90), além de bolsas em couro personalizadas para 1 garrafa (R$ 89,90 ou R$ 109,90 personalizada) e Bolsa Croco para 3 garrafas (R$ 590,00)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Onde fazer confraternização de Natal, amigo secreto ou festa de fim de ano da empresa em Goiânia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Reserva 35 dispõe de 4 salas privativas sonorizadas com mesa posta em cristal no Setor Marista ideais para confraternizações de Natal, amigo secreto e encerramento de ano empresarial: Sala Cabernet Sauvignon (até 80 pessoas, consumação mínima/aluguel de R$ 5.000,00), Sala Chardonnay totalmente acessível para cadeirantes com prateleiras personalizáveis (até 28 pessoas, consumação mínima/aluguel de R$ 3.500,00), Sala Malbec (até 20 pessoas, consumação mínima/aluguel de R$ 2.500,00) e Sala Nebbiolo com cozinha gourmet para diretoria (até 8 pessoas, consumação mínima/aluguel de R$ 1.500,00)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quantos rótulos de vinhos e destilados a Reserva 35 possui em seu catálogo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Reserva 35 conta com um acervo de mais de 5.000 rótulos entre vinhos nacionais e importados, espumantes, champagnes, whiskies e licores provenientes de 33 países, com atendimento consultivo realizado por sommeliers especializados."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Como funciona o serviço de Consultoria e Montagem de Adegas Residenciais da Reserva 35?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Consultoria de Adega é um serviço gratuito para clientes da Reserva 35 (mediante consulta de condições). A equipe realiza uma entrevista de mapeamento do perfil sensorial e orçamento, define a proporção entre vinhos para o dia a dia, vinhos de guarda e rótulos para receber convidados, entrega cada garrafa com tag técnica personalizada contendo safra, uva e harmonização, e organiza a adega estrategicamente por países e relevância."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quais são os valores dos menus gastronômicos e pacotes de bebidas para eventos na Reserva 35 em 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Para 2026, o Menu Mesa Posta sazonal assinado pela Chef Lorena Calil possui três formatos: Essence (R$ 240/pessoa), Terroir (R$ 290/pessoa) e Menu Degustação (R$ 350/pessoa). O Coquetel Volante de finger foods tem as opções Tanino 4 etapas (R$ 150/pessoa), Safra 6 etapas (R$ 180/pessoa) e Barrica 8 etapas (R$ 210/pessoa). Para eventos diurnos, há Coffee Break Executivo (R$ 49,90/pessoa) e Café da Manhã Premium (R$ 99,90/pessoa). Os pacotes de bebidas são: Não Alcoólico (R$ 70/pessoa), Com Vinhos Selecionados Becas Chardonnay e Malbec (R$ 140/pessoa) e Com Vinhos Selecionados e Cerveja Premium (R$ 170/pessoa)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "O que é a Confraria Reserva 35 e quanto custa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Confraria Reserva 35 (Experiência Signature) é uma imersão sensorial guiada por sommelier especializado que combina gastronomia autoral em 4 etapas com sequência de taças harmonizadas de Espumante, Vinho Branco, Vinho Rosé e Vinho Tinto, pelo valor de R$ 390,00 por pessoa na temporada 2026."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quais são as regras de reserva, taxa de rolha e hospitalidade para eventos na Reserva 35?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Os eventos na Reserva 35 têm duração padrão de 4 horas, confirmação garantida mediante sinal de 50%, taxa de hospitalidade de 10% (que inclui equipe de garçons, sonorização ambiente e mesa posta completa com taças de cristal) e taxa de rolha de R$ 200,00 por garrafa. As salas podem ser alugadas sem buffet, mas não é permitida a entrada de buffet externo. Para eventos em 2027, os valores sofrem reajuste de 10%."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Como funciona a consignação de bebidas da Reserva 35 para ceias de Natal, casamentos e eventos externos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No fornecimento de vinhos, espumantes, champagnes e destilados para eventos externos, ceias de Natal, réveillon, casamentos e confraternizações, o organizador paga 70% da quantidade escolhida e os outros 30% ficam em sistema consignado, permitindo a devolução integral das garrafas fechadas não consumidas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Como funciona o Happy Hour da Reserva 35?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Durante o Happy Hour da Reserva 35 (segunda a sábado a partir das 16h/17h até 20h), os clientes podem consumir rótulos selecionados da adega na própria loja pelo preço de gôndola, acompanhados de um menu gastronômico preparado para compartilhar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "A Reserva 35 possui acessibilidade, estacionamento gratuito e quais são os canais de atendimento?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sim. A Reserva 35 oferece entrada, estacionamento, assentos (incluindo a Sala Chardonnay) e banheiro acessíveis para cadeirantes, Wi-Fi gratuito e estacionamento gratuito no local e na rua. O atendimento comercial, encomendas de Natal e pedidos de cestas são realizados pelo WhatsApp (62) 98192-3535 e o atendimento de reservas pelo telefone (62) 98240-1403 ou pelo site https://reserva35.com.br/."
+          }
+        }
+      ]
+    }
+  ]
+}

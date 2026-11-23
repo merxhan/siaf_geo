@@ -1,0 +1,133 @@
+User-agent: *
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+Disallow: /keystatic/
+Disallow: /api/
+
+User-agent: OAI-SearchBot
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+Disallow: /keystatic/
+Disallow: /api/
+
+User-agent: ChatGPT-User
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+Disallow: /keystatic/
+Disallow: /api/
+
+User-agent: Claude-SearchBot
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+Disallow: /keystatic/
+Disallow: /api/
+
+User-agent: Claude-User
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+Disallow: /keystatic/
+Disallow: /api/
+
+User-agent: PerplexityBot
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+Disallow: /keystatic/
+Disallow: /api/
+
+User-agent: Perplexity-User
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+Disallow: /keystatic/
+Disallow: /api/
+
+User-agent: GoogleOther
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+Disallow: /keystatic/
+Disallow: /api/
+
+User-agent: Google-Agent
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+Disallow: /keystatic/
+Disallow: /api/
+
+User-agent: DuckAssistBot
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+Disallow: /keystatic/
+Disallow: /api/
+
+User-agent: Meta-ExternalFetcher
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+Disallow: /keystatic/
+Disallow: /api/
+
+User-agent: MistralAI-User
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+Disallow: /keystatic/
+Disallow: /api/
+
+User-agent: GPTBot
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+Disallow: /keystatic/
+Disallow: /api/
+
+User-agent: ClaudeBot
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+Disallow: /keystatic/
+Disallow: /api/
+
+User-agent: anthropic-ai
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+Disallow: /keystatic/
+Disallow: /api/
+
+User-agent: Google-Extended
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+Disallow: /keystatic/
+Disallow: /api/
+
+User-agent: Applebot-Extended
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+Disallow: /keystatic/
+Disallow: /api/
+
+User-agent: Meta-ExternalAgent
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+Disallow: /keystatic/
+Disallow: /api/
+
+User-agent: Amazonbot
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+Disallow: /keystatic/
+Disallow: /api/
+
+User-agent: Bytespider
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+Disallow: /keystatic/
+Disallow: /api/
+
+User-agent: cohere-ai
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+Disallow: /keystatic/
+Disallow: /api/
+
+User-agent: CCBot
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+Disallow: /keystatic/
+Disallow: /api/
+
+Sitemap: https://jacobfacuri.com.br/sitemap.xml

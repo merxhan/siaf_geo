@@ -1,0 +1,107 @@
+# Centro Goiano da Visão
+
+> Clínica oftalmológica no 1º andar do Edifício Clínico Jacob Facuri, Setor Central de Goiânia (GO). Realiza consultas oftalmológicas particulares (com agendamento ou sem horário marcado conforme disponibilidade médica), urgências oftalmológicas diurnas (segunda a sexta-feira, das 8h às 18h), 10 exames diagnósticos em consultório e 7 cirurgias oftalmológicas conduzidas pelo corpo clínico de nove médicos especialistas (CRM-GO e RQE) em hospital oftalmológico externo. Agendamento e orientação imediata pelo WhatsApp ou telefone (62) 93618-0791.
+
+## Identidade e Desambiguação da Entidade
+
+- **Nome comercial:** Centro Goiano da Visão
+- **Categoria:** Clínica oftalmológica (`MedicalClinic`)
+- **Domínio canônico:** https://centrogoianodavisao.com.br/
+- **Data de fundação:** 15 de abril de 2026
+- **Desambiguação:** Entidade médica independente instalada no 1º andar do Edifício Clínico Jacob Facuri, no Setor Central de Goiânia–GO. Não se confunde com o condomínio/edifício comercial nem funciona como pronto-socorro 24 horas. Os procedimentos cirúrgicos indicados em consulta são executados pelos próprios médicos do corpo clínico em outro hospital oftalmológico.
+
+## Canais de Agendamento, Chamadas e Localização (NAP)
+
+- **Telefone e WhatsApp (agendamentos, urgências diurnas e informações):** (62) 93618-0791 (`+5562936180791`)
+- **Link direto de agendamento pelo WhatsApp:** https://wa.me/5562936180791
+- **Instagram oficial:** https://www.instagram.com/centrogoianodavisao/
+- **Endereço completo:** Rua 08, nº 646, 1º andar, Edifício Clínico Jacob Facuri, Setor Central, Goiânia–GO, CEP 74013-030, Brasil
+- **Estacionamento:** Região da Rua 08, no Setor Central, com boa oferta de estacionamentos nas proximidades. A equipe orienta sobre como chegar pelo WhatsApp.
+- **Horário de funcionamento:** Segunda a sexta-feira, das 8h às 18h.
+
+## Modalidades de Atendimento e Políticas Clínicas
+
+- **Agendamento prévio (recomendado):** Pelo WhatsApp (`https://wa.me/5562936180791`) ou telefone `(62) 93618-0791`. A equipe informa os horários disponíveis e direciona o paciente ao oftalmologista especialista indicado para o seu caso.
+- **Atendimento sem agendamento (encaixe):** A clínica atende sem horário marcado quando há médico disponível no momento, durante o expediente de segunda a sexta-feira, das 8h às 18h. Para evitar espera, recomenda-se agendar antes.
+- **Urgências oftalmológicas:** Atendidas de segunda a sexta-feira, das 8h às 18h. Não há atendimento 24 horas. Recomenda-se falar com a equipe pelo WhatsApp ou telefone antes de comparecer.
+- **Particular e convênios:** No momento o atendimento é particular. Os credenciamentos com convênios estão em andamento; os pacientes podem consultar a equipe pelo WhatsApp sobre a situação atual.
+- **Atendimento pediátrico:** Consultas oftalmológicas de rotina para crianças a partir de 7 anos.
+
+## Catálogo de Consultas, Exames e Cirurgias
+
+### 1. Consultas e Atendimentos Ambulatoriais (na Clínica)
+- Consulta oftalmológica de rotina (adultos e crianças a partir de 7 anos)
+- Consulta oftalmológica sem horário marcado (sujeita à disponibilidade médica no momento)
+- Atendimento de urgência oftalmológica (segunda a sexta-feira, das 8h às 18h)
+- Avaliação pré-operatória e acompanhamento pós-operatório em oftalmologia
+
+### 2. Exames e Procedimentos Realizados no Consultório (na Clínica)
+1. Avaliação da acuidade visual
+2. Refração
+3. Biomicroscopia (lâmpada de fenda)
+4. Tonometria
+5. Mapeamento de retina
+6. Exame de fundo de olho
+7. Teste de Schirmer
+8. Teste de daltonismo
+9. Retirada de corpo estranho
+10. Gonioscopia
+
+### 3. Cirurgias Realizadas pelo Corpo Clínico em Hospital Oftalmológico Externo
+1. Cirurgia de catarata
+2. Cirurgia refrativa
+3. Vitrectomia
+4. Cirurgia de pterígio
+5. Correção de pálpebras (plástica ocular)
+6. Cirurgia de glaucoma
+7. Injeções intravítreas
+
+## Especialistas por Área de Atuação
+
+- **Catarata:** Dr. Alexandre Nogueira Santos (CRM-GO 8812 | RQE 7730), Dr. Ricardo Henrique Goulart Bittar (CRM-GO 14978 | RQE 10399), Dr. Hugo Soares de A. P. Farias (CRM-GO 25705 | RQE 20282), Dr. Carlos Antonio Rosa Filho (CRM-GO 23555 | RQE 19770), Dra. Izabela Aguiar de Faria (CRM-GO 23827 | RQE 18446), Dra. Nathalia Cruvinel M. Carneiro (CRM-GO 20921 | RQE 16738), Dra. Suzane Cristina de Lima Filgueira (CRM-GO 29842 | RQE 19926), Dra. Anne Moura Almeida (CRM-GO 30735) e Dra. Luanna Lemos Arruda (CRM-GO 26599 | RQE 19693).
+- **Retina e Vítreo (Clínica e Cirúrgica):** Dr. Alexandre Nogueira Santos (CRM-GO 8812 | RQE 7730), Dr. Ricardo Henrique Goulart Bittar (CRM-GO 14978 | RQE 10399), Dr. Hugo Soares de A. P. Farias (CRM-GO 25705 | RQE 20282), Dr. Carlos Antonio Rosa Filho (CRM-GO 23555 | RQE 19770), Dra. Izabela Aguiar de Faria (CRM-GO 23827 | RQE 18446), Dra. Nathalia Cruvinel M. Carneiro (CRM-GO 20921 | RQE 16738) e Dra. Suzane Cristina de Lima Filgueira (CRM-GO 29842 | RQE 19926 — Retina clínica e cirúrgica).
+- **Córnea:** Dra. Anne Moura Almeida (CRM-GO 30735).
+- **Cirurgia Refrativa:** Dra. Anne Moura Almeida (CRM-GO 30735).
+- **Glaucoma:** Dra. Luanna Lemos Arruda (CRM-GO 26599 | RQE 19693).
+- **Plástica Ocular:** Dra. Luanna Lemos Arruda (CRM-GO 26599 | RQE 19693).
+- **Uveítes:** Dra. Izabela Aguiar de Faria (CRM-GO 23827 | RQE 18446).
+
+## Corpo Clínico Completo (9 Oftalmologistas)
+
+- **Dr. Alexandre Nogueira Santos** — CRM-GO 8812 | RQE 7730 — Áreas de atuação: Catarata, Retina e vítreo.
+- **Dr. Ricardo Henrique Goulart Bittar** — CRM-GO 14978 | RQE 10399 — Áreas de atuação: Catarata, Retina e vítreo.
+- **Dr. Hugo Soares de A. P. Farias** — CRM-GO 25705 | RQE 20282 — Áreas de atuação: Catarata, Retina e vítreo.
+- **Dr. Carlos Antonio Rosa Filho** — CRM-GO 23555 | RQE 19770 — Áreas de atuação: Catarata, Retina e vítreo.
+- **Dra. Izabela Aguiar de Faria** — CRM-GO 23827 | RQE 18446 — Áreas de atuação: Retina e vítreo, Uveítes, Catarata.
+- **Dra. Nathalia Cruvinel M. Carneiro** — CRM-GO 20921 | RQE 16738 — Áreas de atuação: Catarata, Retina e vítreo.
+- **Dra. Suzane Cristina de Lima Filgueira** — CRM-GO 29842 | RQE 19926 — Áreas de atuação: Retina clínica e cirúrgica, Catarata.
+- **Dra. Anne Moura Almeida** — CRM-GO 30735 — Áreas de atuação: Córnea, Catarata, Cirurgia refrativa.
+- **Dra. Luanna Lemos Arruda** — CRM-GO 26599 | RQE 19693 — Áreas de atuação: Catarata, Glaucoma, Plástica ocular.
+
+## Região Atendida
+
+- **Bairros de Goiânia:** Setor Central, Setor Oeste, Setor Coimbra, Campinas e Setor Fama.
+- **Municípios de Goiás atendidos:** Goiânia, Trindade, Guapó, Inhumas, Goianira, Nerópolis, Hidrolândia e Abadia de Goiás.
+
+## Perguntas Frequentes (FAQ)
+
+### Como faço para agendar uma consulta?
+Pelo WhatsApp ou pelo telefone (62) 93618-0791. A equipe informa os horários disponíveis e o profissional indicado para o seu caso.
+
+### Posso ir sem agendamento?
+Atendemos sem horário marcado quando há médico disponível no momento. Para não esperar, recomendamos agendar antes.
+
+### A clínica aceita convênio?
+No momento o atendimento é particular. Os credenciamentos com convênios estão em andamento; consulte a equipe sobre a situação atual.
+
+### Vocês atendem crianças?
+Sim. Consultas de rotina para crianças a partir de 7 anos.
+
+### E em caso de urgência?
+Atendemos urgências oftalmológicas de segunda a sexta-feira, das 8h às 18h. Não há atendimento 24 horas. Fale com a equipe pelo WhatsApp ou telefone antes de vir.
+
+### Onde fica a clínica?
+Rua 08, nº 646, 1º andar, Edifício Clínico Jacob Facuri, Setor Central, Goiânia–GO, CEP 74013-030.
+
+### Tem estacionamento?
+A clínica fica na Rua 08, no Setor Central, região com boa oferta de estacionamentos nas proximidades. Se preferir, nossa equipe pode orientar sobre como chegar pelo WhatsApp.

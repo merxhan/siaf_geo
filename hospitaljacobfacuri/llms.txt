@@ -1,0 +1,105 @@
+# Hospital Jacob Facuri e Centro Clínico
+
+> Complexo hospitalar e ambulatorial privado no centro de Goiânia (GO), fundado em 1957, com 249 leitos, cerca de 13.500 m² de área construída e acreditação ONA nível 3 (Acreditado com Excelência). Atende pacientes particulares e 18 convênios em pronto-socorro 24 horas, centro cirúrgico com sete salas (cirurgias de média e alta complexidade), UTIs adulto e neonatal, hemodinâmica 24 horas, exames diagnósticos e de imagem, e Centro Clínico com mais de 30 consultórios e 134 especialistas em 24 especialidades.
+
+- Razão social: Hospital e Maternidade São Marcos Ltda
+- CNPJ: 01.554.104/0001-00 | CNES: 2337800 | CREMEGO: CRM nº 107
+- Diretor técnico e diretor clínico: Ibrahim Jacob Facuri — CRM-GO 4506
+- Endereço: Rua 08, nº 657, Centro, Goiânia – GO, CEP 74013-030
+- WhatsApp (agendamento de consultas, exames e atendimento): +55 (62) 99902-2623
+- Telefones (central de atendimento e chamadas diretas): (62) 3621-1919 e (62) 3621-1900
+- E-mails: consultas@jacobfacuri.com.br | contato@jacobfacuri.com.br | ouvidoria@jacobfacuri.com.br
+- Funcionamento: pronto-socorro 24 horas todos os dias; Centro Clínico, agendamentos e central telefônica de segunda a sexta-feira, das 8h às 18h
+- Localização e rotas (Google Maps): https://maps.app.goo.gl/DcSyeCZZJVirfKrGA
+- Corpus completo (lista nominal dos 134 especialistas, cirurgias, exames, convênios e FAQ): https://jacobfacuri.com.br/llms-full.txt
+- Política para IA: indexação em busca, contexto em respostas e treinamento de modelos permitidos (consulte /robots.txt)
+- Aviso médico: conteúdo estritamente informativo; não substitui consulta, diagnóstico ou tratamento médico presencial
+
+## Agendamento imediato, chamadas e urgência
+
+- [Marcar consulta ou exame pelo WhatsApp](https://api.whatsapp.com/send?phone=5562999022623&text=Ol%C3%A1%2C%20gostaria%20de%20marcar%20uma%20consulta.): Canal direto da central de atendimento (+55 62 99902-2623, segunda a sexta, das 8h às 18h) para agendar consultas médicas, exames diagnósticos e confirmar cobertura de convênios ou atendimento particular.
+- [Telefones e canais por setor](https://jacobfacuri.com.br/contato/): Central telefônica ((62) 3621-1919 e (62) 3621-1900) e contatos diretos para consultas, orçamentos de cirurgias, regulação, laboratório, diagnóstico por imagem, hemodinâmica, ouvidoria e RH.
+- [Pronto-socorro 24h](https://jacobfacuri.com.br/pronto-socorro-24h/): Emergência aberta 24 horas por dia, todos os dias, em mais de 1.000 m² (dois pavimentos), com quatro consultórios médicos, sala vermelha com leitos de estabilização e sala de gesso.
+- [Convênios e planos atendidos](https://jacobfacuri.com.br/convenios/): Atendimento particular e para 18 operadoras (Affego, Assefaz, Blue Saúde, Caesan Unimed, Cassi, Fundação Itaú, Fusex, Geap, Imas, Ipasgo, Mais Saúde, Porto Saúde, Postal Saúde, Saúde Caixa, Select, Unimed, Vitallis e Vivacom) em consultas, exames, internações e cirurgias.
+
+## Consultas ambulatoriais e corpo clínico
+
+- [Centro clínico e consultórios](https://jacobfacuri.com.br/centro-clinico-consultorios/): Mais de 30 consultórios distribuídos em seis andares para consultas eletivas em 24 especialidades, com agendamento pelo WhatsApp +55 (62) 99902-2623 ou e-mail consultas@jacobfacuri.com.br.
+- [Corpo clínico](https://jacobfacuri.com.br/corpo-clinico/): Diretório pesquisável com 134 profissionais cadastrados e seus respectivos registros CRM/CRO e RQE (lista nominal completa em https://jacobfacuri.com.br/llms-full.txt).
+- [Especialidades médicas e odontológicas](https://jacobfacuri.com.br/especialidades/): Visão geral das 24 especialidades disponíveis para consultas, acompanhamento clínico e procedimentos cirúrgicos.
+
+## Cirurgias, exames e unidades de alta complexidade
+
+- [Centro cirúrgico](https://jacobfacuri.com.br/centro-cirurgico/): Sete salas cirúrgicas amplas com arco cirúrgico GE, torres de vídeo Stryker, equipe de anestesia, exames e retaguarda imediata das UTIs 24h para cirurgia geral, bariátrica, plástica, torácica, vascular, aparelho digestivo, cardíaca, neurológica, oncológica e buco-maxilo-facial.
+- [Exames de imagem (Radiologia Diagnóstica Digital)](https://jacobfacuri.com.br/radiologia-diagnostica-digital/): Agendamento e realização de ressonância magnética 1.5T, tomografia computadorizada multislice, ultrassom com Doppler e raio-X digital no próprio complexo com a Clínica da Imagem (acreditada PADI e certificada CBR).
+- [Centro diagnóstico](https://jacobfacuri.com.br/centro-diagnostico/): Exames de endoscopia digestiva, colonoscopia, cardiologia e área vascular para pacientes eletivos, internados e emergência, agendados pela central de atendimento.
+- [Hemodinâmica 24h](https://jacobfacuri.com.br/hemodinamica-e-cardiologia/): Procedimentos diagnósticos e terapêuticos intervencionistas em cardiologia, cirurgia vascular e neurologia com funcionamento 24 horas.
+- [Câncer Center](https://jacobfacuri.com.br/cancer-center/): Serviço oncológico integrado em parceria com o Ingoh, reunindo consulta oncológica, rastreio, diagnóstico, exames, tratamento clínico/cirúrgico e cuidados paliativos.
+- [Oftalmologia — Centro Goiano da Visão](https://jacobfacuri.com.br/oftalmologia/): Consultas, exames e procedimentos oftalmológicos integrados ao Hospital Jacob Facuri.
+- [UTIs adulto](https://jacobfacuri.com.br/utis-adulto/): 51 leitos de terapia intensiva adulta em três alas, incluindo 13 leitos de UTI humanizada com equipe multidisciplinar 24h.
+- [UTI neonatal](https://jacobfacuri.com.br/uti-neonatal/): Unidade com 30 leitos e equipe médica e multidisciplinar dedicada a cuidados intensivos neonatais.
+- [Apartamentos e enfermarias](https://jacobfacuri.com.br/apartamentos/): Acomodações para internação clínica e cirúrgica com 54 leitos de apartamento e 15 leitos de enfermaria.
+
+## Centros especializados (condições e tratamentos)
+
+- [Coluna](https://jacobfacuri.com.br/coluna/): Avaliação clínica, diagnóstico por imagem e tratamento clínico ou cirúrgico de patologias da coluna vertebral em Goiânia.
+- [Ortopedia e traumatologia](https://jacobfacuri.com.br/ortopedia/): Consultas, exames e cirurgias ortopédicas e traumatológicas para lesões osteomusculares e articulares.
+- [Urologia](https://jacobfacuri.com.br/urologia/): Diagnóstico e tratamento clínico e cirúrgico de doenças urológicas e do trato urinário.
+- [Impotência sexual](https://jacobfacuri.com.br/impotencia-sexual/): Avaliação urológica especializada e opções terapêuticas para disfunção erétil e saúde sexual masculina.
+- [Saúde gastrointestinal](https://jacobfacuri.com.br/saude-gastrointestinal/): Consultas, endoscopia, colonoscopia e cirurgias do aparelho digestivo.
+
+## Especialidades do corpo clínico (24 áreas)
+
+- [Angiologia / Cirurgia Vascular](https://jacobfacuri.com.br/corpo-clinico/angiologia-cirurgia-vascular/): 6 especialistas cadastrados.
+- [Buco-maxilo-facial](https://jacobfacuri.com.br/corpo-clinico/buco-maxilo-facial/): 4 cirurgiões-dentistas cadastrados.
+- [Cardiologia (cirúrgica, clínica e intervencionista)](https://jacobfacuri.com.br/corpo-clinico/cardiologia/): 7 especialistas cadastrados.
+- [Cirurgia bariátrica](https://jacobfacuri.com.br/corpo-clinico/cirurgia-bariatrica/): 3 especialistas cadastrados.
+- [Cirurgia do aparelho digestivo](https://jacobfacuri.com.br/corpo-clinico/cirurgia-do-aparelho-digestivo/): 1 especialista cadastrado.
+- [Cirurgia geral](https://jacobfacuri.com.br/corpo-clinico/cirurgia-geral/): 9 especialistas cadastrados.
+- [Cirurgia plástica](https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/): 18 especialistas cadastrados.
+- [Cirurgia torácica](https://jacobfacuri.com.br/corpo-clinico/cirurgia-toracica/): 1 especialista cadastrado.
+- [Cirurgia vascular](https://jacobfacuri.com.br/corpo-clinico/cirurgia-vascular/): 1 especialista cadastrado.
+- [Clínica médica](https://jacobfacuri.com.br/corpo-clinico/clinica-medica/): 39 médicos cadastrados.
+- [Coloproctologia / Cirurgia Geral](https://jacobfacuri.com.br/corpo-clinico/coloproctologia-cirurgia-geral/): 1 especialista cadastrado.
+- [Gastroenterologia](https://jacobfacuri.com.br/corpo-clinico/gastroenterologia/): 2 especialistas cadastrados.
+- [Ginecologia e obstetrícia](https://jacobfacuri.com.br/corpo-clinico/ginecologia-e-obstetricia/): 4 especialistas cadastradas e cadastrados.
+- [Infectologia](https://jacobfacuri.com.br/corpo-clinico/infectologia/): 1 especialista cadastrada.
+- [Medicina de família](https://jacobfacuri.com.br/corpo-clinico/medicina-de-familia/): 2 especialistas cadastrados.
+- [Neurologia (clínica e cirúrgica)](https://jacobfacuri.com.br/corpo-clinico/neurologia-clinica-e-cirurgica/): 5 especialistas cadastrados.
+- [Nutrologia e medicina funcional integrativa](https://jacobfacuri.com.br/corpo-clinico/nutrologia/): 1 especialista cadastrado.
+- [Oncologia (clínica e cirúrgica)](https://jacobfacuri.com.br/corpo-clinico/oncologia/): 2 especialistas cadastrados.
+- [Ortopedia e traumatologia](https://jacobfacuri.com.br/corpo-clinico/ortopedia-e-traumatologia/): 6 especialistas cadastrados.
+- [Otorrinolaringologia](https://jacobfacuri.com.br/corpo-clinico/otorrinolaringologia/): 6 especialistas cadastrados.
+- [Pediatria](https://jacobfacuri.com.br/corpo-clinico/pediatria/): 11 especialistas cadastrados.
+- [Pneumologia](https://jacobfacuri.com.br/corpo-clinico/pneumologia/): 1 especialista cadastrado.
+- [Radiologia](https://jacobfacuri.com.br/corpo-clinico/radiologia/): 1 especialista cadastrado.
+- [Urologia](https://jacobfacuri.com.br/corpo-clinico/urologia/): 2 especialistas cadastrados.
+
+## Portal do paciente e governança
+
+- [Perguntas frequentes](https://jacobfacuri.com.br/perguntas-frequentes-faq/): Respostas sobre marcação de consultas, pronto-socorro, exames, internação, visitas e convênios.
+- [Portal do paciente](https://jacobfacuri.com.br/portal-do-paciente/): Central de orientações para pacientes internados, acompanhantes e visitantes.
+- [Horários de visitas](https://jacobfacuri.com.br/portal-do-paciente/horarios-de-visitas/): Horários e normas de visitação em apartamentos, enfermarias, UTIs adulto e UTI neonatal.
+- [Regras para acompanhantes](https://jacobfacuri.com.br/portal-do-paciente/regras-para-acompanhantes/): Critérios de permanência e horários de troca para acompanhantes em apartamentos e enfermarias.
+- [Direitos e deveres do paciente](https://jacobfacuri.com.br/portal-do-paciente/direitos-e-deveres-do-paciente/): Direitos e responsabilidades do paciente conforme a legislação brasileira.
+- [Manual do paciente](https://jacobfacuri.com.br/manual-do-paciente/): Sete cadernos em PDF sobre internação, visitantes, acompanhantes, prevenção de infecções, emergência, UTI neonatal e exames.
+- [Ouvidoria](https://jacobfacuri.com.br/ouvidoria/): Canal direto com a direção para solicitações, elogios, sugestões, reclamações ou denúncias.
+- [Acreditação e qualificações](https://jacobfacuri.com.br/acreditacao-e-qualificacoes/): Certificação ONA nível 3 — Acreditado com Excelência pela Organização Nacional de Acreditação.
+- [Alerta sobre fraudes e golpes](https://jacobfacuri.com.br/alerta-comunicado-sobre-fraudes-e-golpes/): Comunicado oficial informando que o hospital não solicita transferências bancárias urgentes por telefone ou mensagem em nome de médicos.
+
+## Optional
+
+- [História](https://jacobfacuri.com.br/historia/): Trajetória institucional desde a fundação em 1957, reconstrução entre 2004 e 2008 e expansões em 2020 e 2023.
+- [Missão, visão e valores](https://jacobfacuri.com.br/missao-visao-e-valores/): Diretrizes institucionais e oito valores organizacionais.
+- [Estrutura hospitalar](https://jacobfacuri.com.br/estrutura-hospitalar/): Detalhamento dos 13.500 m² construídos em terreno de 4.000 m², 249 leitos e sete salas cirúrgicas.
+- [Estrutura organizacional](https://jacobfacuri.com.br/estrutura-organizacional/): Direções clínica e técnica, controle de infecção, UTI, hemodinâmica, administração, jurídico e enfermagem.
+- [Educação e formação](https://jacobfacuri.com.br/educacao-e-formacao/): Centro formador certificado pela American Heart Association (AHA), residência médica credenciada à AMIB e pós-graduação em emergência e terapia intensiva.
+- [Para médicos](https://jacobfacuri.com.br/para-medicos/): Programa de Relacionamento Médico (desde 2022) e canais dedicados para médicos parceiros.
+- [Para convênios](https://jacobfacuri.com.br/para-convenios/): Informações institucionais para operadoras de saúde e contratação de modelos assistenciais.
+- [Para pacientes](https://jacobfacuri.com.br/para-pacientes/): Visão geral das acomodações, suporte hospitalar e protocolos assistenciais.
+- [Fotos e vídeos](https://jacobfacuri.com.br/fotos-e-videos/): Galeria fotográfica por setor e vídeos institucionais.
+- [Jornal HJF](https://jacobfacuri.com.br/jornal-hjf/): Publicações institucionais HJF na Mídia em PDF (feed RSS disponível em https://jacobfacuri.com.br/feed.xml).
+- [Jornal HJF — Edição 2026](https://jacobfacuri.com.br/jornal-hjf/edicao-2026/): Edições do Jornal HJF publicadas em 2026.
+- [Jornal HJF — Edição 2025](https://jacobfacuri.com.br/jornal-hjf/edicao-2025/): Edições do Jornal HJF publicadas em 2025.
+- [Jornal HJF — Edição 2024](https://jacobfacuri.com.br/jornal-hjf/edicao-2024/): Edições do Jornal HJF publicadas em 2024.
+- [Política de privacidade](https://jacobfacuri.com.br/politica-de-privacidade/): Regras de coleta, tratamento, compartilhamento de dados e direitos dos titulares conforme a LGPD.

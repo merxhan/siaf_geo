@@ -1,0 +1,127 @@
+User-agent: *
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /?s=
+Disallow: /search/
+
+User-agent: OAI-SearchBot
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+Disallow: /wp-admin/
+Disallow: /?s=
+Disallow: /search/
+
+User-agent: ChatGPT-User
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+Disallow: /wp-admin/
+Disallow: /?s=
+Disallow: /search/
+
+User-agent: Claude-SearchBot
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+Disallow: /wp-admin/
+Disallow: /?s=
+Disallow: /search/
+
+User-agent: Claude-User
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+Disallow: /wp-admin/
+Disallow: /?s=
+Disallow: /search/
+
+User-agent: PerplexityBot
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+Disallow: /wp-admin/
+Disallow: /?s=
+Disallow: /search/
+
+User-agent: Perplexity-User
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+Disallow: /wp-admin/
+Disallow: /?s=
+Disallow: /search/
+
+User-agent: GoogleOther
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+Disallow: /wp-admin/
+Disallow: /?s=
+Disallow: /search/
+
+User-agent: Google-Agent
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+Disallow: /wp-admin/
+Disallow: /?s=
+Disallow: /search/
+
+User-agent: DuckAssistBot
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+Disallow: /wp-admin/
+Disallow: /?s=
+Disallow: /search/
+
+User-agent: Meta-ExternalFetcher
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+Disallow: /wp-admin/
+Disallow: /?s=
+Disallow: /search/
+
+User-agent: MistralAI-User
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+Disallow: /wp-admin/
+Disallow: /?s=
+Disallow: /search/
+
+User-agent: GPTBot
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Disallow: /
+
+User-agent: ClaudeBot
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Disallow: /
+
+User-agent: anthropic-ai
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Disallow: /
+
+User-agent: Google-Extended
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Disallow: /
+
+User-agent: Applebot-Extended
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Disallow: /
+
+User-agent: CCBot
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Disallow: /
+
+User-agent: Bytespider
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Disallow: /
+
+User-agent: cohere-ai
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Disallow: /
+
+User-agent: Meta-ExternalAgent
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Disallow: /
+
+User-agent: Amazonbot
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Disallow: /
+
+Sitemap: https://consciente.com.br/sitemap.xml
+Sitemap: https://consciente.com.br/sitemap_index.xml

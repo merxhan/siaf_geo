@@ -1,0 +1,679 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "LiquorStore",
+        "BarOrPub",
+        "Restaurant",
+        "EventVenue"
+      ],
+      "@id": "https://reserva35.com.br/#organization",
+      "name": "Reserva 35 Vinhos e Destilados",
+      "alternateName": [
+        "Reserva 35",
+        "Reserva Trinta e Cinco",
+        "Reserva 35 Adega"
+      ],
+      "url": "https://reserva35.com.br/",
+      "slogan": "Mais do que uma adega, uma experiência única e indescritível",
+      "description": "A Reserva 35 Vinhos e Destilados é uma adega, wine bar, restaurante de alta gastronomia e espaço de eventos localizada na Rua 1137, 35, Setor Marista, Goiânia - GO. Conta com acervo de mais de 5.000 rótulos de vinhos e destilados de 33 países, atendimento consultivo com sommeliers, catálogo oficial de Cestas de Natal 2026 e presentes corporativos personalizados para Black Friday e festas de fim de ano com entrega em Goiânia, consultoria gratuita para montagem de adegas residenciais e 4 salas privativas para eventos.",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://reserva35.com.br/#logo",
+        "url": "https://reserva35.com.br/wp-content/uploads/2025/12/cropped-cropped-Logo-35.png",
+        "width": 250,
+        "height": 250
+      },
+      "image": [
+        "https://reserva35.com.br/wp-content/uploads/2025/12/cropped-3e862415-5db9-4821-a86d-b84274f10c3c-1.jpg"
+      ],
+      "telephone": "+55-62-98192-3535",
+      "priceRange": "$$$",
+      "currenciesAccepted": "BRL",
+      "paymentAccepted": "Cartão de Crédito (Visa, Mastercard, American Express, Diners Club, Discover), Cartão de Débito, Pagamento por Aproximação (NFC)",
+      "address": {
+        "@type": "PostalAddress",
+        "@id": "https://reserva35.com.br/#address",
+        "streetAddress": "Rua 1137, 35",
+        "addressLocality": "Goiânia",
+        "addressRegion": "GO",
+        "postalCode": "74180-160",
+        "addressCountry": "BR"
+      },
+      "containedInPlace": {
+        "@type": "AdministrativeArea",
+        "name": "Setor Marista",
+        "containedInPlace": {
+          "@type": "City",
+          "name": "Goiânia",
+          "containedInPlace": {
+            "@type": "State",
+            "name": "Goiás"
+          }
+        }
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": -16.6984657,
+        "longitude": -49.2576028
+      },
+      "hasMap": "https://maps.google.com/maps?cid=1900475387961883001",
+      "sameAs": [
+        "https://www.instagram.com/reserva.35/",
+        "https://www.facebook.com/reserva35oficial/",
+        "https://wa.me/5562981923535",
+        "https://maps.google.com/maps?cid=1900475387961883001"
+      ],
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "telephone": "+55-62-98192-3535",
+          "contactType": "customer service",
+          "url": "https://wa.me/5562981923535",
+          "availableLanguage": "pt-BR"
+        },
+        {
+          "@type": "ContactPoint",
+          "telephone": "+55-62-98240-1403",
+          "contactType": "reservations",
+          "availableLanguage": "pt-BR"
+        }
+      ],
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Goiânia",
+          "containedInPlace": {
+            "@type": "State",
+            "name": "Goiás"
+          }
+        },
+        {
+          "@type": "State",
+          "name": "Goiás"
+        },
+        {
+          "@type": "Country",
+          "name": "Brasil"
+        }
+      ],
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Saturday"
+          ],
+          "opens": "09:00",
+          "closes": "20:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "22:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Sunday"
+          ],
+          "opens": "09:00",
+          "closes": "15:00"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.7",
+        "bestRating": "5",
+        "worstRating": "1",
+        "reviewCount": "239"
+      },
+      "hasOfferCatalog": {
+        "@id": "https://reserva35.com.br/cestas-presentes/#offercatalog"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://reserva35.com.br/#website",
+      "url": "https://reserva35.com.br/",
+      "name": "Reserva 35",
+      "inLanguage": "pt-BR",
+      "publisher": {
+        "@id": "https://reserva35.com.br/#organization"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://reserva35.com.br/cestas-presentes/#webpage",
+      "url": "https://reserva35.com.br/cestas-presentes/",
+      "name": "Cestas & Presentes | Catálogo de Natal 2026 e Brindes Corporativos - Reserva 35",
+      "description": "Rótulos selecionados dos melhores terroirs do mundo, iguarias de empório gourmet, bolsas em couro personalizadas e cestas de Natal 2026 a partir de R$ 99,90 para pessoa física e jurídica, com entrega em Goiânia e condições especiais de antecipação na Black Friday.",
+      "inLanguage": "pt-BR",
+      "isPartOf": {
+        "@id": "https://reserva35.com.br/#website"
+      },
+      "about": {
+        "@id": "https://reserva35.com.br/#organization"
+      },
+      "mainEntity": [
+        {
+          "@id": "https://reserva35.com.br/cestas-presentes/#offercatalog"
+        },
+        {
+          "@id": "https://reserva35.com.br/cestas-presentes/#faq"
+        }
+      ]
+    },
+    {
+      "@type": "SaleEvent",
+      "@id": "https://reserva35.com.br/cestas-presentes/#campanha-black-friday-2026",
+      "name": "Especial Black Friday e Antecipação de Presentes de Natal 2026 - Reserva 35",
+      "description": "Campanha de Black Friday 2026 da Reserva 35 Vinhos e Destilados em Goiânia para antecipação de encomendas corporativas e familiares do Catálogo de Cestas de Natal 2026 (a partir de R$ 99,90), kits de amigo secreto e bolsas em couro personalizadas com entrega em toda a cidade.",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-30",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
+      "url": "https://reserva35.com.br/cestas-presentes/",
+      "location": {
+        "@id": "https://reserva35.com.br/#organization"
+      },
+      "organizer": {
+        "@id": "https://reserva35.com.br/#organization"
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "url": "https://reserva35.com.br/cestas-presentes/",
+        "lowPrice": "89.90",
+        "highPrice": "2049.90",
+        "priceCurrency": "BRL",
+        "offerCount": 16,
+        "availability": "https://schema.org/InStock",
+        "validFrom": "2026-11-20",
+        "validThrough": "2026-11-30",
+        "seller": {
+          "@id": "https://reserva35.com.br/#organization"
+        }
+      }
+    },
+    {
+      "@type": "SaleEvent",
+      "@id": "https://reserva35.com.br/cestas-presentes/#campanha-natal-2026",
+      "name": "Catálogo 2026 Cestas de Natal e Presentes Corporativos - Reserva 35",
+      "description": "Campanha oficial de Natal 2026 da Reserva 35 com cestas natalinas exclusivas a partir de R$ 99,90, opções 100% personalizadas sob medida por sommeliers para pessoa física e jurídica, kits executivos, estojos rígidos, bolsas em couro legítimo gravadas e entrega em toda a cidade de Goiânia.",
+      "startDate": "2026-11-01",
+      "endDate": "2026-12-31",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
+      "url": "https://reserva35.com.br/cestas-presentes/",
+      "location": {
+        "@id": "https://reserva35.com.br/#organization"
+      },
+      "organizer": {
+        "@id": "https://reserva35.com.br/#organization"
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "url": "https://reserva35.com.br/cestas-presentes/",
+        "lowPrice": "89.90",
+        "highPrice": "2049.90",
+        "priceCurrency": "BRL",
+        "offerCount": 16,
+        "availability": "https://schema.org/InStock",
+        "validFrom": "2026-11-01",
+        "validThrough": "2026-12-31",
+        "seller": {
+          "@id": "https://reserva35.com.br/#organization"
+        }
+      }
+    },
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://reserva35.com.br/cestas-presentes/#offercatalog",
+      "name": "Catálogo de Cestas de Natal e Presentes Reserva 35 - 2026",
+      "description": "Cestas natalinas exclusivas a partir de R$ 99,90, presentes personalizados, estojos rígidos e bolsas em couro legítimo by Reserva 35 para pessoa física e jurídica (encomendas corporativas, brindes empresariais, amigo secreto e presentes familiares). Realizamos entregas em toda a cidade de Goiânia (segunda a sábado, das 09h às 17h) ou retirada presencial na loja da Rua 1137, 35, Setor Marista. Itens ilustrativos podendo ser substituídos por itens de igual valor. Oferta válida durante a campanha de Natal 2026. Proibida a venda para menores de 18 anos.",
+      "url": "https://reserva35.com.br/wp-content/uploads/2026/08/Catalogo-de-Cestas-Reserva-35-2.pdf",
+      "numberOfItems": 16,
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "position": 1,
+          "price": "99.90",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "availability": "https://schema.org/InStock",
+          "url": "https://reserva35.com.br/cestas-presentes/#cesta-chilano",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Product",
+            "@id": "https://reserva35.com.br/cestas-presentes/#cesta-chilano",
+            "name": "Cesta Chilano - Natal 2026",
+            "category": "Cestas de Natal e Presentes",
+            "brand": {
+              "@type": "Brand",
+              "name": "Reserva 35"
+            },
+            "description": "Cesta natalina de entrada ideal para amigo secreto e brindes corporativos. Composição: Vinho Chilano (Valle Central Carménère, Chile), Bruschetta Maretti e Cesta P preta Reserva 35 com papel de seda."
+          }
+        },
+        {
+          "@type": "Offer",
+          "position": 2,
+          "price": "109.90",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "availability": "https://schema.org/InStock",
+          "url": "https://reserva35.com.br/cestas-presentes/#cesta-el-marques-de-los-lagos",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Product",
+            "@id": "https://reserva35.com.br/cestas-presentes/#cesta-el-marques-de-los-lagos",
+            "name": "Cesta El Marqués de los Lagos - Natal 2026",
+            "category": "Cestas de Natal e Presentes",
+            "brand": {
+              "@type": "Brand",
+              "name": "Reserva 35"
+            },
+            "description": "Cesta natalina clássica com vinho chileno e panetone gourmet. Composição: Vinho El Marqués de los Lagos (Chile), Mini panetone Santa Edwiges gotas de chocolate belga (80g) e Cesta P preta Reserva 35 com papel de seda."
+          }
+        },
+        {
+          "@type": "Offer",
+          "position": 3,
+          "price": "184.90",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "availability": "https://schema.org/InStock",
+          "url": "https://reserva35.com.br/cestas-presentes/#cesta-la-colina",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Product",
+            "@id": "https://reserva35.com.br/cestas-presentes/#cesta-la-colina",
+            "name": "Cesta La Colina - Natal 2026",
+            "category": "Cestas de Natal e Presentes",
+            "brand": {
+              "@type": "Brand",
+              "name": "Reserva 35"
+            },
+            "description": "Composição: Vinho La Colina Merlot (Valle Aconcagua, Chile), Chips Plaza del Sol (Sabor Trufa Negra), Bruschetta Maretti, Mini panetone Santa Edwiges gotas de chocolate belga (80g), Chocolate Calma (Coco e Café ao Leite 55%) e Cesta preta Reserva 35 com palha."
+          }
+        },
+        {
+          "@type": "Offer",
+          "position": 4,
+          "price": "234.90",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "availability": "https://schema.org/InStock",
+          "url": "https://reserva35.com.br/cestas-presentes/#cesta-terras-do-cartaxo",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Product",
+            "@id": "https://reserva35.com.br/cestas-presentes/#cesta-terras-do-cartaxo",
+            "name": "Cesta Terras do Cartaxo - Natal 2026",
+            "category": "Cestas de Natal e Presentes",
+            "brand": {
+              "@type": "Brand",
+              "name": "Reserva 35"
+            },
+            "description": "Composição: Vinho Terras do Cartaxo D.O.C. do Tejo Clássico (Portugal), Mini panetone Santa Edwiges gotas de chocolate belga, Castanhas, Chips Plaza del Sol Trufa, Bruschetta Maretti e Cesta M."
+          }
+        },
+        {
+          "@type": "Offer",
+          "position": 5,
+          "price": "299.90",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "availability": "https://schema.org/InStock",
+          "url": "https://reserva35.com.br/cestas-presentes/#cesta-massa-italiana",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Product",
+            "@id": "https://reserva35.com.br/cestas-presentes/#cesta-massa-italiana",
+            "name": "Cesta Massa Italiana - Natal 2026",
+            "category": "Cestas de Natal e Presentes Gastronômicos",
+            "brand": {
+              "@type": "Brand",
+              "name": "Reserva 35"
+            },
+            "description": "Composição: Vinho branco Freixenet Pinot Grigio, Massa Maestra Linguine di Gragnano IGP (500g), Passata di pomodoro La Pastina (680g), Amarena Fabbri Cereja (230g) e Cesta preta Reserva 35 com palha."
+          }
+        },
+        {
+          "@type": "Offer",
+          "position": 6,
+          "price": "299.90",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "availability": "https://schema.org/InStock",
+          "url": "https://reserva35.com.br/cestas-presentes/#cesta-adega-de-pegoes",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Product",
+            "@id": "https://reserva35.com.br/cestas-presentes/#cesta-adega-de-pegoes",
+            "name": "Cesta Adega de Pegões - Natal 2026",
+            "category": "Cestas de Natal e Presentes Gastronômicos",
+            "brand": {
+              "@type": "Brand",
+              "name": "Reserva 35"
+            },
+            "description": "Composição: Vinho Adega de Pegões (Península de Setúbal, Portugal), Arroz arbório La Pastina, Bruschetta Maretti, Bahlsen Wafer, Colle Del Tartufo trufado e Caixa preta Reserva 35 com alças."
+          }
+        },
+        {
+          "@type": "Offer",
+          "position": 7,
+          "price": "439.90",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "availability": "https://schema.org/InStock",
+          "url": "https://reserva35.com.br/cestas-presentes/#cesta-espumante-e-petiscos",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Product",
+            "@id": "https://reserva35.com.br/cestas-presentes/#cesta-espumante-e-petiscos",
+            "name": "Cesta Espumante e Petiscos - Natal 2026",
+            "category": "Cestas de Natal e Presentes Gourmet",
+            "brand": {
+              "@type": "Brand",
+              "name": "Reserva 35"
+            },
+            "description": "Composição: Espumante Segura Viudas Brut Cava, Chips Plaza del Sol Trufa, Bruschetta Maretti Alho Tostado, Crostini La Pastina Sal e Alecrim, Mel Casa Madeira de assa-peixe, Azeite Montosco trufado, Antepasto La Pastina e Caixa preta Reserva 35 com alças."
+          }
+        },
+        {
+          "@type": "Offer",
+          "position": 8,
+          "price": "464.90",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "availability": "https://schema.org/InStock",
+          "url": "https://reserva35.com.br/cestas-presentes/#cesta-licor-43",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Product",
+            "@id": "https://reserva35.com.br/cestas-presentes/#cesta-licor-43",
+            "name": "Cesta Licor 43 - Natal 2026",
+            "category": "Cestas de Natal e Presentes Gourmet",
+            "brand": {
+              "@type": "Brand",
+              "name": "Reserva 35"
+            },
+            "description": "Composição: Licor 43 Original, Chocolate Guylian The Original Seashells, Chips Plaza del Sol Trufa, Mini panetone Santa Edwiges gotas de chocolate belga (80g), Milho torrado com mostarda e Caixa preta Reserva 35 com alças."
+          }
+        },
+        {
+          "@type": "Offer",
+          "position": 9,
+          "price": "624.90",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "availability": "https://schema.org/InStock",
+          "url": "https://reserva35.com.br/cestas-presentes/#cesta-altosur",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Product",
+            "@id": "https://reserva35.com.br/cestas-presentes/#cesta-altosur",
+            "name": "Cesta Altosur - Natal 2026",
+            "category": "Cestas de Natal Premium e Corporativas",
+            "brand": {
+              "@type": "Brand",
+              "name": "Reserva 35"
+            },
+            "description": "Composição: Vinho Altosur Malbec (Mendoza, Argentina), Chocolate Guylian The Original Seashells, Chips Plaza del Sol Aliolé, Antepasto italiano Casa Madeira Gourmet, Geleia de morango com pimenta Casa Madeira Gourmet, Queijo Romaria Serra do Bálsamo e Cesta em couro preto com alças."
+          }
+        },
+        {
+          "@type": "Offer",
+          "position": 10,
+          "price": "654.90",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "availability": "https://schema.org/InStock",
+          "url": "https://reserva35.com.br/cestas-presentes/#cesta-gold-label",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Product",
+            "@id": "https://reserva35.com.br/cestas-presentes/#cesta-gold-label",
+            "name": "Cesta Gold Label - Natal 2026",
+            "category": "Cestas de Natal Premium e Corporativas",
+            "brand": {
+              "@type": "Brand",
+              "name": "Reserva 35"
+            },
+            "description": "Composição: Whisky Johnnie Walker Gold Label Reserve 750 ml, Mini panetone Santa Edwiges gotas de chocolate belga, Chips Plaza del Sol Aliolé, Grissini Obra Prima Gourmet, Chocolate Calma Pastelinho de Goiás, Snack Kalassi Sweet Chilli 100g e Cesta preta Reserva 35 com palha."
+          }
+        },
+        {
+          "@type": "Offer",
+          "position": 11,
+          "price": "999.90",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "availability": "https://schema.org/InStock",
+          "url": "https://reserva35.com.br/cestas-presentes/#cesta-cartuxa",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Product",
+            "@id": "https://reserva35.com.br/cestas-presentes/#cesta-cartuxa",
+            "name": "Cesta Cartuxa - Natal 2026",
+            "category": "Cestas de Natal Luxo e Presentes Executivos",
+            "brand": {
+              "@type": "Brand",
+              "name": "Reserva 35"
+            },
+            "description": "Composição: Vinho Cartuxa Tinto Colheita Évora 750ml (Portugal), Chocolate Guylian The Original Seashells, Duas taças Riedel 001 840ml e Cesta em couro marrom com alças."
+          }
+        },
+        {
+          "@type": "Offer",
+          "position": 12,
+          "price": "1019.90",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "availability": "https://schema.org/InStock",
+          "url": "https://reserva35.com.br/cestas-presentes/#cesta-moet",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Product",
+            "@id": "https://reserva35.com.br/cestas-presentes/#cesta-moet",
+            "name": "Cesta Moët - Natal 2026",
+            "category": "Cestas de Natal Luxo e Presentes Executivos",
+            "brand": {
+              "@type": "Brand",
+              "name": "Reserva 35"
+            },
+            "description": "Composição: Champagne Moët & Chandon Impérial Brut, Bombons Ferrero Rocher (12 unidades), Chips Plaza del Sol Trufa, Amarena Fabbri cereja (230g), Balas Mixed Fruit Cavendish & Harvey em lata (200g), Biscoito Lotus Biscoff e Cesta em couro caramelo."
+          }
+        },
+        {
+          "@type": "Offer",
+          "position": 13,
+          "price": "1179.90",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "availability": "https://schema.org/InStock",
+          "url": "https://reserva35.com.br/cestas-presentes/#estojo-vinho-banfi",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Product",
+            "@id": "https://reserva35.com.br/cestas-presentes/#estojo-vinho-banfi",
+            "name": "Estojo Vinho Banfi - Natal 2026",
+            "category": "Presentes Luxo e Rótulos Ícones",
+            "brand": {
+              "@type": "Brand",
+              "name": "Reserva 35"
+            },
+            "description": "Composição: Vinho Tinto Castello Banfi e Estojo preto rígido com interior em cetim."
+          }
+        },
+        {
+          "@type": "Offer",
+          "position": 14,
+          "price": "2049.90",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "availability": "https://schema.org/InStock",
+          "url": "https://reserva35.com.br/cestas-presentes/#cesta-fondue",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Product",
+            "@id": "https://reserva35.com.br/cestas-presentes/#cesta-fondue",
+            "name": "Cesta Fondue - Natal 2026",
+            "category": "Cestas de Natal Ultra Luxo e Corporativas",
+            "brand": {
+              "@type": "Brand",
+              "name": "Reserva 35"
+            },
+            "description": "Cesta gastronômica completa de luxo. Composição: Espumante Freixenet Royal Brut, Vinho tinto Don Nestore, Massa Maestra Tagliolini, Molho Puttanesca La Pastina, Grissini Obra Prima Gourmet, Fondue de chocolate São Vicente, Fondue de Queijo São Vicente, Conjunto de fondue (panela e garfos), Chips Plaza del Sol Trufa, Bruschetta Maretti, Arroz arbório La Pastina, Mini panetone Santa Edwiges gotas de chocolate belga, Bombons Ferrero Rocher (12 unidades), Kinder Bueno (2 barras), Biscoito Lotus Biscoff, Crostini La Pastina, Azeite La Pastina (500ml), Geleia Casa Madeira, Queijo Romaria Serra do Bálsamo, Balas Wild Berry Cavendish & Harvey em lata, Antepasto Casa Madeira Gourmet, Amarena Fabbri Cereja (600g), Biscoito Loacker de coco e Caixa preta grande Reserva 35."
+          }
+        },
+        {
+          "@type": "Offer",
+          "position": 15,
+          "price": "89.90",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "availability": "https://schema.org/InStock",
+          "url": "https://reserva35.com.br/cestas-presentes/#bolsa-couro-1-garrafa",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Product",
+            "@id": "https://reserva35.com.br/cestas-presentes/#bolsa-couro-1-garrafa",
+            "name": "Bolsa de Couro 1 Garrafa - Presentes Personalizados",
+            "category": "Acessórios e Presentes Personalizados",
+            "brand": {
+              "@type": "Brand",
+              "name": "Reserva 35"
+            },
+            "description": "Bolsa em couro preto legítimo com logo Reserva 35 gravado para 1 garrafa. Valor de R$ 89,90 sem personalização ou R$ 109,90 com personalização exclusiva.",
+            "offers": [
+              {
+                "@type": "Offer",
+                "name": "Bolsa de Couro 1 Garrafa (Padrão)",
+                "price": "89.90",
+                "priceCurrency": "BRL",
+                "priceValidUntil": "2026-12-31",
+                "availability": "https://schema.org/InStock"
+              },
+              {
+                "@type": "Offer",
+                "name": "Bolsa de Couro 1 Garrafa (Com Personalização)",
+                "price": "109.90",
+                "priceCurrency": "BRL",
+                "priceValidUntil": "2026-12-31",
+                "availability": "https://schema.org/InStock"
+              }
+            ]
+          }
+        },
+        {
+          "@type": "Offer",
+          "position": 16,
+          "price": "590.00",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2026-12-31",
+          "availability": "https://schema.org/InStock",
+          "url": "https://reserva35.com.br/cestas-presentes/#bolsa-croco-3-garrafas",
+          "seller": {
+            "@id": "https://reserva35.com.br/#organization"
+          },
+          "itemOffered": {
+            "@type": "Product",
+            "@id": "https://reserva35.com.br/cestas-presentes/#bolsa-croco-3-garrafas",
+            "name": "Bolsa Croco 3 Garrafas - Presentes Personalizados",
+            "category": "Acessórios e Presentes Personalizados",
+            "brand": {
+              "@type": "Brand",
+              "name": "Reserva 35"
+            },
+            "description": "Bag em couro preto legítimo texturizado croco by Reserva 35 com alça, tag personalizável, três divisórias internas para taças e vinhos e saca-rolhas."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://reserva35.com.br/cestas-presentes/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Onde comprar cestas de Natal e presentes corporativos com vinhos em Goiânia em 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na Reserva 35 Vinhos e Destilados, localizada na Rua 1137, nº 35, Setor Marista, Goiânia - GO. O Catálogo de Cestas de Natal 2026 reúne opções a partir de R$ 99,90 até R$ 2.049,90 para pessoa física e jurídica, com montagem 100% personalizada por sommeliers, entrega em toda a cidade de Goiânia ou retirada na loja."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Posso antecipar as encomendas de cestas de Natal e presentes corporativos na Black Friday 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sim. Durante a Black Friday e todo o mês de novembro de 2026, a Reserva 35 realiza atendimento consultivo antecipado para encomendas corporativas (pessoa jurídica) e familiares (pessoa física) do Catálogo de Cestas de Natal 2026, garantindo disponibilidade de rótulos importados, personalização de bolsas em couro e programação de entregas em Goiânia."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quais são todas as opções e preços do Catálogo de Cestas de Natal 2026 da Reserva 35?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "As opções do Catálogo 2026 são: Cesta Chilano (R$ 99,90), Cesta El Marqués de los Lagos (R$ 109,90), Cesta La Colina (R$ 184,90), Cesta Terras do Cartaxo (R$ 234,90), Cesta Massa Italiana (R$ 299,90), Cesta Adega de Pegões (R$ 299,90), Cesta Espumante e Petiscos (R$ 439,90), Cesta Licor 43 (R$ 464,90), Cesta Altosur (R$ 624,90), Cesta Gold Label (R$ 654,90), Cesta Cartuxa com taças Riedel (R$ 999,90), Cesta Moët & Chandon (R$ 1.019,90), Estojo Vinho Banfi (R$ 1.179,90) e Cesta Fondue completa (R$ 2.049,90), além de Bolsa de Couro 1 Garrafa (R$ 89,90 sem personalização ou R$ 109,90 personalizada) e Bolsa Croco 3 Garrafas com saca-rolhas e tag personalizável (R$ 590,00)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "É possível personalizar as cestas de Natal e os acessórios em couro da Reserva 35?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sim. Além das composições prontas do catálogo, os sommeliers da Reserva 35 montam cestas 100% personalizadas sob medida conforme o orçamento e o perfil de quem será presenteado, utilizando vinhos, espumantes, champagnes, whiskies, licores e iguarias de empório gourmet. A Bolsa de Couro para 1 garrafa pode receber gravação personalizada (R$ 109,90) e a Bolsa Croco para 3 garrafas acompanha tag personalizável."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Como funcionam as entregas e os pedidos de cestas de Natal da Reserva 35 em Goiânia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Reserva 35 realiza entregas de cestas e presentes em toda a cidade de Goiânia de segunda a sábado, das 09h às 17h, além de atendimento presencial na loja do Setor Marista (Rua 1137, 35) de segunda a sábado a partir das 09h e domingo das 09h às 15h. Os pedidos podem ser solicitados diretamente pelo WhatsApp (62) 98192-3535. A venda é proibida para menores de 18 anos."
+          }
+        }
+      ]
+    }
+  ]
+}

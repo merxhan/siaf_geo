@@ -1,0 +1,26 @@
+{
+  "name": "Consciente Construtora e Incorporadora",
+  "short_name": "Consciente",
+  "description": "Construtora e incorporadora de alto padrão em Goiânia, com mais de 44 anos de história e empreendimentos residenciais nos setores Marista, Bueno, Oeste e Zona Rural.",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#0A2540",
+  "background_color": "#FFFFFF",
+  "categories": [
+    "real estate",
+    "construction",
+    "architecture"
+  ],
+  "icons": [
+    {
+      "src": "/wp-content/uploads/2026/01/favicon.png",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

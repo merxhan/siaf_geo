@@ -1,0 +1,405 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "RealEstateAgent",
+        "GeneralContractor",
+        "Organization"
+      ],
+      "@id": "https://consciente.com.br/#organization",
+      "name": "Consciente",
+      "legalName": "Consciente Construtora e Incorporadora Ltda.",
+      "alternateName": "Consciente Construtora e Incorporadora",
+      "url": "https://consciente.com.br/",
+      "description": "Construtora e incorporadora de alto padrão em Goiânia fundada em 1982, com mais de 44 anos de atuação, 33 empreendimentos lançados e mais de 732.300 m² construídos nos setores Marista, Bueno, Oeste e Zona Rural.",
+      "disambiguatingDescription": "Consciente Construtora e Incorporadora Ltda. (CNPJ 00.048.249/0001-77), incorporadora imobiliária de luxo sediada no Setor Bueno em Goiânia, Goiás, Brasil.",
+      "taxID": "00.048.249/0001-77",
+      "foundingDate": "1982-03-15",
+      "founder": {
+        "@type": "Person",
+        "name": "Ilézio Inácio"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://consciente.com.br/#/schema/logo/image/",
+        "url": "https://consciente.com.br/wp-content/uploads/2026/01/favicon.png",
+        "contentUrl": "https://consciente.com.br/wp-content/uploads/2026/01/favicon.png",
+        "width": 64,
+        "height": 64,
+        "caption": "Consciente Construtora e Incorporadora",
+        "inLanguage": "pt-BR"
+      },
+      "image": [
+        "https://consciente.com.br/wp-content/uploads/2025/12/consciente-solenne-listagem.jpg",
+        "https://consciente.com.br/wp-content/uploads/2025/12/consciente-casa-brasileira-listagem.jpg",
+        "https://consciente.com.br/wp-content/uploads/2025/12/consciente-obliq-listagem.jpg"
+      ],
+      "telephone": "+55 62 3086-5000",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Av. T-2 com T-55, Qd. 99, Lt. 09 - Setor Bueno",
+        "addressLocality": "Goiânia",
+        "addressRegion": "GO",
+        "postalCode": "74215-170",
+        "addressCountry": "BR"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": -16.7051,
+        "longitude": -49.27089
+      },
+      "hasMap": "https://maps.app.goo.gl/SaB9jQ1VpyweaRDEA",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "opens": "08:00",
+          "closes": "19:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Sunday"
+          ],
+          "opens": "08:00",
+          "closes": "17:00"
+        }
+      ],
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "contactType": "sales",
+          "name": "Vendas e Central de Decorados",
+          "telephone": "+55 62 3086-5000",
+          "url": "https://consciente.com.br/fale-conosco/",
+          "areaServed": "BR",
+          "availableLanguage": "pt-BR"
+        },
+        {
+          "@type": "ContactPoint",
+          "contactType": "customer support",
+          "name": "Central de Relacionamento com o Cliente",
+          "telephone": "+55 62 3086-5050",
+          "url": "https://consciente.com.br/fale-conosco/",
+          "areaServed": "BR",
+          "availableLanguage": "pt-BR"
+        }
+      ],
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Goiânia",
+          "containedInPlace": {
+            "@type": "State",
+            "name": "Goiás"
+          }
+        },
+        {
+          "@type": "Place",
+          "name": "Setor Marista, Goiânia - GO"
+        },
+        {
+          "@type": "Place",
+          "name": "Setor Bueno, Goiânia - GO"
+        },
+        {
+          "@type": "Place",
+          "name": "Setor Oeste, Goiânia - GO"
+        }
+      ],
+      "knowsAbout": [
+        "Incorporação Imobiliária de Alto Padrão",
+        "Construção Civil Sustentável",
+        "Apartamentos de Luxo em Goiânia",
+        "Personalização de Imóveis na Planta",
+        "Selo Padrão Consciente",
+        "Certificação ISO 9001 e PBQP-H",
+        "Financiamento Imobiliário"
+      ],
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "certification",
+          "name": "Certificação NBR ISO 9001 - Sistema de Gestão da Qualidade"
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "certification",
+          "name": "PBQP-H - Programa Brasileiro da Qualidade e Produtividade do Habitat"
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "certification",
+          "name": "Selo Casa Azul Caixa Econômica Federal"
+        }
+      ],
+      "award": [
+        "Prêmio BLT - Built Design Awards 2025 (Solenne Consciente)",
+        "Ranking INTEC - 100 Maiores Construtoras do Brasil 2025",
+        "Great Place To Work 2025",
+        "DNA Paris Design Awards 2024 (Auro Consciente)",
+        "Selo de Verificação Reclame Aqui 2024",
+        "Selo Casa Azul Caixa Econômica Federal 2023 (Casa Brasileira Consciente)",
+        "Prêmio Excellence In Concrete Construction Award 2018 (World Trade Center Goiânia)"
+      ],
+      "potentialAction": [
+        {
+          "@type": "ScheduleAction",
+          "name": "Agendar Visita na Central de Decorados",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://consciente.com.br/fale-conosco/",
+            "actionPlatform": [
+              "http://schema.org/DesktopWebPlatform",
+              "http://schema.org/MobileWebPlatform"
+            ]
+          }
+        },
+        {
+          "@type": "CommunicateAction",
+          "name": "Ligar para Central de Vendas Consciente",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "tel:+556230865000"
+          }
+        }
+      ],
+      "hasOfferCatalog": {
+        "@id": "https://consciente.com.br/#catalog"
+      },
+      "sameAs": [
+        "https://www.instagram.com/conscienteconstrutora/",
+        "https://www.linkedin.com/company/consciente-construtora",
+        "https://www.youtube.com/user/ConscienteVideos",
+        "https://www.youtube.com/conscienteconstrutora"
+      ]
+    },
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://consciente.com.br/#catalog",
+      "name": "Empreendimentos e Serviços Imobiliários Consciente",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Agendamento de Visita na Central de Decorados e Consultoria de Vendas",
+            "description": "Atendimento personalizado para compra de imóveis de alto padrão para morar ou investir na Central de Decorados no Setor Bueno em Goiânia.",
+            "url": "https://consciente.com.br/fale-conosco/"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Customize Consciente - Personalização Sob Medida",
+            "description": "Consultoria técnica especializada para clientes e arquitetos na escolha de kits de personalização ou personalização livre de plantas e acabamentos.",
+            "url": "https://consciente.com.br/customize/"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Orientação de Financiamento Imobiliário",
+            "description": "Suporte especializado para planejamento e contratação de financiamento imobiliário na aquisição de imóveis Consciente.",
+            "url": "https://consciente.com.br/fale-conosco/"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Aquisição de Terrenos - Venda seu Terreno",
+            "description": "Avaliação e negociação direta de terrenos e áreas urbanas em Goiânia com a equipe de novos negócios da Consciente.",
+            "url": "https://consciente.com.br/fale-conosco/"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "ApartmentComplex",
+            "name": "Le Blu Consciente",
+            "description": "Lançamento de alto padrão no Setor Marista em Goiânia com apartamentos de 4 suítes de 166 m² a 221 m².",
+            "url": "https://consciente.com.br/empreendimento/le-blu-consciente/"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "ApartmentComplex",
+            "name": "Obliq Consciente",
+            "description": "Lançamento de compactos de luxo no Setor Bueno em Goiânia com studios de 1 quarto e apartamentos de 2 suítes de 35 m² a 105 m².",
+            "url": "https://consciente.com.br/empreendimento/obliq-consciente/"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "ApartmentComplex",
+            "name": "Solenne Consciente",
+            "description": "Empreendimento em construção no Setor Marista em Goiânia com apartamentos de 4 suítes de 369 m² a 448 m².",
+            "url": "https://consciente.com.br/empreendimento/solenne-consciente/"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "ApartmentComplex",
+            "name": "Auro Consciente",
+            "description": "Empreendimento em construção no Setor Marista em Goiânia com apartamentos de 4 suítes de 264 m².",
+            "url": "https://consciente.com.br/empreendimento/auro-consciente/"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "ApartmentComplex",
+            "name": "Fascino Consciente",
+            "description": "Empreendimento em construção no Setor Oeste em Goiânia com apartamentos de 2 e 3 suítes de 86,8 m² a 115,98 m².",
+            "url": "https://consciente.com.br/empreendimento/fascino-consciente/"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "ApartmentComplex",
+            "name": "Elements Consciente",
+            "description": "Empreendimento em construção no Setor Oeste em Goiânia com apartamentos de 3 suítes de 124 m² a 139 m².",
+            "url": "https://consciente.com.br/empreendimento/elements-consciente/"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "ApartmentComplex",
+            "name": "Reserva 27 Consciente",
+            "description": "Empreendimento em construção no Setor Bueno em Goiânia com apartamentos de 3 suítes de 137 m² a 157 m².",
+            "url": "https://consciente.com.br/empreendimento/reserva-27-consciente/"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "ResidentialComplex",
+            "name": "Quintas do Cerrado",
+            "description": "Condomínio horizontal em construção na Zona Rural de Goiânia com terrenos a partir de 1.000 m².",
+            "url": "https://consciente.com.br/empreendimento/quintas-do-cerrado/"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "ApartmentComplex",
+            "name": "Casa Brasileira Consciente",
+            "description": "Empreendimento pronto para morar no Setor Bueno em Goiânia com apartamentos de 3 e 4 suítes de 169 m² a 249 m².",
+            "url": "https://consciente.com.br/empreendimento/casa-brasileira-consciente/"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://consciente.com.br/#website",
+      "url": "https://consciente.com.br/",
+      "name": "Consciente Construtora e Incorporadora",
+      "description": "Empreendimentos de alto padrão em Goiânia nos setores Marista, Bueno e Oeste.",
+      "publisher": {
+        "@id": "https://consciente.com.br/#organization"
+      },
+      "inLanguage": "pt-BR",
+      "potentialAction": [
+        {
+          "@type": "SearchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://consciente.com.br/?s={search_term_string}"
+          },
+          "query-input": {
+            "@type": "PropertyValueSpecification",
+            "valueRequired": true,
+            "valueName": "search_term_string"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://consciente.com.br/#webpage",
+      "url": "https://consciente.com.br/",
+      "name": "Consciente Construtora e Incorporadora | Empreendimentos de alto padrão em Goiânia",
+      "description": "Há mais de 44 anos, a Consciente desenvolve projetos de alto padrão em Goiânia, sendo referência em qualidade construtiva, inovação e responsabilidade socioambiental.",
+      "inLanguage": "pt-BR",
+      "datePublished": "2025-12-18",
+      "dateModified": "2026-10-22",
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://consciente.com.br/wp-content/uploads/2025/12/consciente-solenne-listagem.jpg"
+      },
+      "isPartOf": {
+        "@id": "https://consciente.com.br/#website"
+      },
+      "about": {
+        "@id": "https://consciente.com.br/#organization"
+      },
+      "mainEntity": {
+        "@id": "https://consciente.com.br/#organization"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://consciente.com.br/#faq",
+      "inLanguage": "pt-BR",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Onde fica a Central de Decorados da Consciente e qual o horário de atendimento?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Central de Decorados da Consciente fica na Av. T-2 com T-55, Qd. 99, Lt. 09, Setor Bueno, Goiânia - GO (CEP 74215-170). Funciona de segunda a sábado das 08h às 19h e aos domingos e feriados das 08h às 17h."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Como agendar uma visita ou falar com a equipe de vendas da Consciente?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "O agendamento de visitas na Central de Decorados e o atendimento comercial podem ser feitos pelo telefone (62) 3086-5000, pelo WhatsApp disponível no site oficial ou pelo formulário em https://consciente.com.br/fale-conosco/."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Qual é o telefone da Central de Relacionamento com o Cliente da Consciente?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "O telefone da Central de Relacionamento com o Cliente é (62) 3086-5050, com atendimento administrativo de segunda a quinta das 08h às 18h e sexta das 08h às 17h."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Como funciona o serviço de personalização Customize Consciente?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "O Customize Consciente oferece acompanhamento técnico especializado para clientes e arquitetos personalizarem acabamentos e soluções do apartamento antes da entrega, com kits de personalização, personalização livre e mostruário completo na Central de Decorados."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quais empreendimentos a Consciente tem em Goiânia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Consciente possui lançamentos, obras em construção e imóveis prontos para morar nos setores Marista (Le Blu, Solenne e Auro), Bueno (Obliq, Reserva 27 e Casa Brasileira), Oeste (Fascino e Elements) e Zona Rural (Quintas do Cerrado)."
+          }
+        }
+      ]
+    }
+  ]
+}

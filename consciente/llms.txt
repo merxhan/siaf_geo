@@ -1,0 +1,42 @@
+# Consciente Construtora e Incorporadora
+
+> Construtora e incorporadora de alto padrão em Goiânia (GO), fundada em 1982 por Ilézio Inácio (CNPJ 00.048.249/0001-77), com mais de 44 anos de atuação e empreendimentos residenciais de luxo nos setores Marista, Bueno, Oeste e Zona Rural.
+
+- Sede e Central de Decorados: Av. T-2 com T-55, Qd. 99, Lt. 09, Setor Bueno, Goiânia - GO, CEP 74215-170.
+- Vendas e Agendamento de Visitas: (62) 3086-5000.
+- Central de Relacionamento com o Cliente: (62) 3086-5050.
+- Horário Central de Decorados: Segunda a Sábado, das 08h às 19h; Domingos e Feriados, das 08h às 17h.
+- Horário Administração: Segunda a Quinta, das 08h às 18h; Sexta, das 08h às 17h.
+- Corpus Completo para LLMs: https://consciente.com.br/llms-full.txt
+
+## Agendamento, Vendas e Serviços ao Cliente
+
+- [Fale Conosco e Agendamento de Visitas](https://consciente.com.br/fale-conosco/): canal oficial para agendar visitas na Central de Decorados, solicitar atendimento comercial (morar ou investir), orientação de financiamento imobiliário, oferta de terrenos (Venda seu Terreno) e suporte pós-venda.
+- [Customize Consciente](https://consciente.com.br/customize/): serviço de personalização sob medida de plantas e acabamentos com acompanhamento técnico especializado, kits de personalização e programa Consciente + Arquitetos.
+- [Empreendimentos em Goiânia](https://consciente.com.br/empreendimentos/): catálogo completo filtrável por status (lançamento, em construção, pronto para morar), número de suítes, metragem e setor.
+
+## Empreendimentos Ativos
+
+- [Le Blu Consciente](https://consciente.com.br/empreendimento/le-blu-consciente/): lançamento de alto padrão no Setor Marista, apartamentos de 4 suítes com 166 m² a 221 m².
+- [Obliq Consciente](https://consciente.com.br/empreendimento/obliq-consciente/): lançamento de compactos de luxo no Setor Bueno, studios 1 quarto e apartamentos de 2 suítes com 35 m² a 105 m².
+- [Solenne Consciente](https://consciente.com.br/empreendimento/solenne-consciente/): em construção no Setor Marista, apartamentos de 4 suítes com 369 m² a 448 m², vencedor do BLT Built Design Awards 2025.
+- [Auro Consciente](https://consciente.com.br/empreendimento/auro-consciente/): em construção no Setor Marista, apartamentos de 4 suítes com 264 m², premiado no DNA Paris Design Awards 2024.
+- [Fascino Consciente](https://consciente.com.br/empreendimento/fascino-consciente/): em construção no Setor Oeste, apartamentos de 2 e 3 suítes com 86,8 m² a 115,98 m².
+- [Elements Consciente](https://consciente.com.br/empreendimento/elements-consciente/): em construção no Setor Oeste, apartamentos de 3 suítes com 124 m² a 139 m².
+- [Reserva 27 Consciente](https://consciente.com.br/empreendimento/reserva-27-consciente/): em construção no Setor Bueno, apartamentos de 3 suítes com 137 m² a 157 m².
+- [Quintas do Cerrado](https://consciente.com.br/empreendimento/quintas-do-cerrado/): em construção na Zona Rural de Goiânia, lotes residenciais a partir de 1.000 m².
+- [Casa Brasileira Consciente](https://consciente.com.br/empreendimento/casa-brasileira-consciente/): pronto para morar no Setor Bueno, apartamentos de 3 e 4 suítes com 169 m² a 249 m², certificado com Selo Casa Azul Caixa.
+- [Acervo Consciente](https://consciente.com.br/acervo/): portfólio histórico de empreendimentos entregues em Goiânia, incluindo World Trade Center Goiânia, Gaia Consciente Home e Planet Consciente Garden.
+
+## Institucional e Diferenciais
+
+- [Nossa História](https://consciente.com.br/nossa-historia/): trajetória desde 1982, mais de 33 empreendimentos lançados, mais de 732.300 m² construídos e atuação do Grupo Consciente.
+- [Qualidade Inquestionável](https://consciente.com.br/qualidade-inquestionavel/): Selo Padrão Consciente com mais de 100 itens técnicos, certificação ISO 9001 e PBQP-H.
+- [Prêmios e Reconhecimentos](https://consciente.com.br/premios/): mais de 65 prêmios nacionais e internacionais, incluindo Ranking INTEC (100 Maiores Construtoras do Brasil) e Great Place To Work.
+- [Instituto Consciente](https://consciente.com.br/instituto-consciente/): braço de responsabilidade socioambiental criado em 2023, reconhecido como Utilidade Pública Estadual e Municipal.
+- [Magazine Consciente](https://consciente.com.br/noticias/): artigos sobre arquitetura de alto padrão, sustentabilidade, design e mercado imobiliário em Goiânia.
+
+## Optional
+
+- [Política de Privacidade](https://consciente.com.br/politica-de-privacidade/): diretrizes de tratamento de dados pessoais e LGPD.
+- [Termos e Condições](https://consciente.com.br/termos-e-condicoes/): condições gerais de uso do portal institucional.

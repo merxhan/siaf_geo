@@ -1,0 +1,296 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Physician",
+      "@id": "https://drricardobittar.com.br/#physician",
+      "name": "Dr. Ricardo Bittar",
+      "description": "Médico oftalmologista em Goiânia com atuação em retina clínica e cirúrgica, vítreo e cirurgia de catarata no Hospital de Olhos de Goiânia.",
+      "disambiguatingDescription": "Médico oftalmologista especialista em retina e cirurgia de catarata com atendimento clínico e cirúrgico no Hospital de Olhos de Goiânia, Goiás, Brasil.",
+      "url": "https://drricardobittar.com.br/",
+      "image": {
+        "@type": "ImageObject",
+        "@id": "https://drricardobittar.com.br/#portrait",
+        "url": "https://drricardobittar.com.br/assets/ricardo-portrait.webp",
+        "width": 860,
+        "height": 1302,
+        "caption": "Dr. Ricardo Bittar, oftalmologista em Goiânia"
+      },
+      "telephone": "+55-62-99108-3303",
+      "isAcceptingNewPatients": true,
+      "medicalSpecialty": "https://schema.org/Ophthalmology",
+      "alumniOf": {
+        "@type": "EducationalOrganization",
+        "name": "Santa Casa de Belo Horizonte"
+      },
+      "worksFor": {
+        "@id": "https://drricardobittar.com.br/#clinic"
+      },
+      "hospitalAffiliation": {
+        "@id": "https://drricardobittar.com.br/#clinic"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Goiânia"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Goiás"
+        }
+      ],
+      "knowsAbout": [
+        "Cirurgia de catarata",
+        "Lente intraocular (LIO)",
+        "Retinopatia diabética",
+        "Descolamento de retina",
+        "Degeneração macular relacionada à idade (DMRI)",
+        "Oclusão vascular da retina",
+        "Injeção intravítrea de anti-VEGF",
+        "Fotocoagulação a laser",
+        "Vitrectomia posterior",
+        "Mapeamento de retina",
+        "Tomografia de Coerência Óptica (OCT)"
+      ],
+      "hasOfferCatalog": {
+        "@id": "https://drricardobittar.com.br/#catalog"
+      },
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "telephone": "+55-62-99108-3303",
+          "url": "https://wa.me/5562991083303",
+          "contactType": "appointments",
+          "areaServed": "BR",
+          "availableLanguage": "Portuguese"
+        },
+        {
+          "@type": "ContactPoint",
+          "telephone": "+55-62-99108-3303",
+          "contactType": "emergency",
+          "areaServed": "BR",
+          "availableLanguage": "Portuguese"
+        }
+      ],
+      "potentialAction": [
+        {
+          "@type": "ScheduleAction",
+          "name": "Agendar consulta ou avaliação cirúrgica pelo WhatsApp",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://wa.me/5562991083303",
+            "actionPlatform": [
+              "http://schema.org/DesktopWebPlatform",
+              "http://schema.org/MobileWebPlatform"
+            ]
+          }
+        },
+        {
+          "@type": "CommunicateAction",
+          "name": "Ligar para agendamento ou urgência oftalmológica",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "tel:+55-62-99108-3303"
+          }
+        }
+      ]
+    },
+    {
+      "@type": [
+        "MedicalClinic",
+        "Hospital"
+      ],
+      "@id": "https://drricardobittar.com.br/#clinic",
+      "name": "Hospital de Olhos de Goiânia",
+      "url": "https://drricardobittar.com.br/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://drricardobittar.com.br/#logo",
+        "url": "https://drricardobittar.com.br/assets/ricardo-logo.png",
+        "width": 768,
+        "height": 120
+      },
+      "telephone": "+55-62-99108-3303",
+      "isAcceptingNewPatients": true,
+      "medicalSpecialty": "https://schema.org/Ophthalmology",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Av. Dr. Ismerino Soares de Carvalho, 251",
+        "addressLocality": "Goiânia",
+        "addressRegion": "GO",
+        "postalCode": "74075-040",
+        "addressCountry": "BR"
+      },
+      "hasMap": "https://maps.app.goo.gl/GDHXd8AqjskFLZ7T8"
+    },
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://drricardobittar.com.br/#catalog",
+      "name": "Consultas, Cirurgias, Tratamentos e Exames em Retina e Catarata",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "MedicalProcedure",
+            "name": "Consulta Oftalmológica Especializada em Retina e Vítreo",
+            "url": "https://drricardobittar.com.br/",
+            "description": "Avaliação clínica e diagnóstica para doenças da retina, mácula e vítreo em Goiânia."
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "SurgicalProcedure",
+            "name": "Cirurgia de Catarata com Implante de Lente Intraocular (LIO)",
+            "url": "https://drricardobittar.com.br/catarata/",
+            "description": "Avaliação pré-operatória e cirurgia de catarata com implante de lente intraocular em Goiânia."
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "SurgicalProcedure",
+            "name": "Cirurgia de Descolamento de Retina",
+            "url": "https://drricardobittar.com.br/descolamento-de-retina/",
+            "description": "Atendimento de urgência e tratamento cirúrgico do descolamento de retina (vitrectomia, retinopexia pneumática, introflexão escleral)."
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "SurgicalProcedure",
+            "name": "Vitrectomia Posterior",
+            "url": "https://drricardobittar.com.br/retinopatia-diabetica/",
+            "description": "Cirurgia vitreorretiniana para retinopatia diabética avançada, hemorragia vítrea e descolamento de retina."
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "MedicalTherapy",
+            "name": "Tratamento de Retinopatia Diabética",
+            "url": "https://drricardobittar.com.br/retinopatia-diabetica/",
+            "description": "Acompanhamento retiniano para diabéticos e tratamento com terapia anti-VEGF, laser e vitrectomia."
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "MedicalTherapy",
+            "name": "Tratamento de Degeneração Macular Relacionada à Idade (DMRI)",
+            "url": "https://drricardobittar.com.br/dmri-degeneracao-macular/",
+            "description": "Acompanhamento de DMRI seca e tratamento com injeção intravítrea de anti-VEGF para DMRI úmida."
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "MedicalTherapy",
+            "name": "Tratamento de Oclusão Vascular da Retina",
+            "url": "https://drricardobittar.com.br/oclusao-vascular-da-retina/",
+            "description": "Diagnóstico de urgência e manejo clínico de oclusão arterial e venosa da retina."
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "MedicalTherapy",
+            "name": "Injeção Intravítrea de Anti-VEGF e Fotocoagulação a Laser",
+            "url": "https://drricardobittar.com.br/retinopatia-diabetica/",
+            "description": "Terapia intravítrea antiangiogênica e laser retiniano ambulatorial em Goiânia."
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "DiagnosticProcedure",
+            "name": "Mapeamento de Retina e Tomografia de Coerência Óptica (OCT)",
+            "url": "https://drricardobittar.com.br/",
+            "description": "Exames diagnósticos de fundo de olho, OCT macular e angiografia retiniana."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://drricardobittar.com.br/#website",
+      "url": "https://drricardobittar.com.br/",
+      "name": "Dr. Ricardo Bittar · Oftalmologista em Goiânia",
+      "inLanguage": "pt-BR",
+      "publisher": {
+        "@id": "https://drricardobittar.com.br/#physician"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://drricardobittar.com.br/#webpage",
+      "url": "https://drricardobittar.com.br/",
+      "name": "Oftalmologista em Goiânia · Retina e Catarata | Dr. Ricardo Bittar",
+      "description": "Dr. Ricardo Bittar, oftalmologista em Goiânia com atuação em retina e vítreo: consultas, exames, cirurgia de catarata, retinopatia diabética, descolamento de retina, DMRI e oclusão vascular.",
+      "inLanguage": "pt-BR",
+      "dateModified": "2026-10-29",
+      "isPartOf": {
+        "@id": "https://drricardobittar.com.br/#website"
+      },
+      "about": {
+        "@id": "https://drricardobittar.com.br/#physician"
+      },
+      "mainEntity": {
+        "@id": "https://drricardobittar.com.br/#physician"
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://drricardobittar.com.br/assets/og-image.jpg"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://drricardobittar.com.br/#faq",
+      "isPartOf": {
+        "@id": "https://drricardobittar.com.br/#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Como agendar consulta, exame ou cirurgia com o Dr. Ricardo Bittar em Goiânia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "O agendamento de consultas, exames de retina e avaliações cirúrgicas é realizado pelo WhatsApp (https://wa.me/5562991083303) ou pelo telefone +55 62 99108-3303, com atendimento no Hospital de Olhos de Goiânia (Av. Dr. Ismerino Soares de Carvalho, 251, Setor Aeroporto, Goiânia - GO)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quando procurar um oftalmologista especialista em retina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A avaliação com especialista em retina é indicada com urgência diante de sintomas visuais súbitos como flashes de luz, aumento repentino de moscas volantes, sombra no campo de visão, distorção de linhas retas ou perda rápida da visão, além de acompanhamento preventivo em pacientes com diabetes, alta miopia ou idade acima de 50 anos."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quais doenças e procedimentos da retina e catarata são atendidos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "São realizados atendimentos clínicos, exames (mapeamento de retina, OCT e angiografia), injeções intravítreas de anti-VEGF, fotocoagulação a laser e cirurgias para catarata (implante de lente intraocular), descolamento de retina, retinopatia diabética, DMRI e oclusão vascular da retina."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Como funciona a cirurgia de catarata e como é a recuperação?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A cirurgia de catarata substitui o cristalino opacificado por uma lente intraocular em procedimento ambulatorial com anestesia local. A recuperação visual ocorre de forma progressiva nos primeiros dias, exigindo o uso correto dos colírios prescritos e acompanhamento pós-operatório."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quem tem diabetes precisa examinar a retina mesmo sem sintomas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sim. A retinopatia diabética frequentemente evolui sem sintomas nas fases iniciais. O exame periódico do fundo de olho permite identificar alterações precoces e iniciar o tratamento antes do comprometimento irreversível da visão."
+          }
+        }
+      ]
+    }
+  ]
+}

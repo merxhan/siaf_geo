@@ -1,0 +1,482 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Hospital",
+      "@id": "https://jacobfacuri.com.br/#organization",
+      "name": "Hospital Jacob Facuri",
+      "legalName": "Hospital e Maternidade São Marcos Ltda",
+      "taxID": "01.554.104/0001-00",
+      "foundingDate": "1957",
+      "url": "https://jacobfacuri.com.br/",
+      "description": "Hospital geral privado no centro de Goiânia, Goiás, fundado em 1957, com 249 leitos e acreditação ONA nível 3. Pronto-socorro 24h, UTIs adulto e neonatal, centro cirúrgico e centro clínico.",
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "CNES",
+          "value": "2337800"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "CRM-GO",
+          "value": "107"
+        }
+      ],
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://jacobfacuri.com.br/#logo",
+        "url": "https://jacobfacuri.com.br/icone-512.png",
+        "contentUrl": "https://jacobfacuri.com.br/icone-512.png",
+        "width": 512,
+        "height": 512,
+        "caption": "Hospital Jacob Facuri"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "@id": "https://jacobfacuri.com.br/#primaryimage",
+        "url": "https://jacobfacuri.com.br/assets/site/imagemCompartilhamento.jpg",
+        "contentUrl": "https://jacobfacuri.com.br/assets/site/imagemCompartilhamento.jpg",
+        "caption": "Hospital Jacob Facuri em Goiânia, GO"
+      },
+      "telephone": [
+        "+556236211919",
+        "+556236211900",
+        "+5562999022623"
+      ],
+      "email": "contato@jacobfacuri.com.br",
+      "currenciesAccepted": "BRL",
+      "isAcceptingNewPatients": true,
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Rua 08, nº 657, Centro",
+        "addressLocality": "Goiânia",
+        "addressRegion": "GO",
+        "postalCode": "74013-030",
+        "addressCountry": "BR"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": -16.6732056,
+        "longitude": -49.259802
+      },
+      "hasMap": "https://maps.app.goo.gl/DcSyeCZZJVirfKrGA",
+      "sameAs": [
+        "https://www.instagram.com/jacob.facuri/",
+        "https://www.youtube.com/@jacob.facuri",
+        "https://www.facebook.com/hospitaljacobfacuri",
+        "https://www.linkedin.com/company/hospital-jacob-facuri/",
+        "http://cnes2.datasus.gov.br/Mod_Conjunto.asp?VCo_Unidade=5208702337800"
+      ],
+      "medicalSpecialty": [
+        "Emergency",
+        "Cardiovascular",
+        "Surgical",
+        "Radiography",
+        "Gastroenterologic",
+        "Urologic",
+        "Musculoskeletal",
+        "Oncologic",
+        "Neurologic",
+        "Otolaryngologic",
+        "Pulmonary",
+        "Pediatric",
+        "Obstetric",
+        "Gynecologic",
+        "PlasticSurgery",
+        "Infectious"
+      ],
+      "award": "Acreditação ONA nível 3 — Acreditado com Excelência",
+      "hasCredential": {
+        "@type": "EducationalOccupationalCredential",
+        "name": "Acreditação ONA nível 3 — Acreditado com Excelência",
+        "recognizedBy": {
+          "@type": "Organization",
+          "name": "Organização Nacional de Acreditação (ONA)",
+          "url": "https://www.ona.org.br/"
+        }
+      },
+      "employee": {
+        "@type": "Person",
+        "@id": "https://jacobfacuri.com.br/corpo-clinico/gastroenterologia/ibrahim-jacob-facuri/#profissional",
+        "name": "Ibrahim Jacob Facuri",
+        "url": "https://jacobfacuri.com.br/corpo-clinico/gastroenterologia/ibrahim-jacob-facuri/",
+        "jobTitle": "Diretor técnico e diretor clínico",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "CRM-GO",
+          "value": "4506"
+        }
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "00:00",
+          "closes": "24:00",
+          "description": "Pronto-socorro 24 horas"
+        }
+      ],
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "contactType": "customer service",
+          "telephone": "+556236211919",
+          "email": "contato@jacobfacuri.com.br",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday"
+            ],
+            "opens": "08:00",
+            "closes": "18:00"
+          },
+          "areaServed": "BR",
+          "availableLanguage": "Portuguese"
+        },
+        {
+          "@type": "ContactPoint",
+          "contactType": "customer service",
+          "telephone": "+556236211900",
+          "email": "contato@jacobfacuri.com.br",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday"
+            ],
+            "opens": "08:00",
+            "closes": "18:00"
+          },
+          "areaServed": "BR",
+          "availableLanguage": "Portuguese"
+        },
+        {
+          "@type": "ContactPoint",
+          "contactType": "appointments",
+          "telephone": "+5562999022623",
+          "email": "consultas@jacobfacuri.com.br",
+          "url": "https://api.whatsapp.com/send?phone=5562999022623",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday"
+            ],
+            "opens": "08:00",
+            "closes": "18:00"
+          },
+          "areaServed": "BR",
+          "availableLanguage": "Portuguese"
+        },
+        {
+          "@type": "ContactPoint",
+          "contactType": "customer complaints",
+          "telephone": "+556236211919",
+          "email": "ouvidoria@jacobfacuri.com.br",
+          "url": "https://jacobfacuri.com.br/ouvidoria/",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday"
+            ],
+            "opens": "08:00",
+            "closes": "18:00"
+          },
+          "areaServed": "BR",
+          "availableLanguage": "Portuguese"
+        }
+      ],
+      "department": [
+        {
+          "@type": "MedicalClinic",
+          "@id": "https://jacobfacuri.com.br/centro-clinico-consultorios/#medicalclinic",
+          "name": "Centro clínico — Hospital Jacob Facuri",
+          "url": "https://jacobfacuri.com.br/centro-clinico-consultorios/",
+          "description": "Mais de 30 consultórios distribuídos em seis andares, atendendo cardiologia, ortopedia, aparelho digestivo, otorrinolaringologia, urologia e outras especialidades.",
+          "telephone": "+556236211919",
+          "email": "consultas@jacobfacuri.com.br",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Rua 08, nº 657, Centro",
+            "addressLocality": "Goiânia",
+            "addressRegion": "GO",
+            "postalCode": "74013-030",
+            "addressCountry": "BR"
+          },
+          "parentOrganization": {
+            "@id": "https://jacobfacuri.com.br/#organization"
+          }
+        },
+        {
+          "@type": "EmergencyService",
+          "@id": "https://jacobfacuri.com.br/pronto-socorro-24h/#emergencyservice",
+          "name": "Pronto-socorro 24h",
+          "url": "https://jacobfacuri.com.br/pronto-socorro-24h/",
+          "description": "Emergência aberta 24 horas por dia, todos os dias, em mais de 1.000 m² distribuídos em dois pavimentos, com quatro consultórios, sala vermelha e sala de gesso.",
+          "telephone": "+556236211919",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Rua 08, nº 657, Centro",
+            "addressLocality": "Goiânia",
+            "addressRegion": "GO",
+            "postalCode": "74013-030",
+            "addressCountry": "BR"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": -16.6732056,
+            "longitude": -49.259802
+          },
+          "hasMap": "https://maps.app.goo.gl/DcSyeCZZJVirfKrGA",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+              ],
+              "opens": "00:00",
+              "closes": "24:00"
+            }
+          ],
+          "parentOrganization": {
+            "@id": "https://jacobfacuri.com.br/#organization"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://jacobfacuri.com.br/#website",
+      "url": "https://jacobfacuri.com.br/",
+      "name": "Hospital Jacob Facuri",
+      "inLanguage": "pt-BR",
+      "publisher": {
+        "@id": "https://jacobfacuri.com.br/#organization"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://jacobfacuri.com.br/convenios/#itemlist",
+      "name": "Convênios e operadoras atendidas no Hospital Jacob Facuri",
+      "numberOfItems": 18,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "Organization",
+            "name": "Affego"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "Organization",
+            "name": "Assefaz"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "Organization",
+            "name": "Blue Saúde"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": "Organization",
+            "name": "Caesan Unimed"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@type": "Organization",
+            "name": "Cassi"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@type": "Organization",
+            "name": "Fundação Itaú"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "item": {
+            "@type": "Organization",
+            "name": "Fusex"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "item": {
+            "@type": "Organization",
+            "name": "Geap"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "item": {
+            "@type": "Organization",
+            "name": "Imas"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "item": {
+            "@type": "Organization",
+            "name": "Ipasgo"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "item": {
+            "@type": "Organization",
+            "name": "Mais Saúde"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "item": {
+            "@type": "Organization",
+            "name": "Porto Saúde"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "item": {
+            "@type": "Organization",
+            "name": "Postal Saúde"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "item": {
+            "@type": "Organization",
+            "name": "Saúde Caixa"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "item": {
+            "@type": "Organization",
+            "name": "Select"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "item": {
+            "@type": "Organization",
+            "name": "Unimed"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "item": {
+            "@type": "Organization",
+            "name": "Vitallis"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "item": {
+            "@type": "Organization",
+            "name": "Vivacom"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://jacobfacuri.com.br/convenios/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Início",
+          "item": "https://jacobfacuri.com.br/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Convênios atendidos",
+          "item": "https://jacobfacuri.com.br/convenios/"
+        }
+      ]
+    },
+    {
+      "@type": "MedicalWebPage",
+      "@id": "https://jacobfacuri.com.br/convenios/#webpage",
+      "url": "https://jacobfacuri.com.br/convenios/",
+      "name": "Convênios atendidos em Goiânia, GO — Hospital Jacob Facuri",
+      "inLanguage": "pt-BR",
+      "isPartOf": {
+        "@id": "https://jacobfacuri.com.br/#website"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://jacobfacuri.com.br/#primaryimage"
+      },
+      "publisher": {
+        "@id": "https://jacobfacuri.com.br/#organization"
+      },
+      "description": "As operadoras atendidas no Hospital Jacob Facuri na emergência 24h, em internações, cirurgias, procedimentos e exames.",
+      "mainEntity": {
+        "@id": "https://jacobfacuri.com.br/convenios/#itemlist"
+      },
+      "about": {
+        "@id": "https://jacobfacuri.com.br/#organization"
+      },
+      "breadcrumb": {
+        "@id": "https://jacobfacuri.com.br/convenios/#breadcrumb"
+      }
+    }
+  ]
+}

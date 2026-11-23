@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "Hospital Jacob Facuri — Centro Clínico e Hospital",
+  "short_name": "Jacob Facuri",
+  "description": "Hospital geral privado e Centro Clínico no centro de Goiânia, GO: consultas em 24 especialidades, cirurgias, exames diagnósticos e de imagem, pronto-socorro 24h e acreditação ONA nível 3.",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#0a2540",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/icone-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icone-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

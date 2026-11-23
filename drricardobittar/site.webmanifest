@@ -1,0 +1,58 @@
+{
+  "name": "Dr. Ricardo Bittar · Oftalmologista em Goiânia",
+  "short_name": "Dr. Ricardo Bittar",
+  "description": "Oftalmologista em Goiânia com atuação em retina clínica e cirúrgica, vítreo e cirurgia de catarata no Hospital de Olhos de Goiânia.",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#0B3B60",
+  "background_color": "#FFFFFF",
+  "shortcuts": [
+    {
+      "name": "Agendar Consulta",
+      "short_name": "Agendar",
+      "description": "Agendar consulta, exame ou avaliação cirúrgica em Goiânia",
+      "url": "/#agendar"
+    },
+    {
+      "name": "Cirurgia de Catarata",
+      "short_name": "Catarata",
+      "description": "Informações e agendamento de cirurgia de catarata com lente intraocular",
+      "url": "/catarata/"
+    },
+    {
+      "name": "Urgência em Retina",
+      "short_name": "Urgência",
+      "description": "Sinais de alerta e atendimento imediato para descolamento de retina",
+      "url": "/descolamento-de-retina/"
+    }
+  ],
+  "icons": [
+    {
+      "src": "/assets/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/assets/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

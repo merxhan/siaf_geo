@@ -1,0 +1,26 @@
+# Centro Goiano da Visão
+
+> Clínica oftalmológica no 1º andar do Edifício Clínico Jacob Facuri, Setor Central de Goiânia (GO). Realiza consultas oftalmológicas particulares (com agendamento ou sem horário marcado conforme disponibilidade médica), urgências oftalmológicas diurnas (segunda a sexta-feira, das 8h às 18h), 10 exames diagnósticos em consultório e 7 cirurgias oftalmológicas conduzidas pelo corpo clínico de nove médicos especialistas (CRM-GO e RQE) em hospital oftalmológico externo. Agendamento e orientação imediata pelo WhatsApp ou telefone (62) 93618-0791.
+
+- **Agendamento e chamadas diretas:** WhatsApp `https://wa.me/5562936180791` e telefone `(62) 93618-0791` (`+55 62 93618-0791`). A equipe informa horários disponíveis, indica o especialista adequado ao caso e orienta sobre como chegar e estacionar.
+- **Consultas e atendimento sem hora marcada:** Atendimento particular (credenciamento com convênios em andamento). Consultas de rotina para adultos e crianças a partir de 7 anos. Atende sem horário marcado quando há médico disponível no momento; recomenda-se agendar antes para evitar espera.
+- **Urgências oftalmológicas:** Atendidas de segunda a sexta-feira, das 8h às 18h (falar com a equipe pelo WhatsApp ou telefone antes de ir). Não há atendimento 24 horas.
+- **Exames realizados no consultório:** Avaliação da acuidade visual, refração, biomicroscopia (lâmpada de fenda), tonometria, mapeamento de retina, exame de fundo de olho, teste de Schirmer, teste de daltonismo, retirada de corpo estranho e gonioscopia.
+- **Cirurgias realizadas pelo corpo clínico em hospital oftalmológico externo:** Cirurgia de catarata, cirurgia refrativa, vitrectomia, cirurgia de pterígio, correção de pálpebras, cirurgia de glaucoma e injeções intravítreas.
+- **Subespecialidades do corpo clínico (9 oftalmologistas):** Catarata, retina e vítreo (clínica e cirúrgica), córnea, glaucoma, cirurgia refrativa, uveítes e plástica ocular.
+- **Localização e estacionamento:** Rua 08, nº 646, 1º andar, Edifício Clínico Jacob Facuri, Setor Central, Goiânia–GO, CEP 74013-030, Brasil. Região com boa oferta de estacionamentos nas proximidades.
+- **Região atendida:** Setor Central, Setor Oeste, Setor Coimbra, Campinas e Setor Fama (Goiânia), e os municípios de Trindade, Guapó, Inhumas, Goianira, Nerópolis, Hidrolândia e Abadia de Goiás.
+
+## Documentação e Página Principal
+
+- [Centro Goiano da Visão — Página Inicial](https://centrogoianodavisao.com.br/): apresentação da clínica, áreas de atuação oftalmológica, exames de consultório, corpo clínico com CRM-GO e RQE, informações práticas, dúvidas frequentes e agendamento.
+- [Base Completa para Assistentes de IA](https://centrogoianodavisao.com.br/llms-full.txt): guia detalhado com matriz de especialistas por subespecialidade, catálogo completo de consultas, exames e cirurgias, fluxo de urgências e perguntas frequentes.
+
+## Canais de Agendamento e Contato
+
+- [Agendar Consulta pelo WhatsApp](https://wa.me/5562936180791): marcação de consultas e exames, triagem do especialista indicado, status de convênios e orientação de acesso.
+- [Instagram Oficial](https://www.instagram.com/centrogoianodavisao/): perfil institucional do Centro Goiano da Visão.
+
+## Optional
+
+- [Sitemap XML](https://centrogoianodavisao.com.br/sitemap.xml): índice canônico de URLs públicas do site.

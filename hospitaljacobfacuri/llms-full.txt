@@ -1,0 +1,365 @@
+# Hospital Jacob Facuri e Centro Clínico
+
+> Complexo hospitalar e ambulatorial privado no centro de Goiânia (GO), fundado em 1957, com 249 leitos, cerca de 13.500 m² de área construída e acreditação ONA nível 3 (Acreditado com Excelência). Atende pacientes particulares e 18 convênios em pronto-socorro 24 horas, centro cirúrgico com sete salas (cirurgias de média e alta complexidade), UTIs adulto e neonatal, hemodinâmica 24 horas, exames diagnósticos e de imagem, e Centro Clínico com mais de 30 consultórios e 134 especialistas em 24 especialidades.
+
+## Identificação institucional e localização
+
+- Nome comercial: Hospital Jacob Facuri
+- Unidade ambulatorial: Centro Clínico — Hospital Jacob Facuri (https://jacobfacuri.com.br/centro-clinico-consultorios/)
+- Razão social: Hospital e Maternidade São Marcos Ltda
+- CNPJ: 01.554.104/0001-00
+- CNES: 2337800 (registro público DATASUS: http://cnes2.datasus.gov.br/Mod_Conjunto.asp?VCo_Unidade=5208702337800)
+- Registro no CREMEGO: CRM nº 107
+- Diretor técnico e diretor clínico: Ibrahim Jacob Facuri — CRM-GO 4506
+- Acreditação de qualidade: ONA nível 3 — Acreditado com Excelência (Organização Nacional de Acreditação — https://www.ona.org.br/)
+- Ano de fundação: 1957
+- Endereço: Rua 08, nº 657, Centro, Goiânia – GO, CEP 74013-030, Brasil
+- Coordenadas geográficas: -16.6732056, -49.259802
+- Mapa e rotas (Google Maps): https://maps.app.goo.gl/DcSyeCZZJVirfKrGA
+- Site oficial: https://jacobfacuri.com.br/
+- Redes oficiais: Instagram (https://www.instagram.com/jacob.facuri/), YouTube (https://www.youtube.com/@jacob.facuri), Facebook (https://www.facebook.com/hospitaljacobfacuri), LinkedIn (https://www.linkedin.com/company/hospital-jacob-facuri/)
+- Política para IA: indexação em busca, contextualização em respostas e treinamento de modelos permitidos (ver /robots.txt)
+- Aviso médico: as informações publicadas têm caráter informativo e não substituem consulta, diagnóstico ou tratamento médico presencial
+
+## Canais de agendamento, chamadas e atendimento ao paciente
+
+Página central de telefones e setores: https://jacobfacuri.com.br/contato/
+
+- **Agendamento de consultas eletivas (Centro Clínico — 24 especialidades):**
+  - WhatsApp direto: +55 (62) 99902-2623 (https://api.whatsapp.com/send?phone=5562999022623&text=Ol%C3%A1%2C%20gostaria%20de%20marcar%20uma%20consulta.)
+  - Telefones da central: (62) 3621-1919 e (62) 3621-1900
+  - E-mail de agendamentos: consultas@jacobfacuri.com.br
+  - Horário da central de agendamento: segunda a sexta-feira, das 8h às 18h (confirmar dias e horários individuais de atendimento de cada especialista).
+- **Agendamento de exames diagnósticos e de imagem:**
+  - Ressonância magnética 1.5T, tomografia computadorizada multislice, ultrassom com Doppler, raio-X digital, endoscopia digestiva, colonoscopia, exames cardiológicos e vasculares via central de atendimento: WhatsApp +55 (62) 99902-2623 ou telefones (62) 3621-1919 e (62) 3621-1900.
+- **Cirurgias, internações, regulação e orçamentos (particular e convênios):**
+  - Informações sobre procedimentos cirúrgicos eletivos, internação hospitalar, regulação e orçamentos via central telefônica (62) 3621-1919 e (62) 3621-1900, WhatsApp +55 (62) 99902-2623 ou e-mail contato@jacobfacuri.com.br (canais por setor detalhados em https://jacobfacuri.com.br/contato/).
+- **Urgência e emergência 24 horas (Pronto-socorro):**
+  - Atendimento presencial imediato 24 horas por dia, 7 dias por semana, na Rua 08, nº 657, Centro, Goiânia – GO. Telefones: (62) 3621-1919 e (62) 3621-1900.
+- **Ouvidoria:**
+  - E-mail: ouvidoria@jacobfacuri.com.br | Telefones: (62) 3621-1919 e (62) 3621-1900 (segunda a sexta-feira, das 8h às 18h) | Página: https://jacobfacuri.com.br/ouvidoria/
+
+## Centro Clínico Jacob Facuri (Consultórios e Atendimento Ambulatorial)
+
+- URL oficial: https://jacobfacuri.com.br/centro-clinico-consultorios/
+- Infraestrutura: mais de 30 consultórios distribuídos em seis andares no mesmo endereço do complexo hospitalar (Rua 08, nº 657, Centro, Goiânia – GO).
+- Escopo assistencial: consultas eletivas e acompanhamento ambulatorial em 24 especialidades médicas e odontológicas, com corpo clínico de 134 profissionais cadastrados e integração direta com os serviços de diagnóstico por imagem, endoscopia, centro cirúrgico e internação do hospital.
+- Diretório de especialidades: https://jacobfacuri.com.br/especialidades/
+- Diretório completo de médicos: https://jacobfacuri.com.br/corpo-clinico/
+
+## Cirurgias e procedimentos de média e alta complexidade
+
+- URL oficial: https://jacobfacuri.com.br/centro-cirurgico/
+- Estrutura cirúrgica: sete salas cirúrgicas amplas equipadas com arco cirúrgico GE e torres de vídeo Stryker, com equipe médica, anestesia, exames laboratoriais/de imagem e retaguarda imediata de 51 leitos de UTI adulto e 30 leitos de UTI neonatal 24 horas por dia.
+- Especialidades cirúrgicas e intervencionistas disponíveis no corpo clínico e unidades:
+  - Cirurgia geral e videolaparoscópica (https://jacobfacuri.com.br/corpo-clinico/cirurgia-geral/)
+  - Cirurgia bariátrica e metabólica (https://jacobfacuri.com.br/corpo-clinico/cirurgia-bariatrica/)
+  - Cirurgia do aparelho digestivo e coloproctologia (https://jacobfacuri.com.br/corpo-clinico/cirurgia-do-aparelho-digestivo/ e https://jacobfacuri.com.br/corpo-clinico/coloproctologia-cirurgia-geral/)
+  - Cirurgia plástica reparadora e estética (https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/)
+  - Cirurgia vascular e endovascular / angiologia (https://jacobfacuri.com.br/corpo-clinico/angiologia-cirurgia-vascular/ e https://jacobfacuri.com.br/corpo-clinico/cirurgia-vascular/)
+  - Cirurgia torácica (https://jacobfacuri.com.br/corpo-clinico/cirurgia-toracica/)
+  - Cirurgia cardiovascular e hemodinâmica intervencionista (https://jacobfacuri.com.br/hemodinamica-e-cardiologia/)
+  - Neurocirurgia e cirurgia da coluna vertebral (https://jacobfacuri.com.br/corpo-clinico/neurologia-clinica-e-cirurgica/ e https://jacobfacuri.com.br/coluna/)
+  - Cirurgia ortopédica e traumatológica (https://jacobfacuri.com.br/ortopedia/)
+  - Cirurgia urológica (https://jacobfacuri.com.br/urologia/)
+  - Cirurgia oncológica (https://jacobfacuri.com.br/cancer-center/)
+  - Cirurgia buco-maxilo-facial (https://jacobfacuri.com.br/corpo-clinico/buco-maxilo-facial/)
+  - Cirurgia otorrinolaringológica e oftalmológica (https://jacobfacuri.com.br/corpo-clinico/otorrinolaringologia/ e https://jacobfacuri.com.br/oftalmologia/)
+
+## Unidades hospitalares e serviços diagnósticos
+
+### Pronto-socorro 24h
+- URL: https://jacobfacuri.com.br/pronto-socorro-24h/
+- Estrutura: mais de 1.000 m² em dois pavimentos, quatro consultórios médicos na emergência, sala vermelha com leitos de estabilização e sala de gesso.
+- Funcionamento: 24 horas por dia, todos os dias.
+- Restrições de atendimento: não realiza atendimento obstétrico nem pronto-socorro pediátrico abaixo da idade mínima divulgada na página da unidade.
+
+### Exames de imagem (Radiologia Diagnóstica Digital)
+- URL: https://jacobfacuri.com.br/radiologia-diagnostica-digital/
+- Operação integrada: Clínica da Imagem (mais de 30 anos de atuação, acreditada pelo PADI e certificada pelo CBR).
+- Exames disponíveis: ressonância magnética 1.5T, tomografia computadorizada multislice, ultrassonografia com Doppler e raio-X digital.
+
+### Centro diagnóstico
+- URL: https://jacobfacuri.com.br/centro-diagnostico/
+- Escopo: exames de endoscopia digestiva, colonoscopia, cardiologia e área vascular para agendamentos eletivos pela central de atendimento, pacientes internados e emergência.
+
+### Hemodinâmica 24h
+- URL: https://jacobfacuri.com.br/hemodinamica-e-cardiologia/
+- Escopo: procedimentos diagnósticos e terapêuticos intervencionistas em cardiologia, cirurgia vascular e neurologia, com funcionamento 24 horas.
+
+### Câncer Center
+- URL: https://jacobfacuri.com.br/cancer-center/
+- Operação integrada: parceria com o Ingoh, reunindo consulta oncológica, rastreio, diagnóstico, exames, tratamento clínico e cirúrgico, leitos humanizados e equipe de cuidados paliativos.
+
+### Oftalmologia — Centro Goiano da Visão
+- URL: https://jacobfacuri.com.br/oftalmologia/
+- Operação integrada: consultas, exames e atendimento oftalmológico pelo Centro Goiano da Visão nas dependências do Hospital Jacob Facuri.
+
+### UTIs adulto
+- URL: https://jacobfacuri.com.br/utis-adulto/
+- Estrutura: 51 leitos de terapia intensiva adulta distribuídos em três alas, incluindo 13 leitos de UTI humanizada, com equipe multidisciplinar treinada em protocolos internacionais.
+
+### UTI neonatal
+- URL: https://jacobfacuri.com.br/uti-neonatal/
+- Estrutura: 30 leitos de terapia intensiva neonatal com equipe médica e multidisciplinar especializada.
+
+### Apartamentos e enfermarias
+- URL: https://jacobfacuri.com.br/apartamentos/
+- Estrutura: 54 leitos de apartamento (com ar-condicionado, frigobar, TV, camas eletrônicas e Wi-Fi privado) e 15 leitos de enfermaria para internação hospitalar.
+
+## Centros especializados (condições e tratamentos)
+
+- Coluna (https://jacobfacuri.com.br/coluna/): Avaliação clínica, diagnóstico por imagem e tratamento clínico ou cirúrgico de doenças da coluna vertebral em Goiânia.
+- Ortopedia e traumatologia (https://jacobfacuri.com.br/ortopedia/): Atendimento ortopédico e traumatológico para lesões osteomusculares, articulares e do esporte.
+- Urologia (https://jacobfacuri.com.br/urologia/): Diagnóstico e tratamento clínico e cirúrgico de doenças urológicas e do trato urinário.
+- Impotência sexual (https://jacobfacuri.com.br/impotencia-sexual/): Avaliação urológica especializada e opções terapêuticas para disfunção erétil e saúde sexual masculina.
+- Saúde gastrointestinal (https://jacobfacuri.com.br/saude-gastrointestinal/): Atendimento ambulatorial, endoscopia, colonoscopia e tratamento clínico e cirúrgico de distúrbios do aparelho digestivo.
+
+## Convênios aceitos e atendimento particular
+
+Página oficial: https://jacobfacuri.com.br/convenios/
+
+O Hospital Jacob Facuri e o Centro Clínico atendem pacientes particulares e operadoras de saúde listadas (confirmar cobertura específica por plano, especialidade, exame ou cirurgia junto à central de atendimento pelo WhatsApp +55 (62) 99902-2623 ou telefones (62) 3621-1919 e (62) 3621-1900):
+Affego, Assefaz, Blue Saúde, Caesan Unimed, Cassi, Fundação Itaú, Fusex, Geap, Imas, Ipasgo, Mais Saúde, Porto Saúde, Postal Saúde, Saúde Caixa, Select, Unimed, Vitallis e Vivacom.
+
+## História, governança e portal do paciente
+
+Fundado em 1957 com 30 leitos como Hospital e Maternidade São Marcos, o Hospital Jacob Facuri passou por reconstrução estrutural entre 2004 e 2008 e expansões em 2020 e 2023, ocupando terreno de 4.000 m² com cerca de 13.500 m² de área construída e 249 leitos. Mantém certificação de centro formador pela American Heart Association (AHA), residência médica credenciada à AMIB e Programa de Relacionamento Médico desde 2022.
+
+- História: https://jacobfacuri.com.br/historia/
+- Missão, visão e valores: https://jacobfacuri.com.br/missao-visao-e-valores/
+- Estrutura hospitalar: https://jacobfacuri.com.br/estrutura-hospitalar/
+- Estrutura organizacional: https://jacobfacuri.com.br/estrutura-organizacional/
+- Acreditação e qualificações: https://jacobfacuri.com.br/acreditacao-e-qualificacoes/
+- Educação e formação: https://jacobfacuri.com.br/educacao-e-formacao/
+- Para médicos: https://jacobfacuri.com.br/para-medicos/
+- Para convênios: https://jacobfacuri.com.br/para-convenios/
+- Para pacientes: https://jacobfacuri.com.br/para-pacientes/
+- Portal do paciente: https://jacobfacuri.com.br/portal-do-paciente/
+- Horários de visitas: https://jacobfacuri.com.br/portal-do-paciente/horarios-de-visitas/
+- Regras para acompanhantes: https://jacobfacuri.com.br/portal-do-paciente/regras-para-acompanhantes/
+- Direitos e deveres do paciente: https://jacobfacuri.com.br/portal-do-paciente/direitos-e-deveres-do-paciente/
+- Manual do paciente (sete cadernos em PDF): https://jacobfacuri.com.br/manual-do-paciente/
+- Alerta sobre fraudes e golpes: https://jacobfacuri.com.br/alerta-comunicado-sobre-fraudes-e-golpes/ — O Hospital Jacob Facuri não realiza ligações nem envia mensagens solicitando transferências bancárias urgentes em nome de médicos.
+- Jornal HJF (feed RSS em https://jacobfacuri.com.br/feed.xml): https://jacobfacuri.com.br/jornal-hjf/ (Edições: https://jacobfacuri.com.br/jornal-hjf/edicao-2026/, https://jacobfacuri.com.br/jornal-hjf/edicao-2025/, https://jacobfacuri.com.br/jornal-hjf/edicao-2024/)
+- Fotos e vídeos institucionais: https://jacobfacuri.com.br/fotos-e-videos/
+- Política de privacidade (LGPD): https://jacobfacuri.com.br/politica-de-privacidade/
+
+## Corpo clínico completo (134 profissionais em 24 especialidades)
+
+Diretório geral: https://jacobfacuri.com.br/corpo-clinico/
+Lista de especialidades: https://jacobfacuri.com.br/especialidades/
+
+### Angiologia / Cirurgia Vascular (https://jacobfacuri.com.br/corpo-clinico/angiologia-cirurgia-vascular/)
+- Alexandre Araujo Pereira — CRM 8859 (https://jacobfacuri.com.br/corpo-clinico/angiologia-cirurgia-vascular/alexandre-araujo-pereira/)
+- Caius Lucilius de Castro Junior — CRM 7809; RQE 4401 (https://jacobfacuri.com.br/corpo-clinico/angiologia-cirurgia-vascular/caius-lucilius-de-castro-junior/)
+- Emílio Carlos Leão Veloso — CRM 6749 (https://jacobfacuri.com.br/corpo-clinico/angiologia-cirurgia-vascular/emilio-carlos-leao-veloso/)
+- Frederico Araujo Oliveira — CRM 10132; RQE 5572 (https://jacobfacuri.com.br/corpo-clinico/angiologia-cirurgia-vascular/frederico-araujo-oliveira/)
+- Marcelo Brito de Mesquita Leite — CRM 7910; RQE 3108 (https://jacobfacuri.com.br/corpo-clinico/angiologia-cirurgia-vascular/marcelo-brito-de-mesquita-leite/)
+- Thiago Peres Alves — CRM 17089; RQE 11095 (https://jacobfacuri.com.br/corpo-clinico/angiologia-cirurgia-vascular/thiago-peres-alves/)
+
+### Buco-maxilo-facial (https://jacobfacuri.com.br/corpo-clinico/buco-maxilo-facial/)
+- Alex Alves da Costa Andrade — CRO 11331 (https://jacobfacuri.com.br/corpo-clinico/buco-maxilo-facial/alex-alves-da-costa-andrade/)
+- Felipe Guedes Bueno — CRO 11807 (https://jacobfacuri.com.br/corpo-clinico/buco-maxilo-facial/felipe-guedes-bueno/)
+- Ítalo Cordeiro de Toledo — CRO 12049 (https://jacobfacuri.com.br/corpo-clinico/buco-maxilo-facial/italo-cordeiro-de-toledo/)
+- Rosenvaldo Moreira Junior (https://jacobfacuri.com.br/corpo-clinico/buco-maxilo-facial/rosenvaldo-moreira-junior/)
+
+### Cardiologia (cirúrgica, clínica e intervencionista) (https://jacobfacuri.com.br/corpo-clinico/cardiologia/)
+- Artur Henrique de Souza — CRM 13371; RQE 6835 (https://jacobfacuri.com.br/corpo-clinico/cardiologia/artur-henrique-de-souza/)
+- Dilmar Cunha — CRM 27747 (https://jacobfacuri.com.br/corpo-clinico/cardiologia/dilmar-cunha/)
+- Lee Anderson Cruvinel — CRM 11354 (https://jacobfacuri.com.br/corpo-clinico/cardiologia/lee-anderson-cruvinel/)
+- Renato Morais Araujo — CRM 28579 (https://jacobfacuri.com.br/corpo-clinico/cardiologia/renato-morais-araujo/)
+- Rodrigo Ruys Lopes Jasbick — CRM-GO 13406; RQE 7471 e 10196 (https://jacobfacuri.com.br/corpo-clinico/cardiologia/rodrigo-ruys-lopes-jasbick/)
+- Rodrigo Teixeira Cleto — CRM 13221 (https://jacobfacuri.com.br/corpo-clinico/cardiologia/rodrigo-teixeira-cleto/)
+- Silvio Sérgio Pontes Camara — CRM 12474; RQE 6146 e 8952 (https://jacobfacuri.com.br/corpo-clinico/cardiologia/silvio-sergio-pontes-camara/)
+
+### Cirurgia bariátrica (https://jacobfacuri.com.br/corpo-clinico/cirurgia-bariatrica/)
+- Danilo Fossalussa Minari — CRM 19143; RQE 13014 (https://jacobfacuri.com.br/corpo-clinico/cirurgia-bariatrica/danilo-fossalussa-minari/)
+- José Geraldo Moraes Sampaio Neto — CRM 15507; RQE 13236 (https://jacobfacuri.com.br/corpo-clinico/cirurgia-bariatrica/jose-geraldo-moraes-sampaio-neto/)
+- Paulo Reis Esselin de Melo — CRM 9595; RQE 10876 e 12746 (https://jacobfacuri.com.br/corpo-clinico/cirurgia-bariatrica/paulo-reis-esselin-de-melo/)
+
+### Cirurgia do aparelho digestivo (https://jacobfacuri.com.br/corpo-clinico/cirurgia-do-aparelho-digestivo/)
+- Gustavo de Faria Ferro — CRM 16244; RQE 11613 (https://jacobfacuri.com.br/corpo-clinico/cirurgia-do-aparelho-digestivo/gustavo-de-faria-ferro/)
+
+### Cirurgia geral (https://jacobfacuri.com.br/corpo-clinico/cirurgia-geral/)
+- Breno Batista (https://jacobfacuri.com.br/corpo-clinico/cirurgia-geral/breno-batista/)
+- Breno Fernandes Barbosa — CRM 19754; RQE 11984 (https://jacobfacuri.com.br/corpo-clinico/cirurgia-geral/breno-fernandes-barbosa/)
+- Diego Naziasene de Almeida — CRM 15094; RQE 9448 (https://jacobfacuri.com.br/corpo-clinico/cirurgia-geral/diego-naziasene-de-almeida/)
+- Guilherme Rivelli Lamboglia — CRM 18204; RQE 13812 (https://jacobfacuri.com.br/corpo-clinico/cirurgia-geral/guilherme-rivelli-lamboglia/)
+- Jackson Lima Azevedo — CRM 22501 (https://jacobfacuri.com.br/corpo-clinico/cirurgia-geral/jackson-lima-azevedo/)
+- Luis Felipe Becker de Oliveira — CRM 25738 (https://jacobfacuri.com.br/corpo-clinico/cirurgia-geral/luis-felipe-becker-de-oliveira/)
+- Marco Túlio Brandão Alves — CRM 15578; RQE 9719 (https://jacobfacuri.com.br/corpo-clinico/cirurgia-geral/marco-tulio-brandao-alves/)
+- Raphael Sales Nogueira Amorim Canêdo — CRM 24050; RQE 16057 (https://jacobfacuri.com.br/corpo-clinico/cirurgia-geral/raphael-sales-nogueira-amorim-canedo/)
+- Renato de Lima Cambotta — CRM 22624; RQE 14159 (https://jacobfacuri.com.br/corpo-clinico/cirurgia-geral/renato-de-lima-cambotta/)
+
+### Cirurgia plástica (https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/)
+- Adevair Marques Filho — CRM-RJ 52.1088775-4; RQE 33158 (https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/adevair-marques-filho/)
+- Agnaldo Moitinho Damasceno Júnior — CRM 7894 (https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/agnaldo-moitinho-damasceno-junior/)
+- Alysson Silva Pinheiro — CRM 9416; RQE 6330 (https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/alysson-silva-pinheiro/)
+- Antonio Silva Rocha Junior — CRM 7219; RQE 4084 (https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/antonio-silva-rocha-junior/)
+- Antônio Urias Bernardino — CRM 6432 (https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/antonio-urias-bernardino/)
+- Danilo Estevam — CRM 11779; RQE 6211 (https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/danilo-estevam/)
+- Dhyego Curado — CRM 13780; RQE 10032 (https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/dhyego-curado/)
+- Douglas Vinícius Silva — CRM 20484; RQE 14773 (https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/douglas-vinicius-silva/)
+- Guilherme Chaves de Abreu — CRM 17971; RQE 15221 (https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/guilherme-chaves-de-abreu/)
+- Gustavo da Costa Machado — CRM 12333; RQE 8870 (https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/gustavo-da-costa-machado/)
+- Leonardo Magalhães Cavalcante — CRM 12331; RQE 8569 (https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/leonardo-magalhaes-cavalcante/)
+- Paulo Ricardo Nunes da Rocha — CRM 27840; RQE 15577 (https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/paulo-ricardo-nunes-da-rocha/)
+- Randher Sérgio Zeferino de Moura Monteiro — CRM 26077; RQE 14198 (https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/randher-sergio-zeferino-de-moura-monteiro/)
+- Rodolfo Guedes Afiune — CRM 15568 (https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/rodolfo-guedes-afiune/)
+- Rogerio Morale de Oliveira — CRM 10728; RQE 5118 (https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/rogerio-morale-de-oliveira/)
+- Suellen Gusmão — CRM 15642; RQE 95543 (https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/suellen-gusmao/)
+- Wander Antônio Bissi Pirota — CRM 24340; RQE 15961 (https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/wander-antonio-bissi-pirota/)
+- Willian Pires de Oliveira Junior — CRM 15452; RQE 13058 (https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/willian-pires-de-oliveira-junior/)
+
+### Cirurgia torácica (https://jacobfacuri.com.br/corpo-clinico/cirurgia-toracica/)
+- Marcelo Loze de Queiroz — CRM 8320; RQE 5271 (https://jacobfacuri.com.br/corpo-clinico/cirurgia-toracica/marcelo-loze-de-queiroz/)
+
+### Cirurgia vascular (https://jacobfacuri.com.br/corpo-clinico/cirurgia-vascular/)
+- Verlaine dos Reis — CRM 7370; RQE 3883 (https://jacobfacuri.com.br/corpo-clinico/cirurgia-vascular/verlaine-dos-reis/)
+
+### Clínica médica (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/)
+- Ana Beatriz Sabino Pereira (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/ana-beatriz-sabino-pereira/)
+- Clara Elyades Araújo Cabral — CRM 30334 (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/clara-elyades-araujo-cabral/)
+- Daniella Mendes de Souza Sobrinho — CRM 27779 (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/daniella-mendes-de-souza-sobrinho/)
+- Danilo Alvin de Paiva Gonçalves Filho — CRM 30354 (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/danilo-alvin-de-paiva-goncalves-filho/)
+- Estéfane Almeida Prado — CRM 28807 (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/estefane-almeida-prado/)
+- Ester Renata Souza Silva — CRM 30298 (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/ester-renata-souza-silva/)
+- Gabriel Mascarenhas Bergholz Sahium — CRM 25420 (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/gabriel-mascarenhas-bergholz-sahium/)
+- Geovana Cabral Silva — CRM 29546 (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/geovana-cabral-silva/)
+- Guilherme de Assis Rodrigues — CRM 28751 (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/guilherme-de-assis-rodrigues/)
+- Guilherme de Oliveira de Barbosa — CRM 10950 (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/guilherme-de-oliveira-de-barbosa/)
+- Gutembergue Silva Oliveira Júnior — CRM 28752 (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/gutembergue-silva-oliveira-junior/)
+- Ian Camilo Costa Maranhão — CRM 26304 (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/ian-camilo-costa-maranhao/)
+- Ibrahim Jacob Facuri Filho — CRM 18742 (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/ibrahim-jacob-facuri-filho/)
+- Isabella Carneiro Oliveira Gonçalves Vaz — CRM 30832 (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/isabella-carneiro-oliveira-goncalves-vaz/)
+- João Paulo Sabino Pereira — CRM 25252 (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/joao-paulo-sabino-pereira/)
+- João Pedro Cajango Fávero Coimbra — CRM 28155 (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/joao-pedro-cajango-favero-coimbra/)
+- Júlia Sant' Ana Zabrockis — CRM 30427 (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/julia-sant-ana-zabrockis/)
+- Lídia Andrea Karim Goncalves — CRM 23313 (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/lidia-andrea-karim-goncalves/)
+- Lorena Torres Magalhães — CRM 29292 (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/lorena-torres-magalhaes/)
+- Lucas Martins Morais — CRM 29823 (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/lucas-martins-morais/)
+- Mardem José Cordeiro Souza Netto — CRM 24799 (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/mardem-jose-cordeiro-souza-netto/)
+- Maria Carolina Aires Silva (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/maria-carolina-aires-silva/)
+- Mariana Reis Chaves (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/mariana-reis-chaves/)
+- Matheus Rezende Rabelo (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/matheus-rezende-rabelo/)
+- Mauro Cordeiro de Andrade Filho — CRM 22995 (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/mauro-cordeiro-de-andrade-filho/)
+- Mayara Esteves França Assunção — CRM 26213 (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/mayara-esteves-franca-assuncao/)
+- Nara Christyn Alves Araújo — CRM 27532 (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/nara-christyn-alves-araujo/)
+- Nathália de Pina Sousa Pinheiro — CRM 29837 (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/nathalia-de-pina-sousa-pinheiro/)
+- Nathan Bandeira Vinhal — CRM 20998 (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/nathan-bandeira-vinhal/)
+- Rafael Queiroz de Oliveira (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/rafael-queiroz-de-oliveira/)
+- Rafael Rosado Soares dos Santos — CRM 30071 (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/rafael-rosado-soares-dos-santos/)
+- Rodrigo Dias Cassimiro — CRM 30765 (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/rodrigo-dias-cassimiro/)
+- Rodrigo Fernandes F. Nassar (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/rodrigo-fernandes-f-nassar/)
+- Rossini Santana Fleury Neto — CRM 30774 (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/rossini-santana-fleury-neto/)
+- Tamires Rocha Sanches — CRM 22236 (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/tamires-rocha-sanches/)
+- Victor Henrique Ferreira Santos — CRM 30519 (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/victor-henrique-ferreira-santos/)
+- Vitória Costa Ataídes (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/vitoria-costa-ataides/)
+- Waler José de Campos Reis (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/waler-jose-de-campos-reis/)
+- Willian Lucio Nunes — CRM 17622 (https://jacobfacuri.com.br/corpo-clinico/clinica-medica/willian-lucio-nunes/)
+
+### Coloproctologia / Cirurgia Geral (https://jacobfacuri.com.br/corpo-clinico/coloproctologia-cirurgia-geral/)
+- Cristiano de Magalhães Nunes — CRM 9060; RQE 4786 e 4597 (https://jacobfacuri.com.br/corpo-clinico/coloproctologia-cirurgia-geral/cristiano-de-magalhaes-nunes/)
+
+### Gastroenterologia (https://jacobfacuri.com.br/corpo-clinico/gastroenterologia/)
+- Ibrahim Jacob Facuri — CRM-GO 4506 (https://jacobfacuri.com.br/corpo-clinico/gastroenterologia/ibrahim-jacob-facuri/)
+- Joffre Rezende Neto — CRM 15275; RQE 10060 (https://jacobfacuri.com.br/corpo-clinico/gastroenterologia/joffre-rezende-neto/)
+
+### Ginecologia e obstetrícia (https://jacobfacuri.com.br/corpo-clinico/ginecologia-e-obstetricia/)
+- Antônio Rosário — CRM 8073; RQE 3298 e 3297 (https://jacobfacuri.com.br/corpo-clinico/ginecologia-e-obstetricia/antonio-rosario/)
+- Júlia Souza Santos Cargnin — CRM 23738; RQE 12536 (https://jacobfacuri.com.br/corpo-clinico/ginecologia-e-obstetricia/julia-souza-santos-cargnin/)
+- Julmara Toledo — CRM 10528; RQE 6051 (https://jacobfacuri.com.br/corpo-clinico/ginecologia-e-obstetricia/julmara-toledo/)
+- Maria Elaine de Assis Oliveira — CRM 10953; RQE 6309 (https://jacobfacuri.com.br/corpo-clinico/ginecologia-e-obstetricia/maria-elaine-de-assis-oliveira/)
+
+### Infectologia (https://jacobfacuri.com.br/corpo-clinico/infectologia/)
+- Débora Rigo Guimarães de Macedo Bento — CRM-RJ 5296230-9 (https://jacobfacuri.com.br/corpo-clinico/infectologia/debora-rigo-guimaraes-de-macedo-bento/)
+
+### Medicina de família (https://jacobfacuri.com.br/corpo-clinico/medicina-de-familia/)
+- Anna Luisa Soares Assunção — CRM 24904 (https://jacobfacuri.com.br/corpo-clinico/medicina-de-familia/anna-luisa-soares-assuncao/)
+- Mario Victor Costa de Faria — CRM 23741 (https://jacobfacuri.com.br/corpo-clinico/medicina-de-familia/mario-victor-costa-de-faria/)
+
+### Neurologia (clínica e cirúrgica) (https://jacobfacuri.com.br/corpo-clinico/neurologia-clinica-e-cirurgica/)
+- Fernando Simões Nazareno — CRM 17363; RQE 12739 (https://jacobfacuri.com.br/corpo-clinico/neurologia-clinica-e-cirurgica/fernando-simoes-nazareno/)
+- Helioenai de Sousa Alencar — CRM 20127; RQE 16410 (https://jacobfacuri.com.br/corpo-clinico/neurologia-clinica-e-cirurgica/helioenai-de-sousa-alencar/)
+- Paulo Ronaldo Jube Ribeiro — CRM 7541; RQE 2696 (https://jacobfacuri.com.br/corpo-clinico/neurologia-clinica-e-cirurgica/paulo-ronaldo-jube-ribeiro/)
+- Tiago Vinícius Silva Fernandes — CRM 21377 (https://jacobfacuri.com.br/corpo-clinico/neurologia-clinica-e-cirurgica/tiago-vinicius-silva-fernandes/)
+- Wander Nasser Naves — CRM 12730; RQE 10259 (https://jacobfacuri.com.br/corpo-clinico/neurologia-clinica-e-cirurgica/wander-nasser-naves/)
+
+### Nutrologia e medicina funcional integrativa (https://jacobfacuri.com.br/corpo-clinico/nutrologia/)
+- Jacob Facuri Neto — CRM 20084 (https://jacobfacuri.com.br/corpo-clinico/nutrologia/jacob-facuri-neto/)
+
+### Oncologia (clínica e cirúrgica) (https://jacobfacuri.com.br/corpo-clinico/oncologia/)
+- Daniel de Paula Santana — CRM 23081; RQE 12117 e 15011 (https://jacobfacuri.com.br/corpo-clinico/oncologia/daniel-de-paula-santana/)
+- Sarah do Prado Pereira Barcelos — CRM 23440; RQE 15933 (https://jacobfacuri.com.br/corpo-clinico/oncologia/sarah-do-prado-pereira-barcelos/)
+
+### Ortopedia e traumatologia (https://jacobfacuri.com.br/corpo-clinico/ortopedia-e-traumatologia/)
+- Daniela Cristina Endres — CRM 24123; RQE 16017 (https://jacobfacuri.com.br/corpo-clinico/ortopedia-e-traumatologia/daniela-cristina-endres/)
+- Danillo Gomes Leite — CRM 18713; RQE 11904 e 14260 (https://jacobfacuri.com.br/corpo-clinico/ortopedia-e-traumatologia/danillo-gomes-leite/)
+- Francisco Antônio Batista Carvalho Gedda — CRM 17705 (https://jacobfacuri.com.br/corpo-clinico/ortopedia-e-traumatologia/francisco-antonio-batista-carvalho-gedda/)
+- João Cláudio Ferreira Miranda — CRM 22782; RQE 15206 (https://jacobfacuri.com.br/corpo-clinico/ortopedia-e-traumatologia/joao-claudio-ferreira-miranda/)
+- Leonardo Estanislau — CRM 29623 (https://jacobfacuri.com.br/corpo-clinico/ortopedia-e-traumatologia/leonardo-estanislau/)
+- Márcio Duarte Guimarães — CRM 5733 (https://jacobfacuri.com.br/corpo-clinico/ortopedia-e-traumatologia/marcio-duarte-guimaraes/)
+
+### Otorrinolaringologia (https://jacobfacuri.com.br/corpo-clinico/otorrinolaringologia/)
+- Guilherme Horbilon — CRM 19274; RQE 13130 (https://jacobfacuri.com.br/corpo-clinico/otorrinolaringologia/guilherme-horbilon/)
+- Leonardo Henrique Tolentino — CRM 11002; RQE 8881 (https://jacobfacuri.com.br/corpo-clinico/otorrinolaringologia/leonardo-henrique-tolentino/)
+- Milla Rezende Parreira — CRM 22712; RQE 15711 e 16021 (https://jacobfacuri.com.br/corpo-clinico/otorrinolaringologia/milla-rezende-parreira/)
+- Renata Cristine Figueiredo Cleto — CRM 13220 (https://jacobfacuri.com.br/corpo-clinico/otorrinolaringologia/renata-cristine-figueiredo-cleto/)
+- Renato Cardoso Guimarães — CRM 13741 (https://jacobfacuri.com.br/corpo-clinico/otorrinolaringologia/renato-cardoso-guimaraes/)
+- Renato Marinho Correa — CRM 13883 (https://jacobfacuri.com.br/corpo-clinico/otorrinolaringologia/renato-marinho-correa/)
+
+### Pediatria (https://jacobfacuri.com.br/corpo-clinico/pediatria/)
+- Aline Amaral Moraes — CRM 18154; RQE 14167 e 11858 (https://jacobfacuri.com.br/corpo-clinico/pediatria/aline-amaral-moraes/)
+- Carolina Gomes Machado — CRM 22496; RQE 13957 (https://jacobfacuri.com.br/corpo-clinico/pediatria/carolina-gomes-machado/)
+- Danielle Tolentino Lousada de Carvalho — CRM 15166; RQE 7490 (https://jacobfacuri.com.br/corpo-clinico/pediatria/danielle-tolentino-lousada-de-carvalho/)
+- Debora Damiana da Silveira Pereira — CRM 11775; RQE 9336 e 6540 (https://jacobfacuri.com.br/corpo-clinico/pediatria/debora-damiana-da-silveira-pereira/)
+- Edward Esteves Pereira — CRM 6982; RQE 1922 (https://jacobfacuri.com.br/corpo-clinico/pediatria/edward-esteves-pereira/)
+- Fernando Gonçalves Borges — CRM-GO 21934; RQE 11817 (https://jacobfacuri.com.br/corpo-clinico/pediatria/fernando-golcalves-borges/)
+- Leticia de Borba Neiva — CRM 19092; RQE 11750 (https://jacobfacuri.com.br/corpo-clinico/pediatria/leticia-de-borba-neiva/)
+- Ludmila Ruys Lopes Jasbick — CRM 20831; RQE 14659 (https://jacobfacuri.com.br/corpo-clinico/pediatria/ludmila-ruys-lopes-jasbick/)
+- Marcia Regina Rezende — CRM 7114; RQE 3204 (https://jacobfacuri.com.br/corpo-clinico/pediatria/marcia-regina-rezende/)
+- Mariana F. G. Toledo Franciscon — CRM 18838; RQE 1404 e 12388 (https://jacobfacuri.com.br/corpo-clinico/pediatria/mariana-f-g-toledo-franciscon/)
+- Simone Rosa de Castro — CRM 7672; RQE 3556 (https://jacobfacuri.com.br/corpo-clinico/pediatria/simone-rosa-de-castro/)
+
+### Pneumologia (https://jacobfacuri.com.br/corpo-clinico/pneumologia/)
+- Guylherme Saraiva — CRM 22505; RQE 15812 (https://jacobfacuri.com.br/corpo-clinico/pneumologia/guylherme-saraiva/)
+
+### Radiologia (https://jacobfacuri.com.br/corpo-clinico/radiologia/)
+- Maurício Álvares Salum Ximenes — CRM 16459; RQE 8082 (https://jacobfacuri.com.br/corpo-clinico/radiologia/mauricio-alvares-salum-ximenes/)
+
+### Urologia (https://jacobfacuri.com.br/corpo-clinico/urologia/)
+- Luis Fernando Bastos Ribeiro — CRM 21908; RQE 11194 e 11195 (https://jacobfacuri.com.br/corpo-clinico/urologia/luis-fernando-bastos-ribeiro/)
+- Rodrigo Barros Ribeiro — CRM 13596; RQE 11804 (https://jacobfacuri.com.br/corpo-clinico/urologia/rodrigo-barros-ribeiro/)
+
+## Perguntas frequentes (FAQ)
+
+### Como marcar consulta no Centro Clínico ou falar com o Hospital Jacob Facuri?
+O agendamento de consultas eletivas nas 24 especialidades, exames diagnósticos e informações sobre atendimento funcionam de segunda a sexta-feira, das 8h às 18h, pelo WhatsApp +55 (62) 99902-2623 (https://api.whatsapp.com/send?phone=5562999022623&text=Ol%C3%A1%2C%20gostaria%20de%20marcar%20uma%20consulta.), pelos telefones (62) 3621-1919 e (62) 3621-1900 ou pelos e-mails consultas@jacobfacuri.com.br e contato@jacobfacuri.com.br.
+
+### O Hospital Jacob Facuri realiza cirurgias? Quais especialidades cirúrgicas são atendidas?
+Sim. O hospital dispõe de centro cirúrgico com sete salas amplas, arco cirúrgico GE, torres de vídeo Stryker e retaguarda imediata de UTIs adulto e neonatal 24h. Atende cirurgia geral, cirurgia bariátrica, cirurgia do aparelho digestivo, coloproctologia, cirurgia plástica, cirurgia torácica, cirurgia vascular e endovascular, cirurgia cardíaca e hemodinâmica intervencionista, neurocirurgia e coluna, ortopedia e traumatologia, urologia, cirurgia oncológica e cirurgia buco-maxilo-facial.
+
+### Quais exames diagnósticos e de imagem podem ser agendados no hospital?
+O complexo realiza ressonância magnética 1.5T, tomografia computadorizada multislice, ultrassonografia com Doppler e raio-X digital (por meio da Clínica da Imagem, acreditada PADI e certificada CBR), além de endoscopia digestiva, colonoscopia, exames cardiológicos e vasculares no Centro Diagnóstico.
+
+### O atendimento é apenas por convênio ou também particular?
+O Hospital Jacob Facuri e o Centro Clínico atendem tanto pacientes particulares quanto beneficiários de 18 operadoras de saúde listadas (Affego, Assefaz, Blue Saúde, Caesan Unimed, Cassi, Fundação Itaú, Fusex, Geap, Imas, Ipasgo, Mais Saúde, Porto Saúde, Postal Saúde, Saúde Caixa, Select, Unimed, Vitallis e Vivacom), mediante confirmação prévia de cobertura pela central de atendimento.
+
+### Onde fica localizado o Hospital Jacob Facuri e o Centro Clínico?
+O complexo está localizado na Rua 08, nº 657, Centro, Goiânia – GO, CEP 74013-030 (https://maps.app.goo.gl/DcSyeCZZJVirfKrGA).
+
+### Quantos consultórios e especialidades o Centro Clínico oferece?
+O Centro Clínico conta com mais de 30 consultórios distribuídos em seis andares e reúne 134 profissionais cadastrados em 24 especialidades médicas e odontológicas.
+
+### O pronto-socorro funciona 24 horas?
+Sim. O pronto-socorro funciona 24 horas por dia, todos os dias, em uma área superior a 1.000 m² com quatro consultórios médicos, sala vermelha com leitos de estabilização e sala de gesso.
+
+### Quais serviços o Hospital Jacob Facuri oferece?
+O complexo oferece pronto-socorro 24 horas, Centro Clínico com mais de 30 consultórios, centro cirúrgico com sete salas, 51 leitos de UTI adulto (incluindo 13 humanizados), 30 leitos de UTI neonatal, 54 apartamentos, 15 enfermarias, hemodinâmica 24 horas, diagnóstico por imagem (Clínica da Imagem), centro diagnóstico (endoscopia e colonoscopia), Câncer Center (em parceria com o Ingoh) e oftalmologia (Centro Goiano da Visão).
+
+### O Hospital Jacob Facuri possui acreditação de qualidade?
+Sim. O hospital possui acreditação ONA nível 3 — Acreditado com Excelência, concedida pela Organização Nacional de Acreditação (ONA).
+
+### Como registrar elogios, sugestões ou reclamações?
+O paciente ou familiar pode entrar em contato com a Ouvidoria pelo e-mail ouvidoria@jacobfacuri.com.br, pelos telefones (62) 3621-1919 e (62) 3621-1900 (segunda a sexta, das 8h às 18h) ou pela página https://jacobfacuri.com.br/ouvidoria/.

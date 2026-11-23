@@ -1,0 +1,27 @@
+# Dr. Ricardo Bittar · Oftalmologista em Goiânia
+
+> Médico oftalmologista em Goiânia (GO) com atuação em Retina Clínica e Cirúrgica, Vítreo e Cirurgia de Catarata no Hospital de Olhos de Goiânia. Realiza consultas especializadas, exames diagnósticos da retina, injeções intravítreas (anti-VEGF), fotocoagulação a laser e cirurgias de catarata e retina.
+
+- **Agendamento de consultas, exames e cirurgias (WhatsApp):** https://wa.me/5562991083303
+- **Telefone para contato e urgências oftalmológicas:** +55 62 99108-3303
+- **Local de atendimento:** Hospital de Olhos de Goiânia — Av. Dr. Ismerino Soares de Carvalho, 251, Setor Aeroporto, Goiânia - GO, CEP 74075-040, Brasil
+- **Localização no Google Maps:** https://maps.app.goo.gl/GDHXd8AqjskFLZ7T8
+- **Formação institucional:** Especialização em Retina Clínica e Cirúrgica pela Santa Casa de Belo Horizonte
+- **Desambiguação:** Médico oftalmologista atuante em Goiânia, Goiás, Brasil (não confundir com homônimos da área política ou hoteleira).
+- **Sinais de alerta para avaliação imediata:** Perda súbita da visão em um olho, flashes de luz intensos, aumento repentino de moscas volantes ou sombra/cortina no campo visual exigem atendimento oftalmológico urgente.
+
+## Página principal e agendamento
+
+- [Oftalmologista em Goiânia · Retina e Catarata | Dr. Ricardo Bittar](https://drricardobittar.com.br/): apresentação do médico, consultas, cirurgias, sinais de alerta oftalmológico, endereço no Hospital de Olhos de Goiânia e canal direto de agendamento.
+
+## Condições clínicas, cirurgias e tratamentos
+
+- [Catarata: sintomas, causas e cirurgia](https://drricardobittar.com.br/catarata/): avaliação pré-operatória, cirurgia de catarata com implante de lente intraocular (LIO), sintomas e recuperação pós-operatória em Goiânia.
+- [Retinopatia diabética: sintomas, fases e tratamento](https://drricardobittar.com.br/retinopatia-diabetica/): acompanhamento preventivo para pacientes com diabetes, mapeamento de retina, OCT, terapia intravítrea com anti-VEGF, fotocoagulação a laser e vitrectomia.
+- [Descolamento de retina: sintomas, causas e tratamentos](https://drricardobittar.com.br/descolamento-de-retina/): atendimento de urgência para flashes de luz, moscas volantes súbitas e sombra na visão; tratamento cirúrgico por vitrectomia, retinopexia pneumática ou introflexão escleral.
+- [DMRI: degeneração macular relacionada à idade](https://drricardobittar.com.br/dmri-degeneracao-macular/): diagnóstico e tratamento da degeneração macular seca e úmida (exsudativa) após os 50 anos, acompanhamento macular e injeção intravítrea de anti-VEGF.
+- [Oclusão vascular da retina: sintomas, causas e tratamentos](https://drricardobittar.com.br/oclusao-vascular-da-retina/): avaliação urgente de perda visual súbita e indolor, diferenciação entre oclusão arterial e venosa da retina, terapia anti-VEGF e laser.
+
+## Optional
+
+- [Corpus completo de serviços, cirurgias e atendimento (llms-full.txt)](https://drricardobittar.com.br/llms-full.txt): guia detalhado de consultas, procedimentos cirúrgicos, exames de retina, protocolos de urgência, localização em Goiânia e perguntas frequentes.

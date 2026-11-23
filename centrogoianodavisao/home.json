@@ -1,0 +1,988 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://centrogoianodavisao.com.br/#website",
+      "url": "https://centrogoianodavisao.com.br/",
+      "name": "Centro Goiano da Visão",
+      "inLanguage": "pt-BR",
+      "publisher": {
+        "@id": "https://centrogoianodavisao.com.br/#organization"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://centrogoianodavisao.com.br/#webpage",
+      "url": "https://centrogoianodavisao.com.br/",
+      "name": "Centro Goiano da Visão | Oftalmologista em Goiânia",
+      "description": "Clínica oftalmológica no Setor Central de Goiânia, no Edifício Clínico Jacob Facuri. Consultas, exames de consultório e corpo clínico em catarata, retina, córnea, glaucoma e mais. Agende pelo WhatsApp.",
+      "inLanguage": "pt-BR",
+      "dateModified": "2026-11-23",
+      "isPartOf": {
+        "@id": "https://centrogoianodavisao.com.br/#website"
+      },
+      "about": {
+        "@id": "https://centrogoianodavisao.com.br/#organization"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://centrogoianodavisao.com.br/#primaryimage"
+      },
+      "mainEntity": {
+        "@id": "https://centrogoianodavisao.com.br/#organization"
+      }
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://centrogoianodavisao.com.br/#primaryimage",
+      "url": "https://centrogoianodavisao.com.br/_next/static/immutable/media/hero.2yso7g-xg9dbj.webp",
+      "contentUrl": "https://centrogoianodavisao.com.br/_next/static/immutable/media/hero.2yso7g-xg9dbj.webp",
+      "inLanguage": "pt-BR"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://centrogoianodavisao.com.br/#logo",
+      "url": "https://centrogoianodavisao.com.br/marca/logo-vertical-dourada.svg",
+      "contentUrl": "https://centrogoianodavisao.com.br/marca/logo-vertical-dourada.svg",
+      "caption": "Centro Goiano da Visão"
+    },
+    {
+      "@type": "MedicalClinic",
+      "@id": "https://centrogoianodavisao.com.br/#organization",
+      "name": "Centro Goiano da Visão",
+      "url": "https://centrogoianodavisao.com.br/",
+      "description": "Clínica oftalmológica no Edifício Clínico Jacob Facuri, no Setor Central de Goiânia. Consultas e exames de consultório, com corpo clínico em catarata, retina e vítreo, córnea, glaucoma, cirurgia refrativa, uveítes e plástica ocular. Agendamento pelo WhatsApp ou telefone.",
+      "disambiguatingDescription": "Clínica oftalmológica independente localizada no 1º andar do Edifício Clínico Jacob Facuri, Setor Central de Goiânia (GO). Realiza consultas particulares (credenciamento com convênios em andamento) com agendamento ou sem horário marcado conforme disponibilidade médica, consultas de rotina para crianças a partir de 7 anos, urgências oftalmológicas de segunda a sexta-feira das 8h às 18h (sem atendimento 24 horas), 10 exames em consultório e 7 cirurgias conduzidas pelo corpo clínico em hospital oftalmológico externo.",
+      "logo": {
+        "@id": "https://centrogoianodavisao.com.br/#logo"
+      },
+      "image": [
+        "https://centrogoianodavisao.com.br/_next/static/immutable/media/hero.2yso7g-xg9dbj.webp",
+        "https://centrogoianodavisao.com.br/_next/static/immutable/media/consultorio.198bzm44zce22.webp",
+        "https://centrogoianodavisao.com.br/_next/static/immutable/media/sala-de-espera.380xzpfwjoa9i.webp"
+      ],
+      "foundingDate": "2026-04-15",
+      "telephone": "+5562936180791",
+      "isAcceptingNewPatients": true,
+      "medicalSpecialty": {
+        "@type": "MedicalSpecialty",
+        "name": "Oftalmologia"
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "08:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.instagram.com/centrogoianodavisao/"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Rua 08, nº 646, 1º andar, Edifício Clínico Jacob Facuri, Setor Central",
+        "addressLocality": "Goiânia",
+        "addressRegion": "GO",
+        "postalCode": "74013-030",
+        "addressCountry": "BR"
+      },
+      "amenityFeature": [
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Estacionamentos nas proximidades da Rua 08, Setor Central",
+          "value": true
+        }
+      ],
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Goiânia",
+          "containedInPlace": {
+            "@type": "State",
+            "name": "Goiás"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Trindade",
+          "containedInPlace": {
+            "@type": "State",
+            "name": "Goiás"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Guapó",
+          "containedInPlace": {
+            "@type": "State",
+            "name": "Goiás"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Inhumas",
+          "containedInPlace": {
+            "@type": "State",
+            "name": "Goiás"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Goianira",
+          "containedInPlace": {
+            "@type": "State",
+            "name": "Goiás"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Nerópolis",
+          "containedInPlace": {
+            "@type": "State",
+            "name": "Goiás"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Hidrolândia",
+          "containedInPlace": {
+            "@type": "State",
+            "name": "Goiás"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Abadia de Goiás",
+          "containedInPlace": {
+            "@type": "State",
+            "name": "Goiás"
+          }
+        },
+        {
+          "@type": "Place",
+          "name": "Setor Central",
+          "containedInPlace": {
+            "@type": "City",
+            "name": "Goiânia",
+            "containedInPlace": {
+              "@type": "State",
+              "name": "Goiás"
+            }
+          }
+        },
+        {
+          "@type": "Place",
+          "name": "Setor Oeste",
+          "containedInPlace": {
+            "@type": "City",
+            "name": "Goiânia",
+            "containedInPlace": {
+              "@type": "State",
+              "name": "Goiás"
+            }
+          }
+        },
+        {
+          "@type": "Place",
+          "name": "Setor Coimbra",
+          "containedInPlace": {
+            "@type": "City",
+            "name": "Goiânia",
+            "containedInPlace": {
+              "@type": "State",
+              "name": "Goiás"
+            }
+          }
+        },
+        {
+          "@type": "Place",
+          "name": "Campinas",
+          "containedInPlace": {
+            "@type": "City",
+            "name": "Goiânia",
+            "containedInPlace": {
+              "@type": "State",
+              "name": "Goiás"
+            }
+          }
+        },
+        {
+          "@type": "Place",
+          "name": "Setor Fama",
+          "containedInPlace": {
+            "@type": "City",
+            "name": "Goiânia",
+            "containedInPlace": {
+              "@type": "State",
+              "name": "Goiás"
+            }
+          }
+        }
+      ],
+      "knowsAbout": [
+        "Oftalmologia",
+        "Consulta oftalmológica",
+        "Urgência oftalmológica",
+        "Catarata",
+        "Retina e vítreo",
+        "Retina clínica e cirúrgica",
+        "Córnea",
+        "Glaucoma",
+        "Cirurgia refrativa",
+        "Uveítes",
+        "Plástica ocular",
+        "Avaliação da acuidade visual",
+        "Refração",
+        "Biomicroscopia (lâmpada de fenda)",
+        "Tonometria",
+        "Mapeamento de retina",
+        "Exame de fundo de olho",
+        "Teste de Schirmer",
+        "Teste de daltonismo",
+        "Retirada de corpo estranho",
+        "Gonioscopia",
+        "Cirurgia de catarata",
+        "Vitrectomia",
+        "Cirurgia de pterígio",
+        "Correção de pálpebras",
+        "Cirurgia de glaucoma",
+        "Injeções intravítreas"
+      ],
+      "availableService": [
+        {
+          "@type": "MedicalProcedure",
+          "name": "Consulta oftalmológica de rotina (adultos e crianças a partir de 7 anos)"
+        },
+        {
+          "@type": "MedicalProcedure",
+          "name": "Atendimento oftalmológico sem horário marcado (sujeito à disponibilidade médica)"
+        },
+        {
+          "@type": "MedicalProcedure",
+          "name": "Atendimento de urgência oftalmológica (segunda a sexta-feira, das 8h às 18h)"
+        },
+        {
+          "@type": "MedicalTest",
+          "name": "Avaliação da acuidade visual"
+        },
+        {
+          "@type": "MedicalTest",
+          "name": "Refração"
+        },
+        {
+          "@type": "MedicalTest",
+          "name": "Biomicroscopia (lâmpada de fenda)"
+        },
+        {
+          "@type": "MedicalTest",
+          "name": "Tonometria"
+        },
+        {
+          "@type": "MedicalTest",
+          "name": "Mapeamento de retina"
+        },
+        {
+          "@type": "MedicalTest",
+          "name": "Exame de fundo de olho"
+        },
+        {
+          "@type": "MedicalTest",
+          "name": "Teste de Schirmer"
+        },
+        {
+          "@type": "MedicalTest",
+          "name": "Teste de daltonismo"
+        },
+        {
+          "@type": "MedicalProcedure",
+          "name": "Retirada de corpo estranho"
+        },
+        {
+          "@type": "MedicalTest",
+          "name": "Gonioscopia"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@id": "https://centrogoianodavisao.com.br/#catalog"
+      },
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "telephone": "+5562936180791",
+          "contactType": "appointments",
+          "areaServed": "BR",
+          "availableLanguage": "pt-BR",
+          "url": "https://wa.me/5562936180791"
+        },
+        {
+          "@type": "ContactPoint",
+          "telephone": "+5562936180791",
+          "contactType": "customer service",
+          "areaServed": "BR",
+          "availableLanguage": "pt-BR",
+          "url": "tel:+5562936180791"
+        }
+      ],
+      "potentialAction": [
+        {
+          "@type": "ReserveAction",
+          "name": "Agendar consulta ou exame pelo WhatsApp",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://wa.me/5562936180791",
+            "actionPlatform": [
+              "http://schema.org/DesktopWebPlatform",
+              "http://schema.org/MobileWebPlatform",
+              "http://schema.org/IOSPlatform",
+              "http://schema.org/AndroidPlatform"
+            ]
+          },
+          "result": {
+            "@type": "Reservation",
+            "name": "Agendamento de Consulta Oftalmológica"
+          }
+        },
+        {
+          "@type": "CommunicateAction",
+          "name": "Ligar ou falar com a equipe do Centro Goiano da Visão",
+          "target": [
+            {
+              "@type": "EntryPoint",
+              "urlTemplate": "tel:+5562936180791"
+            },
+            {
+              "@type": "EntryPoint",
+              "urlTemplate": "https://wa.me/5562936180791"
+            }
+          ]
+        }
+      ],
+      "employee": [
+        {
+          "@id": "https://centrogoianodavisao.com.br/#alexandre-nogueira-santos"
+        },
+        {
+          "@id": "https://centrogoianodavisao.com.br/#ricardo-henrique-goulart-bittar"
+        },
+        {
+          "@id": "https://centrogoianodavisao.com.br/#hugo-soares-de-a-p-farias"
+        },
+        {
+          "@id": "https://centrogoianodavisao.com.br/#carlos-antonio-rosa-filho"
+        },
+        {
+          "@id": "https://centrogoianodavisao.com.br/#izabela-aguiar-de-faria"
+        },
+        {
+          "@id": "https://centrogoianodavisao.com.br/#nathalia-cruvinel-m-carneiro"
+        },
+        {
+          "@id": "https://centrogoianodavisao.com.br/#suzane-cristina-de-lima-filgueira"
+        },
+        {
+          "@id": "https://centrogoianodavisao.com.br/#anne-moura-almeida"
+        },
+        {
+          "@id": "https://centrogoianodavisao.com.br/#luanna-lemos-arruda"
+        }
+      ]
+    },
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://centrogoianodavisao.com.br/#catalog",
+      "name": "Consultas, Exames e Cirurgias Oftalmológicas — Centro Goiano da Visão",
+      "itemListElement": [
+        {
+          "@type": "OfferCatalog",
+          "name": "Consultas e Atendimentos Ambulatoriais",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "MedicalProcedure",
+                "name": "Consulta oftalmológica de rotina (adultos e crianças a partir de 7 anos)"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "MedicalProcedure",
+                "name": "Atendimento oftalmológico sem horário marcado (sujeito à disponibilidade médica)"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "MedicalProcedure",
+                "name": "Atendimento de urgência oftalmológica (segunda a sexta-feira, das 8h às 18h)"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "MedicalProcedure",
+                "name": "Avaliação pré-operatória e acompanhamento cirúrgico"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "OfferCatalog",
+          "name": "Exames e Procedimentos de Consultório",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "MedicalTest",
+                "name": "Avaliação da acuidade visual"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "MedicalTest",
+                "name": "Refração"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "MedicalTest",
+                "name": "Biomicroscopia (lâmpada de fenda)"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "MedicalTest",
+                "name": "Tonometria"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "MedicalTest",
+                "name": "Mapeamento de retina"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "MedicalTest",
+                "name": "Exame de fundo de olho"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "MedicalTest",
+                "name": "Teste de Schirmer"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "MedicalTest",
+                "name": "Teste de daltonismo"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "MedicalProcedure",
+                "name": "Retirada de corpo estranho"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "MedicalTest",
+                "name": "Gonioscopia"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "OfferCatalog",
+          "name": "Cirurgias Realizadas pelo Corpo Clínico em Hospital Oftalmológico Externo",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "MedicalProcedure",
+                "name": "Cirurgia de catarata"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "MedicalProcedure",
+                "name": "Cirurgia refrativa"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "MedicalProcedure",
+                "name": "Vitrectomia"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "MedicalProcedure",
+                "name": "Cirurgia de pterígio"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "MedicalProcedure",
+                "name": "Correção de pálpebras"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "MedicalProcedure",
+                "name": "Cirurgia de glaucoma"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "MedicalProcedure",
+                "name": "Injeções intravítreas"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://centrogoianodavisao.com.br/#alexandre-nogueira-santos",
+      "name": "Alexandre Nogueira Santos",
+      "honorificPrefix": "Dr.",
+      "jobTitle": "Médico Oftalmologista",
+      "url": "https://centrogoianodavisao.com.br/#equipe",
+      "image": "https://centrogoianodavisao.com.br/_next/static/immutable/media/alexandre-nogueira-santos.0rbkbqb77n9lk.webp",
+      "knowsAbout": [
+        "Catarata",
+        "Retina e vítreo"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "CRM-GO",
+          "value": "8812"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "RQE",
+          "value": "7730"
+        }
+      ],
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "CRM-GO",
+          "identifier": "8812"
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "RQE",
+          "identifier": "7730"
+        }
+      ],
+      "worksFor": {
+        "@id": "https://centrogoianodavisao.com.br/#organization"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://centrogoianodavisao.com.br/#ricardo-henrique-goulart-bittar",
+      "name": "Ricardo Henrique Goulart Bittar",
+      "honorificPrefix": "Dr.",
+      "jobTitle": "Médico Oftalmologista",
+      "url": "https://centrogoianodavisao.com.br/#equipe",
+      "image": "https://centrogoianodavisao.com.br/_next/static/immutable/media/ricardo-henrique-goulart-bittar.0harx88k2zvgr.webp",
+      "knowsAbout": [
+        "Catarata",
+        "Retina e vítreo"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "CRM-GO",
+          "value": "14978"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "RQE",
+          "value": "10399"
+        }
+      ],
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "CRM-GO",
+          "identifier": "14978"
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "RQE",
+          "identifier": "10399"
+        }
+      ],
+      "worksFor": {
+        "@id": "https://centrogoianodavisao.com.br/#organization"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://centrogoianodavisao.com.br/#hugo-soares-de-a-p-farias",
+      "name": "Hugo Soares de A. P. Farias",
+      "honorificPrefix": "Dr.",
+      "jobTitle": "Médico Oftalmologista",
+      "url": "https://centrogoianodavisao.com.br/#equipe",
+      "image": "https://centrogoianodavisao.com.br/_next/static/immutable/media/hugo-soares-farias.22gq26kwhudzs.webp",
+      "knowsAbout": [
+        "Catarata",
+        "Retina e vítreo"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "CRM-GO",
+          "value": "25705"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "RQE",
+          "value": "20282"
+        }
+      ],
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "CRM-GO",
+          "identifier": "25705"
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "RQE",
+          "identifier": "20282"
+        }
+      ],
+      "worksFor": {
+        "@id": "https://centrogoianodavisao.com.br/#organization"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://centrogoianodavisao.com.br/#carlos-antonio-rosa-filho",
+      "name": "Carlos Antonio Rosa Filho",
+      "honorificPrefix": "Dr.",
+      "jobTitle": "Médico Oftalmologista",
+      "url": "https://centrogoianodavisao.com.br/#equipe",
+      "image": "https://centrogoianodavisao.com.br/_next/static/immutable/media/carlos-antonio-rosa-filho.3mgpv8sv8kkbn.webp",
+      "knowsAbout": [
+        "Catarata",
+        "Retina e vítreo"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "CRM-GO",
+          "value": "23555"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "RQE",
+          "value": "19770"
+        }
+      ],
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "CRM-GO",
+          "identifier": "23555"
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "RQE",
+          "identifier": "19770"
+        }
+      ],
+      "worksFor": {
+        "@id": "https://centrogoianodavisao.com.br/#organization"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://centrogoianodavisao.com.br/#izabela-aguiar-de-faria",
+      "name": "Izabela Aguiar de Faria",
+      "honorificPrefix": "Dra.",
+      "jobTitle": "Médica Oftalmologista",
+      "url": "https://centrogoianodavisao.com.br/#equipe",
+      "image": "https://centrogoianodavisao.com.br/_next/static/immutable/media/izabela-aguiar-de-faria.3ncgolw3nc05n.webp",
+      "knowsAbout": [
+        "Retina e vítreo",
+        "Uveítes",
+        "Catarata"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "CRM-GO",
+          "value": "23827"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "RQE",
+          "value": "18446"
+        }
+      ],
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "CRM-GO",
+          "identifier": "23827"
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "RQE",
+          "identifier": "18446"
+        }
+      ],
+      "worksFor": {
+        "@id": "https://centrogoianodavisao.com.br/#organization"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://centrogoianodavisao.com.br/#nathalia-cruvinel-m-carneiro",
+      "name": "Nathalia Cruvinel M. Carneiro",
+      "honorificPrefix": "Dra.",
+      "jobTitle": "Médica Oftalmologista",
+      "url": "https://centrogoianodavisao.com.br/#equipe",
+      "image": "https://centrogoianodavisao.com.br/_next/static/immutable/media/nathalia-cruvinel-carneiro.1i3tp9b_ivpyj.webp",
+      "knowsAbout": [
+        "Catarata",
+        "Retina e vítreo"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "CRM-GO",
+          "value": "20921"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "RQE",
+          "value": "16738"
+        }
+      ],
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "CRM-GO",
+          "identifier": "20921"
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "RQE",
+          "identifier": "16738"
+        }
+      ],
+      "worksFor": {
+        "@id": "https://centrogoianodavisao.com.br/#organization"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://centrogoianodavisao.com.br/#suzane-cristina-de-lima-filgueira",
+      "name": "Suzane Cristina de Lima Filgueira",
+      "honorificPrefix": "Dra.",
+      "jobTitle": "Médica Oftalmologista",
+      "url": "https://centrogoianodavisao.com.br/#equipe",
+      "image": "https://centrogoianodavisao.com.br/_next/static/immutable/media/suzane-cristina-de-lima-filgueira.38wdxopsk6j5v.webp",
+      "knowsAbout": [
+        "Retina clínica e cirúrgica",
+        "Catarata"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "CRM-GO",
+          "value": "29842"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "RQE",
+          "value": "19926"
+        }
+      ],
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "CRM-GO",
+          "identifier": "29842"
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "RQE",
+          "identifier": "19926"
+        }
+      ],
+      "worksFor": {
+        "@id": "https://centrogoianodavisao.com.br/#organization"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://centrogoianodavisao.com.br/#anne-moura-almeida",
+      "name": "Anne Moura Almeida",
+      "honorificPrefix": "Dra.",
+      "jobTitle": "Médica Oftalmologista",
+      "url": "https://centrogoianodavisao.com.br/#equipe",
+      "image": "https://centrogoianodavisao.com.br/_next/static/immutable/media/anne-moura-almeida.0i8zckf7si7t2.webp",
+      "knowsAbout": [
+        "Córnea",
+        "Catarata",
+        "Cirurgia refrativa"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "CRM-GO",
+          "value": "30735"
+        }
+      ],
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "CRM-GO",
+          "identifier": "30735"
+        }
+      ],
+      "worksFor": {
+        "@id": "https://centrogoianodavisao.com.br/#organization"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://centrogoianodavisao.com.br/#luanna-lemos-arruda",
+      "name": "Luanna Lemos Arruda",
+      "honorificPrefix": "Dra.",
+      "jobTitle": "Médica Oftalmologista",
+      "url": "https://centrogoianodavisao.com.br/#equipe",
+      "image": "https://centrogoianodavisao.com.br/_next/static/immutable/media/luanna-lemos-arruda.3u2oi4ejkhoth.webp",
+      "knowsAbout": [
+        "Catarata",
+        "Glaucoma",
+        "Plástica ocular"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "CRM-GO",
+          "value": "26599"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "RQE",
+          "value": "19693"
+        }
+      ],
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "CRM-GO",
+          "identifier": "26599"
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "RQE",
+          "identifier": "19693"
+        }
+      ],
+      "worksFor": {
+        "@id": "https://centrogoianodavisao.com.br/#organization"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://centrogoianodavisao.com.br/#faq",
+      "isPartOf": {
+        "@id": "https://centrogoianodavisao.com.br/#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Como faço para agendar uma consulta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pelo WhatsApp ou pelo telefone (62) 93618-0791. A equipe informa os horários disponíveis e o profissional indicado para o seu caso."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Posso ir sem agendamento?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Atendemos sem horário marcado quando há médico disponível no momento. Para não esperar, recomendamos agendar antes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "A clínica aceita convênio?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No momento o atendimento é particular. Os credenciamentos com convênios estão em andamento; consulte a equipe sobre a situação atual."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vocês atendem crianças?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sim. Consultas de rotina para crianças a partir de 7 anos."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "E em caso de urgência?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Atendemos urgências oftalmológicas de segunda a sexta-feira, das 8h às 18h. Não há atendimento 24 horas. Fale com a equipe pelo WhatsApp ou telefone antes de vir."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Onde fica a clínica?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rua 08, nº 646, 1º andar, Edifício Clínico Jacob Facuri, Setor Central, Goiânia–GO, CEP 74013-030."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Tem estacionamento?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A clínica fica na Rua 08, no Setor Central, região com boa oferta de estacionamentos nas proximidades. Se preferir, nossa equipe pode orientar sobre como chegar pelo WhatsApp."
+          }
+        }
+      ]
+    }
+  ]
+}
