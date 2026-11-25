@@ -1,0 +1,1051 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Hospital",
+      "@id": "https://jacobfacuri.com.br/#organization",
+      "name": "Hospital Jacob Facuri",
+      "alternateName": [
+        "Hospital e Centro Clínico Jacob Facuri",
+        "Centro Clínico Jacob Facuri"
+      ],
+      "legalName": "Hospital e Maternidade São Marcos Ltda",
+      "taxID": "01.554.104/0001-00",
+      "foundingDate": "1957",
+      "url": "https://jacobfacuri.com.br/",
+      "description": "Hospital geral privado e centro clínico no centro de Goiânia, Goiás, fundado em 1957, com 249 leitos e acreditação ONA nível 3. Atendimento particular e por 18 convênios em pronto-socorro 24h, centro cirúrgico com sete salas, UTIs adulto e neonatal, hemodinâmica 24h, exames de imagem e diagnósticos, e consultas em 24 especialidades com 134 especialistas.",
+      "disambiguatingDescription": "Hospital geral privado de média e alta complexidade e centro clínico ambulatorial localizado na Rua 08, nº 657, Centro, Goiânia (GO), registrado no CNES 2337800 sob razão social Hospital e Maternidade São Marcos Ltda, com pronto-socorro 24h, centro cirúrgico e mais de 30 consultórios. Endoscopia digestiva e colonoscopia são realizadas somente com agendamento prévio ou para pacientes internados.",
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "CNES",
+          "value": "2337800"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "CRM-GO",
+          "value": "107"
+        }
+      ],
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://jacobfacuri.com.br/#logo",
+        "url": "https://jacobfacuri.com.br/icone-512.png",
+        "contentUrl": "https://jacobfacuri.com.br/icone-512.png",
+        "width": 512,
+        "height": 512,
+        "caption": "Hospital Jacob Facuri"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "@id": "https://jacobfacuri.com.br/#primaryimage",
+        "url": "https://jacobfacuri.com.br/assets/site/imagemCompartilhamento.jpg",
+        "contentUrl": "https://jacobfacuri.com.br/assets/site/imagemCompartilhamento.jpg",
+        "caption": "Hospital Jacob Facuri em Goiânia, GO"
+      },
+      "telephone": [
+        "+556236211919",
+        "+556236211900",
+        "+5562999022623"
+      ],
+      "email": "contato@jacobfacuri.com.br",
+      "currenciesAccepted": "BRL",
+      "paymentAccepted": "Particular e convênios médicos, mediante confirmação de cobertura pela central de atendimento: Affego, Assefaz, Blue Saúde, Caesan Unimed, Cassi, Fundação Itaú, Fusex, Geap, Imas, Ipasgo, Mais Saúde, Porto Saúde, Postal Saúde, Saúde Caixa, Select, Unimed, Vitallis e Vivacom",
+      "isAcceptingNewPatients": true,
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Rua 08, nº 657, Centro",
+        "addressLocality": "Goiânia",
+        "addressRegion": "GO",
+        "postalCode": "74013-030",
+        "addressCountry": "BR"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": -16.6732056,
+        "longitude": -49.259802
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Goiânia"
+        },
+        {
+          "@type": "State",
+          "name": "Goiás"
+        },
+        {
+          "@type": "Country",
+          "name": "Brasil"
+        }
+      ],
+      "hasMap": "https://maps.app.goo.gl/DcSyeCZZJVirfKrGA",
+      "sameAs": [
+        "https://www.instagram.com/jacob.facuri/",
+        "https://www.youtube.com/@jacob.facuri",
+        "https://www.facebook.com/hospitaljacobfacuri",
+        "https://www.linkedin.com/company/hospital-jacob-facuri/",
+        "http://cnes2.datasus.gov.br/Mod_Conjunto.asp?VCo_Unidade=5208702337800"
+      ],
+      "medicalSpecialty": [
+        "Cardiovascular",
+        "CommunityHealth",
+        "Dentistry",
+        "DietNutrition",
+        "Emergency",
+        "Gastroenterologic",
+        "Gynecologic",
+        "Infectious",
+        "Musculoskeletal",
+        "Neurologic",
+        "Obstetric",
+        "Oncologic",
+        "Optometric",
+        "Otolaryngologic",
+        "Pediatric",
+        "PlasticSurgery",
+        "PrimaryCare",
+        "Pulmonary",
+        "Radiography",
+        "Surgical",
+        "Urologic"
+      ],
+      "knowsAbout": [
+        "Pronto-socorro 24 horas",
+        "Consultas médicas e odontológicas em 24 especialidades",
+        "Cirurgia geral",
+        "Cirurgia bariátrica",
+        "Cirurgia plástica",
+        "Cirurgia torácica",
+        "Cirurgia vascular",
+        "Cirurgia do aparelho digestivo",
+        "Coloproctologia",
+        "Cirurgia cardíaca",
+        "Cirurgia neurológica",
+        "Cirurgia oncológica",
+        "Cirurgia buco-maxilo-facial",
+        "Terapia intensiva adulto",
+        "UTI adulto humanizada",
+        "UTI neonatal",
+        "Hemodinâmica e cardiologia intervencionista 24 horas",
+        "Ressonância magnética 1.5T",
+        "Tomografia computadorizada multislice",
+        "Ultrassom com Doppler",
+        "Raio-X digital",
+        "Endoscopia digestiva eletiva",
+        "Colonoscopia eletiva",
+        "Oncologia clínica e cirúrgica",
+        "Oftalmologia",
+        "Ortopedia e traumatologia",
+        "Tratamento de doenças da coluna vertebral",
+        "Urologia",
+        "Disfunção erétil"
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Leitos totais",
+          "value": 249,
+          "unitText": "leitos"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Leitos de UTI adulto",
+          "value": 51,
+          "unitText": "leitos"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Leitos de UTI adulto humanizada",
+          "description": "Incluídos nos 51 leitos de UTI adulto",
+          "value": 13,
+          "unitText": "leitos"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Leitos de UTI neonatal",
+          "value": 30,
+          "unitText": "leitos"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Leitos de apartamento",
+          "value": 54,
+          "unitText": "leitos"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Leitos de enfermaria",
+          "value": 15,
+          "unitText": "leitos"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Salas cirúrgicas",
+          "value": 7,
+          "unitText": "salas"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Consultórios no Centro Clínico",
+          "description": "Mais de 30 consultórios",
+          "minValue": 30,
+          "unitText": "consultórios"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Especialidades atendidas",
+          "value": 24,
+          "unitText": "especialidades"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Profissionais no corpo clínico",
+          "value": 134,
+          "unitText": "profissionais"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Convênios atendidos",
+          "value": 18,
+          "unitText": "operadoras"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Área construída",
+          "value": 13500,
+          "unitCode": "MTK",
+          "unitText": "m²"
+        }
+      ],
+      "award": "Acreditação ONA nível 3 — Acreditado com Excelência",
+      "hasCertification": {
+        "@type": "Certification",
+        "name": "Acreditação ONA nível 3 — Acreditado com Excelência",
+        "issuedBy": {
+          "@type": "Organization",
+          "name": "Organização Nacional de Acreditação (ONA)",
+          "url": "https://www.ona.org.br/"
+        },
+        "certificationStatus": "https://schema.org/CertificationActive"
+      },
+      "employee": {
+        "@type": "Person",
+        "@id": "https://jacobfacuri.com.br/corpo-clinico/gastroenterologia/ibrahim-jacob-facuri/#profissional",
+        "name": "Ibrahim Jacob Facuri",
+        "url": "https://jacobfacuri.com.br/corpo-clinico/gastroenterologia/ibrahim-jacob-facuri/",
+        "jobTitle": "Diretor técnico e diretor clínico",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "CRM-GO",
+          "value": "4506"
+        }
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "00:00",
+          "closes": "23:59",
+          "description": "Hospital e pronto-socorro abertos 24 horas por dia, todos os dias"
+        }
+      ],
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "contactType": "emergency",
+          "name": "Pronto-socorro 24h",
+          "telephone": "+556236211919",
+          "email": "contato@jacobfacuri.com.br",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday",
+              "Saturday",
+              "Sunday"
+            ],
+            "opens": "00:00",
+            "closes": "23:59"
+          },
+          "areaServed": "BR",
+          "availableLanguage": "pt-BR"
+        },
+        {
+          "@type": "ContactPoint",
+          "contactType": "appointments",
+          "name": "Agendamento de consultas e exames eletivos",
+          "telephone": "+5562999022623",
+          "email": "consultas@jacobfacuri.com.br",
+          "url": "https://api.whatsapp.com/send?phone=5562999022623&text=Ol%C3%A1%2C%20gostaria%20de%20marcar%20uma%20consulta.",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday"
+            ],
+            "opens": "08:00",
+            "closes": "18:00"
+          },
+          "areaServed": "BR",
+          "availableLanguage": "pt-BR"
+        },
+        {
+          "@type": "ContactPoint",
+          "contactType": "customer service",
+          "name": "Central de atendimento",
+          "telephone": "+556236211919",
+          "email": "contato@jacobfacuri.com.br",
+          "url": "https://jacobfacuri.com.br/contato/",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday"
+            ],
+            "opens": "08:00",
+            "closes": "18:00"
+          },
+          "areaServed": "BR",
+          "availableLanguage": "pt-BR"
+        },
+        {
+          "@type": "ContactPoint",
+          "contactType": "customer service",
+          "name": "Telefone alternativo",
+          "telephone": "+556236211900",
+          "email": "contato@jacobfacuri.com.br",
+          "url": "https://jacobfacuri.com.br/contato/",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday"
+            ],
+            "opens": "08:00",
+            "closes": "18:00"
+          },
+          "areaServed": "BR",
+          "availableLanguage": "pt-BR"
+        },
+        {
+          "@type": "ContactPoint",
+          "contactType": "customer complaints",
+          "name": "Ouvidoria",
+          "telephone": "+556236211919",
+          "email": "ouvidoria@jacobfacuri.com.br",
+          "url": "https://jacobfacuri.com.br/ouvidoria/",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday"
+            ],
+            "opens": "08:00",
+            "closes": "18:00"
+          },
+          "areaServed": "BR",
+          "availableLanguage": "pt-BR"
+        }
+      ],
+      "potentialAction": [
+        {
+          "@type": "ReserveAction",
+          "name": "Agendar consulta ou exame eletivo pelo WhatsApp (segunda a sexta, 8h às 18h)",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://api.whatsapp.com/send?phone=5562999022623&text=Ol%C3%A1%2C%20gostaria%20de%20marcar%20uma%20consulta.",
+            "inLanguage": "pt-BR",
+            "actionPlatform": [
+              "http://schema.org/DesktopWebPlatform",
+              "http://schema.org/MobileWebPlatform",
+              "http://schema.org/IOSPlatform",
+              "http://schema.org/AndroidPlatform"
+            ]
+          }
+        },
+        {
+          "@type": "CommunicateAction",
+          "name": "Ligar para a central de atendimento (62) 3621-1919",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "tel:+556236211919",
+            "inLanguage": "pt-BR"
+          }
+        },
+        {
+          "@type": "CommunicateAction",
+          "name": "Ligar para o telefone alternativo (62) 3621-1900",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "tel:+556236211900",
+            "inLanguage": "pt-BR"
+          }
+        }
+      ],
+      "hasOfferCatalog": {
+        "@id": "https://jacobfacuri.com.br/#catalog"
+      },
+      "department": [
+        {
+          "@id": "https://jacobfacuri.com.br/pronto-socorro-24h/#emergencyservice"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/centro-clinico-consultorios/#medicalclinic"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/centro-cirurgico/#department"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/utis-adulto/#department"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/uti-neonatal/#department"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/hemodinamica-e-cardiologia/#department"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/radiologia-diagnostica-digital/#department"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/centro-diagnostico/#department"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/cancer-center/#department"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/oftalmologia/#department"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/apartamentos/#department"
+        }
+      ]
+    },
+    {
+      "@type": "EmergencyService",
+      "@id": "https://jacobfacuri.com.br/pronto-socorro-24h/#emergencyservice",
+      "name": "Pronto-socorro 24h — Hospital Jacob Facuri",
+      "alternateName": "Pronto-socorro 24h",
+      "url": "https://jacobfacuri.com.br/pronto-socorro-24h/",
+      "description": "Emergência aberta 24 horas por dia, todos os dias, em mais de 1.000 m² distribuídos em dois pavimentos, com quatro consultórios, sala vermelha e sala de gesso. Atende urgências clínicas, ortopédicas, cardiológicas e cirúrgicas em adultos. Não realiza endoscopia de urgência ou emergência nem atendimento obstétrico.",
+      "telephone": [
+        "+556236211919",
+        "+556236211900"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Rua 08, nº 657, Centro",
+        "addressLocality": "Goiânia",
+        "addressRegion": "GO",
+        "postalCode": "74013-030",
+        "addressCountry": "BR"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": -16.6732056,
+        "longitude": -49.259802
+      },
+      "hasMap": "https://maps.app.goo.gl/DcSyeCZZJVirfKrGA",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "00:00",
+          "closes": "23:59"
+        }
+      ],
+      "parentOrganization": {
+        "@id": "https://jacobfacuri.com.br/#organization"
+      }
+    },
+    {
+      "@type": "MedicalClinic",
+      "@id": "https://jacobfacuri.com.br/centro-clinico-consultorios/#medicalclinic",
+      "name": "Centro clínico — Hospital Jacob Facuri",
+      "url": "https://jacobfacuri.com.br/centro-clinico-consultorios/",
+      "description": "Mais de 30 consultórios distribuídos em seis andares, atendendo cardiologia, ortopedia, aparelho digestivo, otorrinolaringologia, urologia e outras especialidades, com agendamento de segunda a sexta-feira, das 8h às 18h.",
+      "telephone": [
+        "+556236211919",
+        "+556236211900",
+        "+5562999022623"
+      ],
+      "email": "consultas@jacobfacuri.com.br",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Rua 08, nº 657, Centro",
+        "addressLocality": "Goiânia",
+        "addressRegion": "GO",
+        "postalCode": "74013-030",
+        "addressCountry": "BR"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": -16.6732056,
+        "longitude": -49.259802
+      },
+      "hasMap": "https://maps.app.goo.gl/DcSyeCZZJVirfKrGA",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "08:00",
+          "closes": "18:00"
+        }
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "reservations",
+        "telephone": "+5562999022623",
+        "email": "consultas@jacobfacuri.com.br",
+        "url": "https://api.whatsapp.com/send?phone=5562999022623&text=Ol%C3%A1%2C%20gostaria%20de%20marcar%20uma%20consulta.",
+        "hoursAvailable": {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "08:00",
+          "closes": "18:00"
+        },
+        "areaServed": "BR",
+        "availableLanguage": "pt-BR"
+      },
+      "parentOrganization": {
+        "@id": "https://jacobfacuri.com.br/#organization"
+      }
+    },
+    {
+      "@type": "MedicalBusiness",
+      "@id": "https://jacobfacuri.com.br/centro-cirurgico/#department",
+      "name": "Centro cirúrgico — Hospital Jacob Facuri",
+      "url": "https://jacobfacuri.com.br/centro-cirurgico/",
+      "description": "Sete salas cirúrgicas amplas com arco cirúrgico GE, torres de vídeo Stryker e suporte imediato das UTIs 24 horas para cirurgias eletivas e de urgência.",
+      "parentOrganization": {
+        "@id": "https://jacobfacuri.com.br/#organization"
+      }
+    },
+    {
+      "@type": "MedicalBusiness",
+      "@id": "https://jacobfacuri.com.br/utis-adulto/#department",
+      "name": "UTIs adulto — Hospital Jacob Facuri",
+      "url": "https://jacobfacuri.com.br/utis-adulto/",
+      "description": "51 leitos de terapia intensiva adulta em três alas, incluindo 13 leitos de UTI humanizada.",
+      "parentOrganization": {
+        "@id": "https://jacobfacuri.com.br/#organization"
+      }
+    },
+    {
+      "@type": "MedicalBusiness",
+      "@id": "https://jacobfacuri.com.br/uti-neonatal/#department",
+      "name": "UTI neonatal — Hospital Jacob Facuri",
+      "url": "https://jacobfacuri.com.br/uti-neonatal/",
+      "description": "30 leitos de terapia intensiva neonatal com equipe médica e multidisciplinar dedicada.",
+      "parentOrganization": {
+        "@id": "https://jacobfacuri.com.br/#organization"
+      }
+    },
+    {
+      "@type": "MedicalClinic",
+      "@id": "https://jacobfacuri.com.br/hemodinamica-e-cardiologia/#department",
+      "name": "Hemodinâmica — Hospital Jacob Facuri",
+      "url": "https://jacobfacuri.com.br/hemodinamica-e-cardiologia/",
+      "description": "Serviço 24 horas de cardiologia, cirurgia vascular e neurologia intervencionista.",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "00:00",
+          "closes": "23:59"
+        }
+      ],
+      "parentOrganization": {
+        "@id": "https://jacobfacuri.com.br/#organization"
+      }
+    },
+    {
+      "@type": "DiagnosticLab",
+      "@id": "https://jacobfacuri.com.br/radiologia-diagnostica-digital/#department",
+      "name": "Radiologia Diagnóstica Digital — Clínica da Imagem",
+      "url": "https://jacobfacuri.com.br/radiologia-diagnostica-digital/",
+      "description": "Diagnóstico por imagem integrado ao hospital com ressonância magnética 1.5T, tomografia multislice, ultrassom com Doppler e raio-X digital.",
+      "brand": {
+        "@type": "Organization",
+        "name": "Clínica da Imagem"
+      },
+      "parentOrganization": {
+        "@id": "https://jacobfacuri.com.br/#organization"
+      }
+    },
+    {
+      "@type": [
+        "MedicalBusiness",
+        "DiagnosticLab"
+      ],
+      "@id": "https://jacobfacuri.com.br/centro-diagnostico/#department",
+      "name": "Centro diagnóstico — Hospital Jacob Facuri",
+      "url": "https://jacobfacuri.com.br/centro-diagnostico/",
+      "description": "Exames de endoscopia digestiva, colonoscopia, cardiologia e área vascular realizados exclusivamente mediante agendamento prévio (exames eletivos) ou para pacientes internados. Não realiza endoscopia de urgência ou emergência.",
+      "telephone": [
+        "+556236211919",
+        "+556236211900",
+        "+5562999022623"
+      ],
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "08:00",
+          "closes": "18:00",
+          "description": "Agendamento de exames eletivos (não realiza endoscopia de urgência ou emergência)"
+        }
+      ],
+      "parentOrganization": {
+        "@id": "https://jacobfacuri.com.br/#organization"
+      }
+    },
+    {
+      "@type": "MedicalClinic",
+      "@id": "https://jacobfacuri.com.br/cancer-center/#department",
+      "name": "Câncer Center — Hospital Jacob Facuri e Ingoh",
+      "url": "https://jacobfacuri.com.br/cancer-center/",
+      "description": "Serviço oncológico integrado em parceria com o Ingoh, abrangendo consulta, rastreio, diagnóstico, tratamento e cuidados paliativos.",
+      "brand": {
+        "@type": "Organization",
+        "name": "Ingoh"
+      },
+      "parentOrganization": {
+        "@id": "https://jacobfacuri.com.br/#organization"
+      }
+    },
+    {
+      "@type": "MedicalClinic",
+      "@id": "https://jacobfacuri.com.br/oftalmologia/#department",
+      "name": "Oftalmologia — Centro Goiano da Visão",
+      "url": "https://jacobfacuri.com.br/oftalmologia/",
+      "description": "Atendimento oftalmológico pelo Centro Goiano da Visão no Hospital Jacob Facuri.",
+      "brand": {
+        "@type": "Organization",
+        "name": "Centro Goiano da Visão"
+      },
+      "parentOrganization": {
+        "@id": "https://jacobfacuri.com.br/#organization"
+      }
+    },
+    {
+      "@type": "MedicalBusiness",
+      "@id": "https://jacobfacuri.com.br/apartamentos/#department",
+      "name": "Apartamentos e enfermarias — Hospital Jacob Facuri",
+      "url": "https://jacobfacuri.com.br/apartamentos/",
+      "description": "54 leitos de apartamento e 15 leitos de enfermaria para internação hospitalar.",
+      "parentOrganization": {
+        "@id": "https://jacobfacuri.com.br/#organization"
+      }
+    },
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://jacobfacuri.com.br/#catalog",
+      "name": "Consultas, cirurgias, exames e atendimento hospitalar do Hospital Jacob Facuri",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Pronto-socorro e emergência 24 horas",
+            "description": "Atendimento de urgência e emergência em adultos, todos os dias, 24 horas. Não realiza endoscopia de urgência ou emergência.",
+            "url": "https://jacobfacuri.com.br/pronto-socorro-24h/",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Consultas médicas eletivas em 24 especialidades (Centro Clínico)",
+            "description": "Agendamento de segunda a sexta-feira, das 8h às 18h.",
+            "url": "https://jacobfacuri.com.br/centro-clinico-consultorios/",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Agendamento com 134 especialistas do corpo clínico",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Cirurgias de média e alta complexidade (7 salas cirúrgicas)",
+            "url": "https://jacobfacuri.com.br/centro-cirurgico/",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Cirurgia bariátrica e metabólica",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-bariatrica/",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Cirurgia geral e cirurgia do aparelho digestivo",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-geral/",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Cirurgia plástica reparadora e estética",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Cirurgia vascular, angiologia e cirurgia torácica",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/angiologia-cirurgia-vascular/",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Hemodinâmica 24h (cardiologia, vascular e neurologia intervencionista)",
+            "url": "https://jacobfacuri.com.br/hemodinamica-e-cardiologia/",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Diagnóstico por imagem (ressonância magnética 1.5T, tomografia, ultrassom Doppler e raio-X)",
+            "url": "https://jacobfacuri.com.br/radiologia-diagnostica-digital/",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Centro diagnóstico — endoscopia digestiva e colonoscopia eletivas",
+            "description": "Realizadas somente com agendamento prévio ou para pacientes internados. Não há endoscopia de urgência ou emergência.",
+            "url": "https://jacobfacuri.com.br/centro-diagnostico/",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Terapia intensiva adulto e UTI humanizada (51 leitos)",
+            "url": "https://jacobfacuri.com.br/utis-adulto/",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "UTI neonatal (30 leitos)",
+            "url": "https://jacobfacuri.com.br/uti-neonatal/",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Internação hospitalar em apartamentos e enfermarias",
+            "url": "https://jacobfacuri.com.br/apartamentos/",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Câncer Center — Oncologia clínica e cirúrgica",
+            "url": "https://jacobfacuri.com.br/cancer-center/",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Oftalmologia — Centro Goiano da Visão",
+            "url": "https://jacobfacuri.com.br/oftalmologia/",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Tratamento de doenças da coluna vertebral",
+            "url": "https://jacobfacuri.com.br/coluna/",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Ortopedia e traumatologia",
+            "url": "https://jacobfacuri.com.br/ortopedia/",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Urologia clínica e cirúrgica",
+            "url": "https://jacobfacuri.com.br/urologia/",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Tratamento para impotência sexual (disfunção erétil)",
+            "url": "https://jacobfacuri.com.br/impotencia-sexual/",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Saúde gastrointestinal e aparelho digestivo",
+            "url": "https://jacobfacuri.com.br/saude-gastrointestinal/",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://jacobfacuri.com.br/#website",
+      "url": "https://jacobfacuri.com.br/",
+      "name": "Hospital Jacob Facuri",
+      "alternateName": "Hospital e Centro Clínico Jacob Facuri",
+      "description": "Site oficial do Hospital Jacob Facuri, hospital geral privado e centro clínico em Goiânia, GO.",
+      "inLanguage": "pt-BR",
+      "publisher": {
+        "@id": "https://jacobfacuri.com.br/#organization"
+      }
+    },
+    {
+      "@type": [
+        "WebPage",
+        "FAQPage"
+      ],
+      "@id": "https://jacobfacuri.com.br/#webpage",
+      "url": "https://jacobfacuri.com.br/",
+      "name": "Hospital Jacob Facuri — Pronto-socorro 24h, Cirurgias e Centro Clínico em Goiânia, GO",
+      "description": "Hospital geral privado no centro de Goiânia, Goiás, fundado em 1957, com 249 leitos e acreditação ONA nível 3. Pronto-socorro 24h, centro cirúrgico, UTIs adulto e neonatal, diagnóstico por imagem e centro clínico com 24 especialidades.",
+      "inLanguage": "pt-BR",
+      "dateModified": "2026-11-25",
+      "isPartOf": {
+        "@id": "https://jacobfacuri.com.br/#website"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://jacobfacuri.com.br/#primaryimage"
+      },
+      "publisher": {
+        "@id": "https://jacobfacuri.com.br/#organization"
+      },
+      "about": {
+        "@id": "https://jacobfacuri.com.br/#organization"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Como agendar consulta, exame ou solicitar informações sobre cirurgias no Hospital Jacob Facuri?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "O agendamento é feito de segunda a sexta-feira, das 8h às 18h, pelo WhatsApp +55 (62) 99902-2623, pelos telefones (62) 3621-1919 e (62) 3621-1900 ou pelo e-mail consultas@jacobfacuri.com.br. Cobre consultas nas 24 especialidades do Centro Clínico, exames diagnósticos eletivos e informações sobre cirurgias."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "O Hospital Jacob Facuri realiza endoscopia de urgência ou emergência?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Não. Endoscopia digestiva e colonoscopia são realizadas somente com agendamento prévio (exames eletivos) ou para pacientes já internados no hospital. Não há atendimento de endoscopia de urgência ou emergência 24 horas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quais serviços, cirurgias e atendimentos o hospital oferece?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pronto-socorro 24 horas, centro clínico com mais de 30 consultórios em 24 especialidades, centro cirúrgico com sete salas, UTI adulto (51 leitos) e neonatal (30 leitos), apartamentos e enfermarias, hemodinâmica 24 horas, diagnóstico por imagem, centro diagnóstico, Câncer Center em parceria com o Ingoh e oftalmologia com o Centro Goiano da Visão."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quais convênios são atendidos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Particulares e 18 operadoras: Affego, Assefaz, Blue Saúde, Caesan Unimed, Cassi, Fundação Itaú, Fusex, Geap, Imas, Ipasgo, Mais Saúde, Porto Saúde, Postal Saúde, Saúde Caixa, Select, Unimed, Vitallis e Vivacom, mediante confirmação de cobertura do plano pela central de atendimento."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Onde fica o Hospital Jacob Facuri e qual o horário do pronto-socorro?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fica na Rua 08, nº 657, Centro, Goiânia – GO, CEP 74013-030. O pronto-socorro funciona 24 horas por dia, todos os dias da semana."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Que tipo de urgência o pronto-socorro atende?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Urgências clínicas, ortopédicas, cardiológicas e cirúrgicas em adultos, com sala vermelha, sala de gesso e retaguarda de centro cirúrgico, UTIs, hemodinâmica 24 horas e diagnóstico por imagem. Não realiza endoscopia de urgência nem atendimento obstétrico."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "O Hospital Jacob Facuri possui acreditação?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sim. O hospital possui acreditação ONA nível 3, Acreditado com Excelência, da Organização Nacional de Acreditação."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quantos leitos de UTI o hospital possui?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "São 51 leitos de UTI adulto, incluindo 13 leitos de UTI humanizada, e 30 leitos de UTI neonatal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Como falar com a ouvidoria do hospital?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pelo e-mail ouvidoria@jacobfacuri.com.br ou pelo telefone (62) 3621-1919, de segunda a sexta-feira, das 8h às 18h. Mais informações em https://jacobfacuri.com.br/ouvidoria/."
+          }
+        }
+      ]
+    }
+  ]
+}

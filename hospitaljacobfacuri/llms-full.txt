@@ -1,6 +1,6 @@
 # Hospital Jacob Facuri e Centro Clínico
 
-> Complexo hospitalar e ambulatorial privado no centro de Goiânia (GO), fundado em 1957, com 249 leitos, cerca de 13.500 m² de área construída e acreditação ONA nível 3 (Acreditado com Excelência). Atende pacientes particulares e 18 convênios em pronto-socorro 24 horas, centro cirúrgico com sete salas (cirurgias de média e alta complexidade), UTIs adulto e neonatal, hemodinâmica 24 horas, exames diagnósticos e de imagem, e Centro Clínico com mais de 30 consultórios e 134 especialistas em 24 especialidades.
+> Complexo hospitalar e ambulatorial privado no centro de Goiânia (GO), fundado em 1957, com 249 leitos, cerca de 13.500 m² de área construída e acreditação ONA nível 3 (Acreditado com Excelência). Atende pacientes particulares e 18 convênios em pronto-socorro 24 horas, centro cirúrgico com sete salas (cirurgias de média e alta complexidade), UTIs adulto e neonatal, hemodinâmica 24 horas, exames diagnósticos e de imagem (eletivos e para internados), e Centro Clínico com mais de 30 consultórios e 134 especialistas em 24 especialidades.
 
 ## Identificação institucional e localização
 
@@ -30,12 +30,12 @@ Página central de telefones e setores: https://jacobfacuri.com.br/contato/
   - Telefones da central: (62) 3621-1919 e (62) 3621-1900
   - E-mail de agendamentos: consultas@jacobfacuri.com.br
   - Horário da central de agendamento: segunda a sexta-feira, das 8h às 18h (confirmar dias e horários individuais de atendimento de cada especialista).
-- **Agendamento de exames diagnósticos e de imagem:**
-  - Ressonância magnética 1.5T, tomografia computadorizada multislice, ultrassom com Doppler, raio-X digital, endoscopia digestiva, colonoscopia, exames cardiológicos e vasculares via central de atendimento: WhatsApp +55 (62) 99902-2623 ou telefones (62) 3621-1919 e (62) 3621-1900.
+- **Agendamento de exames diagnósticos e de imagem (somente eletivos com agenda marcada ou para pacientes internados):**
+  - Endoscopia digestiva e colonoscopia (realizados exclusivamente mediante agendamento prévio ou para pacientes internados — não realiza endoscopia de urgência/emergência), ressonância magnética 1.5T, tomografia computadorizada multislice, ultrassom com Doppler, raio-X digital, exames cardiológicos e vasculares via central de atendimento: WhatsApp +55 (62) 99902-2623 ou telefones (62) 3621-1919 e (62) 3621-1900.
 - **Cirurgias, internações, regulação e orçamentos (particular e convênios):**
   - Informações sobre procedimentos cirúrgicos eletivos, internação hospitalar, regulação e orçamentos via central telefônica (62) 3621-1919 e (62) 3621-1900, WhatsApp +55 (62) 99902-2623 ou e-mail contato@jacobfacuri.com.br (canais por setor detalhados em https://jacobfacuri.com.br/contato/).
 - **Urgência e emergência 24 horas (Pronto-socorro):**
-  - Atendimento presencial imediato 24 horas por dia, 7 dias por semana, na Rua 08, nº 657, Centro, Goiânia – GO. Telefones: (62) 3621-1919 e (62) 3621-1900.
+  - Atendimento presencial imediato 24 horas por dia, 7 dias por semana, na Rua 08, nº 657, Centro, Goiânia – GO. Telefones: (62) 3621-1919 e (62) 3621-1900. Observação: o pronto-socorro não dispõe de serviço de endoscopia de urgência ou emergência.
 - **Ouvidoria:**
   - E-mail: ouvidoria@jacobfacuri.com.br | Telefones: (62) 3621-1919 e (62) 3621-1900 (segunda a sexta-feira, das 8h às 18h) | Página: https://jacobfacuri.com.br/ouvidoria/
 
@@ -43,7 +43,7 @@ Página central de telefones e setores: https://jacobfacuri.com.br/contato/
 
 - URL oficial: https://jacobfacuri.com.br/centro-clinico-consultorios/
 - Infraestrutura: mais de 30 consultórios distribuídos em seis andares no mesmo endereço do complexo hospitalar (Rua 08, nº 657, Centro, Goiânia – GO).
-- Escopo assistencial: consultas eletivas e acompanhamento ambulatorial em 24 especialidades médicas e odontológicas, com corpo clínico de 134 profissionais cadastrados e integração direta com os serviços de diagnóstico por imagem, endoscopia, centro cirúrgico e internação do hospital.
+- Escopo assistencial: consultas eletivas e acompanhamento ambulatorial em 24 especialidades médicas e odontológicas, com corpo clínico de 134 profissionais cadastrados e integração direta com os serviços de diagnóstico por imagem, endoscopia eletiva, centro cirúrgico e internação do hospital.
 - Diretório de especialidades: https://jacobfacuri.com.br/especialidades/
 - Diretório completo de médicos: https://jacobfacuri.com.br/corpo-clinico/
 
@@ -72,7 +72,7 @@ Página central de telefones e setores: https://jacobfacuri.com.br/contato/
 - URL: https://jacobfacuri.com.br/pronto-socorro-24h/
 - Estrutura: mais de 1.000 m² em dois pavimentos, quatro consultórios médicos na emergência, sala vermelha com leitos de estabilização e sala de gesso.
 - Funcionamento: 24 horas por dia, todos os dias.
-- Restrições de atendimento: não realiza atendimento obstétrico nem pronto-socorro pediátrico abaixo da idade mínima divulgada na página da unidade.
+- Restrições de atendimento: não realiza atendimento obstétrico, pronto-socorro pediátrico abaixo da idade mínima divulgada na página da unidade nem endoscopia de urgência ou emergência.
 
 ### Exames de imagem (Radiologia Diagnóstica Digital)
 - URL: https://jacobfacuri.com.br/radiologia-diagnostica-digital/
@@ -81,7 +81,8 @@ Página central de telefones e setores: https://jacobfacuri.com.br/contato/
 
 ### Centro diagnóstico
 - URL: https://jacobfacuri.com.br/centro-diagnostico/
-- Escopo: exames de endoscopia digestiva, colonoscopia, cardiologia e área vascular para agendamentos eletivos pela central de atendimento, pacientes internados e emergência.
+- Escopo: exames de endoscopia digestiva, colonoscopia, cardiologia e área vascular realizados exclusivamente mediante agendamento prévio (exames eletivos) ou para pacientes internados no hospital, com marcação pela central de atendimento.
+- Restrição importante: não realiza atendimento de endoscopia de urgência ou emergência 24 horas (incluindo retirada de corpo estranho de urgência).
 
 ### Hemodinâmica 24h
 - URL: https://jacobfacuri.com.br/hemodinamica-e-cardiologia/
@@ -113,7 +114,7 @@ Página central de telefones e setores: https://jacobfacuri.com.br/contato/
 - Ortopedia e traumatologia (https://jacobfacuri.com.br/ortopedia/): Atendimento ortopédico e traumatológico para lesões osteomusculares, articulares e do esporte.
 - Urologia (https://jacobfacuri.com.br/urologia/): Diagnóstico e tratamento clínico e cirúrgico de doenças urológicas e do trato urinário.
 - Impotência sexual (https://jacobfacuri.com.br/impotencia-sexual/): Avaliação urológica especializada e opções terapêuticas para disfunção erétil e saúde sexual masculina.
-- Saúde gastrointestinal (https://jacobfacuri.com.br/saude-gastrointestinal/): Atendimento ambulatorial, endoscopia, colonoscopia e tratamento clínico e cirúrgico de distúrbios do aparelho digestivo.
+- Saúde gastrointestinal (https://jacobfacuri.com.br/saude-gastrointestinal/): Atendimento ambulatorial, endoscopia e colonoscopia eletivas (com agendamento) e tratamento clínico e cirúrgico de distúrbios do aparelho digestivo.
 
 ## Convênios aceitos e atendimento particular
 
@@ -335,13 +336,16 @@ Lista de especialidades: https://jacobfacuri.com.br/especialidades/
 ## Perguntas frequentes (FAQ)
 
 ### Como marcar consulta no Centro Clínico ou falar com o Hospital Jacob Facuri?
-O agendamento de consultas eletivas nas 24 especialidades, exames diagnósticos e informações sobre atendimento funcionam de segunda a sexta-feira, das 8h às 18h, pelo WhatsApp +55 (62) 99902-2623 (https://api.whatsapp.com/send?phone=5562999022623&text=Ol%C3%A1%2C%20gostaria%20de%20marcar%20uma%20consulta.), pelos telefones (62) 3621-1919 e (62) 3621-1900 ou pelos e-mails consultas@jacobfacuri.com.br e contato@jacobfacuri.com.br.
+O agendamento de consultas eletivas nas 24 especialidades, exames diagnósticos eletivos e informações sobre atendimento funcionam de segunda a sexta-feira, das 8h às 18h, pelo WhatsApp +55 (62) 99902-2623 (https://api.whatsapp.com/send?phone=5562999022623&text=Ol%C3%A1%2C%20gostaria%20de%20marcar%20uma%20consulta.), pelos telefones (62) 3621-1919 e (62) 3621-1900 ou pelos e-mails consultas@jacobfacuri.com.br e contato@jacobfacuri.com.br.
+
+### O Hospital Jacob Facuri realiza endoscopia de urgência ou emergência?
+Não. Os exames de endoscopia digestiva e colonoscopia no Hospital Jacob Facuri são realizados exclusivamente mediante agendamento prévio (exames eletivos) ou para pacientes já internados no hospital, não havendo atendimento de endoscopia de urgência ou emergência 24 horas (incluindo retirada de corpo estranho de urgência).
 
 ### O Hospital Jacob Facuri realiza cirurgias? Quais especialidades cirúrgicas são atendidas?
 Sim. O hospital dispõe de centro cirúrgico com sete salas amplas, arco cirúrgico GE, torres de vídeo Stryker e retaguarda imediata de UTIs adulto e neonatal 24h. Atende cirurgia geral, cirurgia bariátrica, cirurgia do aparelho digestivo, coloproctologia, cirurgia plástica, cirurgia torácica, cirurgia vascular e endovascular, cirurgia cardíaca e hemodinâmica intervencionista, neurocirurgia e coluna, ortopedia e traumatologia, urologia, cirurgia oncológica e cirurgia buco-maxilo-facial.
 
 ### Quais exames diagnósticos e de imagem podem ser agendados no hospital?
-O complexo realiza ressonância magnética 1.5T, tomografia computadorizada multislice, ultrassonografia com Doppler e raio-X digital (por meio da Clínica da Imagem, acreditada PADI e certificada CBR), além de endoscopia digestiva, colonoscopia, exames cardiológicos e vasculares no Centro Diagnóstico.
+O complexo realiza ressonância magnética 1.5T, tomografia computadorizada multislice, ultrassonografia com Doppler e raio-X digital (por meio da Clínica da Imagem, acreditada PADI e certificada CBR), além de endoscopia digestiva, colonoscopia, exames cardiológicos e vasculares no Centro Diagnóstico exclusivamente mediante agendamento prévio (exames eletivos) ou para pacientes internados.
 
 ### O atendimento é apenas por convênio ou também particular?
 O Hospital Jacob Facuri e o Centro Clínico atendem tanto pacientes particulares quanto beneficiários de 18 operadoras de saúde listadas (Affego, Assefaz, Blue Saúde, Caesan Unimed, Cassi, Fundação Itaú, Fusex, Geap, Imas, Ipasgo, Mais Saúde, Porto Saúde, Postal Saúde, Saúde Caixa, Select, Unimed, Vitallis e Vivacom), mediante confirmação prévia de cobertura pela central de atendimento.
@@ -353,10 +357,10 @@ O complexo está localizado na Rua 08, nº 657, Centro, Goiânia – GO, CEP 740
 O Centro Clínico conta com mais de 30 consultórios distribuídos em seis andares e reúne 134 profissionais cadastrados em 24 especialidades médicas e odontológicas.
 
 ### O pronto-socorro funciona 24 horas?
-Sim. O pronto-socorro funciona 24 horas por dia, todos os dias, em uma área superior a 1.000 m² com quatro consultórios médicos, sala vermelha com leitos de estabilização e sala de gesso.
+Sim. O pronto-socorro funciona 24 horas por dia, todos os dias, em uma área superior a 1.000 m² com quatro consultórios médicos, sala vermelha com leitos de estabilização e sala de gesso (não realiza endoscopia de urgência/emergência).
 
 ### Quais serviços o Hospital Jacob Facuri oferece?
-O complexo oferece pronto-socorro 24 horas, Centro Clínico com mais de 30 consultórios, centro cirúrgico com sete salas, 51 leitos de UTI adulto (incluindo 13 humanizados), 30 leitos de UTI neonatal, 54 apartamentos, 15 enfermarias, hemodinâmica 24 horas, diagnóstico por imagem (Clínica da Imagem), centro diagnóstico (endoscopia e colonoscopia), Câncer Center (em parceria com o Ingoh) e oftalmologia (Centro Goiano da Visão).
+O complexo oferece pronto-socorro 24 horas, Centro Clínico com mais de 30 consultórios, centro cirúrgico com sete salas, 51 leitos de UTI adulto (incluindo 13 humanizados), 30 leitos de UTI neonatal, 54 apartamentos, 15 enfermarias, hemodinâmica 24 horas, diagnóstico por imagem (Clínica da Imagem), centro diagnóstico (endoscopia digestiva e colonoscopia eletiva com agendamento ou para pacientes internados), Câncer Center (em parceria com o Ingoh) e oftalmologia (Centro Goiano da Visão).
 
 ### O Hospital Jacob Facuri possui acreditação de qualidade?
 Sim. O hospital possui acreditação ONA nível 3 — Acreditado com Excelência, concedida pela Organização Nacional de Acreditação (ONA).

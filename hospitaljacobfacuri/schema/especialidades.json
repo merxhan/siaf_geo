@@ -1,0 +1,1179 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Hospital",
+      "@id": "https://jacobfacuri.com.br/#organization",
+      "name": "Hospital Jacob Facuri",
+      "alternateName": [
+        "Hospital e Centro Clínico Jacob Facuri",
+        "Centro Clínico Jacob Facuri"
+      ],
+      "legalName": "Hospital e Maternidade São Marcos Ltda",
+      "taxID": "01.554.104/0001-00",
+      "foundingDate": "1957",
+      "url": "https://jacobfacuri.com.br/",
+      "description": "Hospital geral privado e centro clínico no centro de Goiânia, Goiás, fundado em 1957, com 249 leitos e acreditação ONA nível 3. Atendimento particular e por 18 convênios em pronto-socorro 24h, centro cirúrgico com sete salas, UTIs adulto e neonatal, hemodinâmica 24h, exames de imagem e diagnósticos, e consultas em 24 especialidades com 134 especialistas.",
+      "disambiguatingDescription": "Hospital geral privado de média e alta complexidade e centro clínico ambulatorial localizado na Rua 08, nº 657, Centro, Goiânia (GO), registrado no CNES 2337800 sob razão social Hospital e Maternidade São Marcos Ltda, com pronto-socorro 24h, centro cirúrgico e mais de 30 consultórios. Endoscopia digestiva e colonoscopia são realizadas somente com agendamento prévio ou para pacientes internados.",
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "CNES",
+          "value": "2337800"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "CRM-GO",
+          "value": "107"
+        }
+      ],
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://jacobfacuri.com.br/#logo",
+        "url": "https://jacobfacuri.com.br/icone-512.png",
+        "contentUrl": "https://jacobfacuri.com.br/icone-512.png",
+        "width": 512,
+        "height": 512,
+        "caption": "Hospital Jacob Facuri"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "@id": "https://jacobfacuri.com.br/#primaryimage",
+        "url": "https://jacobfacuri.com.br/assets/site/imagemCompartilhamento.jpg",
+        "contentUrl": "https://jacobfacuri.com.br/assets/site/imagemCompartilhamento.jpg",
+        "caption": "Hospital Jacob Facuri em Goiânia, GO"
+      },
+      "telephone": [
+        "+556236211919",
+        "+556236211900",
+        "+5562999022623"
+      ],
+      "email": "contato@jacobfacuri.com.br",
+      "currenciesAccepted": "BRL",
+      "paymentAccepted": "Particular e convênios médicos, mediante confirmação de cobertura pela central de atendimento: Affego, Assefaz, Blue Saúde, Caesan Unimed, Cassi, Fundação Itaú, Fusex, Geap, Imas, Ipasgo, Mais Saúde, Porto Saúde, Postal Saúde, Saúde Caixa, Select, Unimed, Vitallis e Vivacom",
+      "isAcceptingNewPatients": true,
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Rua 08, nº 657, Centro",
+        "addressLocality": "Goiânia",
+        "addressRegion": "GO",
+        "postalCode": "74013-030",
+        "addressCountry": "BR"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": -16.6732056,
+        "longitude": -49.259802
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Goiânia"
+        },
+        {
+          "@type": "State",
+          "name": "Goiás"
+        },
+        {
+          "@type": "Country",
+          "name": "Brasil"
+        }
+      ],
+      "hasMap": "https://maps.app.goo.gl/DcSyeCZZJVirfKrGA",
+      "sameAs": [
+        "https://www.instagram.com/jacob.facuri/",
+        "https://www.youtube.com/@jacob.facuri",
+        "https://www.facebook.com/hospitaljacobfacuri",
+        "https://www.linkedin.com/company/hospital-jacob-facuri/",
+        "http://cnes2.datasus.gov.br/Mod_Conjunto.asp?VCo_Unidade=5208702337800"
+      ],
+      "medicalSpecialty": [
+        "Cardiovascular",
+        "CommunityHealth",
+        "Dentistry",
+        "DietNutrition",
+        "Emergency",
+        "Gastroenterologic",
+        "Gynecologic",
+        "Infectious",
+        "Musculoskeletal",
+        "Neurologic",
+        "Obstetric",
+        "Oncologic",
+        "Optometric",
+        "Otolaryngologic",
+        "Pediatric",
+        "PlasticSurgery",
+        "PrimaryCare",
+        "Pulmonary",
+        "Radiography",
+        "Surgical",
+        "Urologic"
+      ],
+      "knowsAbout": [
+        "Pronto-socorro 24 horas",
+        "Consultas médicas e odontológicas em 24 especialidades",
+        "Cirurgia geral",
+        "Cirurgia bariátrica",
+        "Cirurgia plástica",
+        "Cirurgia torácica",
+        "Cirurgia vascular",
+        "Cirurgia do aparelho digestivo",
+        "Coloproctologia",
+        "Cirurgia cardíaca",
+        "Cirurgia neurológica",
+        "Cirurgia oncológica",
+        "Cirurgia buco-maxilo-facial",
+        "Terapia intensiva adulto",
+        "UTI adulto humanizada",
+        "UTI neonatal",
+        "Hemodinâmica e cardiologia intervencionista 24 horas",
+        "Ressonância magnética 1.5T",
+        "Tomografia computadorizada multislice",
+        "Ultrassom com Doppler",
+        "Raio-X digital",
+        "Endoscopia digestiva eletiva",
+        "Colonoscopia eletiva",
+        "Oncologia clínica e cirúrgica",
+        "Oftalmologia",
+        "Ortopedia e traumatologia",
+        "Tratamento de doenças da coluna vertebral",
+        "Urologia",
+        "Disfunção erétil"
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Leitos totais",
+          "value": 249,
+          "unitText": "leitos"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Leitos de UTI adulto",
+          "value": 51,
+          "unitText": "leitos"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Leitos de UTI adulto humanizada",
+          "description": "Incluídos nos 51 leitos de UTI adulto",
+          "value": 13,
+          "unitText": "leitos"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Leitos de UTI neonatal",
+          "value": 30,
+          "unitText": "leitos"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Leitos de apartamento",
+          "value": 54,
+          "unitText": "leitos"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Leitos de enfermaria",
+          "value": 15,
+          "unitText": "leitos"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Salas cirúrgicas",
+          "value": 7,
+          "unitText": "salas"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Consultórios no Centro Clínico",
+          "description": "Mais de 30 consultórios",
+          "minValue": 30,
+          "unitText": "consultórios"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Especialidades atendidas",
+          "value": 24,
+          "unitText": "especialidades"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Profissionais no corpo clínico",
+          "value": 134,
+          "unitText": "profissionais"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Convênios atendidos",
+          "value": 18,
+          "unitText": "operadoras"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Área construída",
+          "value": 13500,
+          "unitCode": "MTK",
+          "unitText": "m²"
+        }
+      ],
+      "award": "Acreditação ONA nível 3 — Acreditado com Excelência",
+      "hasCertification": {
+        "@type": "Certification",
+        "name": "Acreditação ONA nível 3 — Acreditado com Excelência",
+        "issuedBy": {
+          "@type": "Organization",
+          "name": "Organização Nacional de Acreditação (ONA)",
+          "url": "https://www.ona.org.br/"
+        },
+        "certificationStatus": "https://schema.org/CertificationActive"
+      },
+      "employee": {
+        "@type": "Person",
+        "@id": "https://jacobfacuri.com.br/corpo-clinico/gastroenterologia/ibrahim-jacob-facuri/#profissional",
+        "name": "Ibrahim Jacob Facuri",
+        "url": "https://jacobfacuri.com.br/corpo-clinico/gastroenterologia/ibrahim-jacob-facuri/",
+        "jobTitle": "Diretor técnico e diretor clínico",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "CRM-GO",
+          "value": "4506"
+        }
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "00:00",
+          "closes": "23:59",
+          "description": "Hospital e pronto-socorro abertos 24 horas por dia, todos os dias"
+        }
+      ],
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "contactType": "emergency",
+          "name": "Pronto-socorro 24h",
+          "telephone": "+556236211919",
+          "email": "contato@jacobfacuri.com.br",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday",
+              "Saturday",
+              "Sunday"
+            ],
+            "opens": "00:00",
+            "closes": "23:59"
+          },
+          "areaServed": "BR",
+          "availableLanguage": "pt-BR"
+        },
+        {
+          "@type": "ContactPoint",
+          "contactType": "appointments",
+          "name": "Agendamento de consultas e exames eletivos",
+          "telephone": "+5562999022623",
+          "email": "consultas@jacobfacuri.com.br",
+          "url": "https://api.whatsapp.com/send?phone=5562999022623&text=Ol%C3%A1%2C%20gostaria%20de%20marcar%20uma%20consulta.",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday"
+            ],
+            "opens": "08:00",
+            "closes": "18:00"
+          },
+          "areaServed": "BR",
+          "availableLanguage": "pt-BR"
+        },
+        {
+          "@type": "ContactPoint",
+          "contactType": "customer service",
+          "name": "Central de atendimento",
+          "telephone": "+556236211919",
+          "email": "contato@jacobfacuri.com.br",
+          "url": "https://jacobfacuri.com.br/contato/",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday"
+            ],
+            "opens": "08:00",
+            "closes": "18:00"
+          },
+          "areaServed": "BR",
+          "availableLanguage": "pt-BR"
+        },
+        {
+          "@type": "ContactPoint",
+          "contactType": "customer service",
+          "name": "Telefone alternativo",
+          "telephone": "+556236211900",
+          "email": "contato@jacobfacuri.com.br",
+          "url": "https://jacobfacuri.com.br/contato/",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday"
+            ],
+            "opens": "08:00",
+            "closes": "18:00"
+          },
+          "areaServed": "BR",
+          "availableLanguage": "pt-BR"
+        },
+        {
+          "@type": "ContactPoint",
+          "contactType": "customer complaints",
+          "name": "Ouvidoria",
+          "telephone": "+556236211919",
+          "email": "ouvidoria@jacobfacuri.com.br",
+          "url": "https://jacobfacuri.com.br/ouvidoria/",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday"
+            ],
+            "opens": "08:00",
+            "closes": "18:00"
+          },
+          "areaServed": "BR",
+          "availableLanguage": "pt-BR"
+        }
+      ],
+      "potentialAction": [
+        {
+          "@type": "ReserveAction",
+          "name": "Agendar consulta ou exame eletivo pelo WhatsApp (segunda a sexta, 8h às 18h)",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://api.whatsapp.com/send?phone=5562999022623&text=Ol%C3%A1%2C%20gostaria%20de%20marcar%20uma%20consulta.",
+            "inLanguage": "pt-BR",
+            "actionPlatform": [
+              "http://schema.org/DesktopWebPlatform",
+              "http://schema.org/MobileWebPlatform",
+              "http://schema.org/IOSPlatform",
+              "http://schema.org/AndroidPlatform"
+            ]
+          }
+        },
+        {
+          "@type": "CommunicateAction",
+          "name": "Ligar para a central de atendimento (62) 3621-1919",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "tel:+556236211919",
+            "inLanguage": "pt-BR"
+          }
+        },
+        {
+          "@type": "CommunicateAction",
+          "name": "Ligar para o telefone alternativo (62) 3621-1900",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "tel:+556236211900",
+            "inLanguage": "pt-BR"
+          }
+        }
+      ],
+      "hasOfferCatalog": {
+        "@id": "https://jacobfacuri.com.br/#catalog"
+      },
+      "department": [
+        {
+          "@id": "https://jacobfacuri.com.br/pronto-socorro-24h/#emergencyservice"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/centro-clinico-consultorios/#medicalclinic"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/centro-cirurgico/#department"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/utis-adulto/#department"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/uti-neonatal/#department"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/hemodinamica-e-cardiologia/#department"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/radiologia-diagnostica-digital/#department"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/centro-diagnostico/#department"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/cancer-center/#department"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/oftalmologia/#department"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/apartamentos/#department"
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://jacobfacuri.com.br/#website",
+      "url": "https://jacobfacuri.com.br/",
+      "name": "Hospital Jacob Facuri",
+      "alternateName": "Hospital e Centro Clínico Jacob Facuri",
+      "description": "Site oficial do Hospital Jacob Facuri, hospital geral privado e centro clínico em Goiânia, GO.",
+      "inLanguage": "pt-BR",
+      "publisher": {
+        "@id": "https://jacobfacuri.com.br/#organization"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://jacobfacuri.com.br/especialidades/#itemlist",
+      "name": "Especialidades atendidas no Hospital Jacob Facuri",
+      "description": "Lista das 24 especialidades médicas e odontológicas atendidas no Hospital Jacob Facuri e no Centro Clínico em Goiânia, GO.",
+      "numberOfItems": 24,
+      "itemListOrder": "https://schema.org/ItemListUnordered",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "Service",
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/angiologia-cirurgia-vascular/#especialidade",
+            "name": "Angiologia / Cirurgia Vascular",
+            "serviceType": "Especialidade médica",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/angiologia-cirurgia-vascular/",
+            "description": "6 médicos da especialidade no corpo clínico do Hospital Jacob Facuri, com agendamento de segunda a sexta-feira, das 8h às 18h.",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Goiânia"
+            },
+            "additionalProperty": {
+              "@type": "PropertyValue",
+              "name": "Médicos no corpo clínico",
+              "value": 6,
+              "unitText": "médicos"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "Service",
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/buco-maxilo-facial/#especialidade",
+            "name": "Buco-maxilo-facial",
+            "serviceType": "Especialidade médica",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/buco-maxilo-facial/",
+            "description": "4 médicos da especialidade no corpo clínico do Hospital Jacob Facuri, com agendamento de segunda a sexta-feira, das 8h às 18h.",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Goiânia"
+            },
+            "additionalProperty": {
+              "@type": "PropertyValue",
+              "name": "Médicos no corpo clínico",
+              "value": 4,
+              "unitText": "médicos"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "Service",
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cardiologia/#especialidade",
+            "name": "Cardiologia (cirúrgica, clínica e intervencionista)",
+            "serviceType": "Especialidade médica",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cardiologia/",
+            "description": "7 médicos da especialidade no corpo clínico do Hospital Jacob Facuri, com agendamento de segunda a sexta-feira, das 8h às 18h.",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Goiânia"
+            },
+            "additionalProperty": {
+              "@type": "PropertyValue",
+              "name": "Médicos no corpo clínico",
+              "value": 7,
+              "unitText": "médicos"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": "Service",
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-bariatrica/#especialidade",
+            "name": "Cirurgia bariátrica",
+            "serviceType": "Especialidade médica",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-bariatrica/",
+            "description": "3 médicos da especialidade no corpo clínico do Hospital Jacob Facuri, com agendamento de segunda a sexta-feira, das 8h às 18h.",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Goiânia"
+            },
+            "additionalProperty": {
+              "@type": "PropertyValue",
+              "name": "Médicos no corpo clínico",
+              "value": 3,
+              "unitText": "médicos"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@type": "Service",
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-do-aparelho-digestivo/#especialidade",
+            "name": "Cirurgia do aparelho digestivo",
+            "serviceType": "Especialidade médica",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-do-aparelho-digestivo/",
+            "description": "1 médico da especialidade no corpo clínico do Hospital Jacob Facuri, com agendamento de segunda a sexta-feira, das 8h às 18h.",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Goiânia"
+            },
+            "additionalProperty": {
+              "@type": "PropertyValue",
+              "name": "Médicos no corpo clínico",
+              "value": 1,
+              "unitText": "médicos"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@type": "Service",
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-geral/#especialidade",
+            "name": "Cirurgia geral",
+            "serviceType": "Especialidade médica",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-geral/",
+            "description": "9 médicos da especialidade no corpo clínico do Hospital Jacob Facuri, com agendamento de segunda a sexta-feira, das 8h às 18h.",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Goiânia"
+            },
+            "additionalProperty": {
+              "@type": "PropertyValue",
+              "name": "Médicos no corpo clínico",
+              "value": 9,
+              "unitText": "médicos"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "item": {
+            "@type": "Service",
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/#especialidade",
+            "name": "Cirurgia plástica",
+            "serviceType": "Especialidade médica",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/",
+            "description": "18 médicos da especialidade no corpo clínico do Hospital Jacob Facuri, com agendamento de segunda a sexta-feira, das 8h às 18h.",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Goiânia"
+            },
+            "additionalProperty": {
+              "@type": "PropertyValue",
+              "name": "Médicos no corpo clínico",
+              "value": 18,
+              "unitText": "médicos"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "item": {
+            "@type": "Service",
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-toracica/#especialidade",
+            "name": "Cirurgia torácica",
+            "serviceType": "Especialidade médica",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-toracica/",
+            "description": "1 médico da especialidade no corpo clínico do Hospital Jacob Facuri, com agendamento de segunda a sexta-feira, das 8h às 18h.",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Goiânia"
+            },
+            "additionalProperty": {
+              "@type": "PropertyValue",
+              "name": "Médicos no corpo clínico",
+              "value": 1,
+              "unitText": "médicos"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "item": {
+            "@type": "Service",
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-vascular/#especialidade",
+            "name": "Cirurgia vascular",
+            "serviceType": "Especialidade médica",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-vascular/",
+            "description": "1 médico da especialidade no corpo clínico do Hospital Jacob Facuri, com agendamento de segunda a sexta-feira, das 8h às 18h.",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Goiânia"
+            },
+            "additionalProperty": {
+              "@type": "PropertyValue",
+              "name": "Médicos no corpo clínico",
+              "value": 1,
+              "unitText": "médicos"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "item": {
+            "@type": "Service",
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/#especialidade",
+            "name": "Clínica médica",
+            "serviceType": "Especialidade médica",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/",
+            "description": "39 médicos da especialidade no corpo clínico do Hospital Jacob Facuri, com agendamento de segunda a sexta-feira, das 8h às 18h.",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Goiânia"
+            },
+            "additionalProperty": {
+              "@type": "PropertyValue",
+              "name": "Médicos no corpo clínico",
+              "value": 39,
+              "unitText": "médicos"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "item": {
+            "@type": "Service",
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/coloproctologia-cirurgia-geral/#especialidade",
+            "name": "Coloproctologia / Cirurgia Geral",
+            "serviceType": "Especialidade médica",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/coloproctologia-cirurgia-geral/",
+            "description": "1 médico da especialidade no corpo clínico do Hospital Jacob Facuri, com agendamento de segunda a sexta-feira, das 8h às 18h.",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Goiânia"
+            },
+            "additionalProperty": {
+              "@type": "PropertyValue",
+              "name": "Médicos no corpo clínico",
+              "value": 1,
+              "unitText": "médicos"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "item": {
+            "@type": "Service",
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/gastroenterologia/#especialidade",
+            "name": "Gastroenterologia",
+            "serviceType": "Especialidade médica",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/gastroenterologia/",
+            "description": "2 médicos da especialidade no corpo clínico do Hospital Jacob Facuri, com agendamento de segunda a sexta-feira, das 8h às 18h.",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Goiânia"
+            },
+            "additionalProperty": {
+              "@type": "PropertyValue",
+              "name": "Médicos no corpo clínico",
+              "value": 2,
+              "unitText": "médicos"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "item": {
+            "@type": "Service",
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/ginecologia-e-obstetricia/#especialidade",
+            "name": "Ginecologia e obstetrícia",
+            "serviceType": "Especialidade médica",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/ginecologia-e-obstetricia/",
+            "description": "4 médicos da especialidade no corpo clínico do Hospital Jacob Facuri, com agendamento de segunda a sexta-feira, das 8h às 18h.",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Goiânia"
+            },
+            "additionalProperty": {
+              "@type": "PropertyValue",
+              "name": "Médicos no corpo clínico",
+              "value": 4,
+              "unitText": "médicos"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "item": {
+            "@type": "Service",
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/infectologia/#especialidade",
+            "name": "Infectologia",
+            "serviceType": "Especialidade médica",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/infectologia/",
+            "description": "1 médico da especialidade no corpo clínico do Hospital Jacob Facuri, com agendamento de segunda a sexta-feira, das 8h às 18h.",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Goiânia"
+            },
+            "additionalProperty": {
+              "@type": "PropertyValue",
+              "name": "Médicos no corpo clínico",
+              "value": 1,
+              "unitText": "médicos"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "item": {
+            "@type": "Service",
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/medicina-de-familia/#especialidade",
+            "name": "Medicina de família",
+            "serviceType": "Especialidade médica",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/medicina-de-familia/",
+            "description": "2 médicos da especialidade no corpo clínico do Hospital Jacob Facuri, com agendamento de segunda a sexta-feira, das 8h às 18h.",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Goiânia"
+            },
+            "additionalProperty": {
+              "@type": "PropertyValue",
+              "name": "Médicos no corpo clínico",
+              "value": 2,
+              "unitText": "médicos"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "item": {
+            "@type": "Service",
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/neurologia-clinica-e-cirurgica/#especialidade",
+            "name": "Neurologia (clínica e cirúrgica)",
+            "serviceType": "Especialidade médica",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/neurologia-clinica-e-cirurgica/",
+            "description": "5 médicos da especialidade no corpo clínico do Hospital Jacob Facuri, com agendamento de segunda a sexta-feira, das 8h às 18h.",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Goiânia"
+            },
+            "additionalProperty": {
+              "@type": "PropertyValue",
+              "name": "Médicos no corpo clínico",
+              "value": 5,
+              "unitText": "médicos"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "item": {
+            "@type": "Service",
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/nutrologia/#especialidade",
+            "name": "Nutrologia e medicina funcional integrativa",
+            "serviceType": "Especialidade médica",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/nutrologia/",
+            "description": "1 médico da especialidade no corpo clínico do Hospital Jacob Facuri, com agendamento de segunda a sexta-feira, das 8h às 18h.",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Goiânia"
+            },
+            "additionalProperty": {
+              "@type": "PropertyValue",
+              "name": "Médicos no corpo clínico",
+              "value": 1,
+              "unitText": "médicos"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "item": {
+            "@type": "Service",
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/oncologia/#especialidade",
+            "name": "Oncologia (clínica e cirúrgica)",
+            "serviceType": "Especialidade médica",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/oncologia/",
+            "description": "2 médicos da especialidade no corpo clínico do Hospital Jacob Facuri, com agendamento de segunda a sexta-feira, das 8h às 18h.",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Goiânia"
+            },
+            "additionalProperty": {
+              "@type": "PropertyValue",
+              "name": "Médicos no corpo clínico",
+              "value": 2,
+              "unitText": "médicos"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "item": {
+            "@type": "Service",
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/ortopedia-e-traumatologia/#especialidade",
+            "name": "Ortopedia e Traumatologia",
+            "serviceType": "Especialidade médica",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/ortopedia-e-traumatologia/",
+            "description": "6 médicos da especialidade no corpo clínico do Hospital Jacob Facuri, com agendamento de segunda a sexta-feira, das 8h às 18h.",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Goiânia"
+            },
+            "additionalProperty": {
+              "@type": "PropertyValue",
+              "name": "Médicos no corpo clínico",
+              "value": 6,
+              "unitText": "médicos"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "item": {
+            "@type": "Service",
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/otorrinolaringologia/#especialidade",
+            "name": "Otorrinolaringologia",
+            "serviceType": "Especialidade médica",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/otorrinolaringologia/",
+            "description": "6 médicos da especialidade no corpo clínico do Hospital Jacob Facuri, com agendamento de segunda a sexta-feira, das 8h às 18h.",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Goiânia"
+            },
+            "additionalProperty": {
+              "@type": "PropertyValue",
+              "name": "Médicos no corpo clínico",
+              "value": 6,
+              "unitText": "médicos"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "item": {
+            "@type": "Service",
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/pediatria/#especialidade",
+            "name": "Pediatria",
+            "serviceType": "Especialidade médica",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/pediatria/",
+            "description": "11 médicos da especialidade no corpo clínico do Hospital Jacob Facuri, com agendamento de segunda a sexta-feira, das 8h às 18h.",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Goiânia"
+            },
+            "additionalProperty": {
+              "@type": "PropertyValue",
+              "name": "Médicos no corpo clínico",
+              "value": 11,
+              "unitText": "médicos"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "item": {
+            "@type": "Service",
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/pneumologia/#especialidade",
+            "name": "Pneumologia",
+            "serviceType": "Especialidade médica",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/pneumologia/",
+            "description": "1 médico da especialidade no corpo clínico do Hospital Jacob Facuri, com agendamento de segunda a sexta-feira, das 8h às 18h.",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Goiânia"
+            },
+            "additionalProperty": {
+              "@type": "PropertyValue",
+              "name": "Médicos no corpo clínico",
+              "value": 1,
+              "unitText": "médicos"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "item": {
+            "@type": "Service",
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/radiologia/#especialidade",
+            "name": "Radiologia",
+            "serviceType": "Especialidade médica",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/radiologia/",
+            "description": "1 médico da especialidade no corpo clínico do Hospital Jacob Facuri, com agendamento de segunda a sexta-feira, das 8h às 18h.",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Goiânia"
+            },
+            "additionalProperty": {
+              "@type": "PropertyValue",
+              "name": "Médicos no corpo clínico",
+              "value": 1,
+              "unitText": "médicos"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "item": {
+            "@type": "Service",
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/urologia/#especialidade",
+            "name": "Urologia",
+            "serviceType": "Especialidade médica",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/urologia/",
+            "description": "2 médicos da especialidade no corpo clínico do Hospital Jacob Facuri, com agendamento de segunda a sexta-feira, das 8h às 18h.",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Goiânia"
+            },
+            "additionalProperty": {
+              "@type": "PropertyValue",
+              "name": "Médicos no corpo clínico",
+              "value": 2,
+              "unitText": "médicos"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://jacobfacuri.com.br/especialidades/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Início",
+          "item": "https://jacobfacuri.com.br/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Especialidades atendidas",
+          "item": "https://jacobfacuri.com.br/especialidades/"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://jacobfacuri.com.br/especialidades/#webpage",
+      "url": "https://jacobfacuri.com.br/especialidades/",
+      "name": "Especialidades atendidas em Goiânia, GO — Hospital Jacob Facuri",
+      "description": "As especialidades atendidas no Hospital Jacob Facuri, com o número de médicos de cada uma e o acesso à lista completa do corpo clínico.",
+      "inLanguage": "pt-BR",
+      "dateModified": "2026-11-25",
+      "isPartOf": {
+        "@id": "https://jacobfacuri.com.br/#website"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://jacobfacuri.com.br/#primaryimage"
+      },
+      "publisher": {
+        "@id": "https://jacobfacuri.com.br/#organization"
+      },
+      "mainEntity": {
+        "@id": "https://jacobfacuri.com.br/especialidades/#itemlist"
+      },
+      "about": {
+        "@id": "https://jacobfacuri.com.br/#organization"
+      },
+      "breadcrumb": {
+        "@id": "https://jacobfacuri.com.br/especialidades/#breadcrumb"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://jacobfacuri.com.br/especialidades/#faq",
+      "url": "https://jacobfacuri.com.br/especialidades/",
+      "name": "Perguntas frequentes sobre as especialidades — Hospital Jacob Facuri",
+      "inLanguage": "pt-BR",
+      "isPartOf": {
+        "@id": "https://jacobfacuri.com.br/especialidades/#webpage"
+      },
+      "about": {
+        "@id": "https://jacobfacuri.com.br/#organization"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quais especialidades o Hospital Jacob Facuri atende?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "São 24 especialidades médicas e odontológicas: Angiologia / Cirurgia Vascular; Buco-maxilo-facial; Cardiologia (cirúrgica, clínica e intervencionista); Cirurgia bariátrica; Cirurgia do aparelho digestivo; Cirurgia geral; Cirurgia plástica; Cirurgia torácica; Cirurgia vascular; Clínica médica; Coloproctologia / Cirurgia Geral; Gastroenterologia; Ginecologia e obstetrícia; Infectologia; Medicina de família; Neurologia (clínica e cirúrgica); Nutrologia e medicina funcional integrativa; Oncologia (clínica e cirúrgica); Ortopedia e Traumatologia; Otorrinolaringologia; Pediatria; Pneumologia; Radiologia e Urologia."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Qual especialidade tem mais médicos no Hospital Jacob Facuri?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "As maiores são clínica médica (39), cirurgia plástica (18) e pediatria (11), em um corpo clínico de 134 profissionais."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Como agendar consulta com um especialista?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "De segunda a sexta-feira, das 8h às 18h, pelo WhatsApp +55 (62) 99902-2623, pelos telefones (62) 3621-1919 e (62) 3621-1900 ou pelo e-mail consultas@jacobfacuri.com.br."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "O hospital tem atendimento odontológico?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sim, na especialidade de cirurgia buco-maxilo-facial, com 4 especialistas no corpo clínico."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "O hospital atende oftalmologia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sim. O atendimento oftalmológico é feito pelo Centro Goiano da Visão, dentro do Hospital Jacob Facuri. Mais informações em https://jacobfacuri.com.br/oftalmologia/."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "As especialidades são atendidas por convênio?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "O hospital atende particulares e 18 operadoras, mediante confirmação de cobertura do plano. A lista completa está em https://jacobfacuri.com.br/convenios/."
+          }
+        }
+      ]
+    }
+  ]
+}

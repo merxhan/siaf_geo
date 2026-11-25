@@ -1,0 +1,784 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "MedicalBusiness",
+        "DiagnosticLab"
+      ],
+      "@id": "https://jacobfacuri.com.br/radiologia-diagnostica-digital/#department",
+      "name": "Radiologia Diagnóstica Digital — Clínica da Imagem",
+      "alternateName": "Clínica da Imagem",
+      "url": "https://jacobfacuri.com.br/radiologia-diagnostica-digital/",
+      "description": "Diagnóstico por imagem integrado ao hospital com ressonância magnética 1.5T, tomografia multislice, ultrassom com Doppler e raio-X digital.",
+      "disambiguatingDescription": "Serviço de diagnóstico por imagem integrado ao Hospital Jacob Facuri (CNES 2337800), na Rua 08, nº 657, Centro, Goiânia (GO), com ressonância magnética 1.5T, tomografia multislice, ultrassom com Doppler e raio-X digital para exames eletivos e como apoio ao pronto-socorro.",
+      "brand": {
+        "@type": "Organization",
+        "name": "Clínica da Imagem"
+      },
+      "logo": {
+        "@id": "https://jacobfacuri.com.br/#logo"
+      },
+      "image": {
+        "@id": "https://jacobfacuri.com.br/#primaryimage"
+      },
+      "telephone": [
+        "+556236211919",
+        "+556236211900",
+        "+5562999022623"
+      ],
+      "email": "consultas@jacobfacuri.com.br",
+      "currenciesAccepted": "BRL",
+      "paymentAccepted": "Particular e convênios médicos, mediante confirmação de cobertura pela central de atendimento: Affego, Assefaz, Blue Saúde, Caesan Unimed, Cassi, Fundação Itaú, Fusex, Geap, Imas, Ipasgo, Mais Saúde, Porto Saúde, Postal Saúde, Saúde Caixa, Select, Unimed, Vitallis e Vivacom",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Rua 08, nº 657, Centro",
+        "addressLocality": "Goiânia",
+        "addressRegion": "GO",
+        "postalCode": "74013-030",
+        "addressCountry": "BR"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": -16.6732056,
+        "longitude": -49.259802
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Goiânia"
+        },
+        {
+          "@type": "State",
+          "name": "Goiás"
+        },
+        {
+          "@type": "Country",
+          "name": "Brasil"
+        }
+      ],
+      "hasMap": "https://maps.app.goo.gl/DcSyeCZZJVirfKrGA",
+      "medicalSpecialty": [
+        "Radiography"
+      ],
+      "knowsAbout": [
+        "Ressonância magnética 1.5T",
+        "Tomografia computadorizada multislice",
+        "Ultrassom com Doppler",
+        "Raio-X digital",
+        "Diagnóstico por imagem",
+        "Exames de imagem eletivos"
+      ],
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "contactType": "appointments",
+          "name": "Agendamento de exames de imagem eletivos",
+          "telephone": "+5562999022623",
+          "email": "consultas@jacobfacuri.com.br",
+          "url": "https://api.whatsapp.com/send?phone=5562999022623&text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20um%20exame.",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday"
+            ],
+            "opens": "08:00",
+            "closes": "18:00"
+          },
+          "areaServed": "BR",
+          "availableLanguage": "pt-BR"
+        },
+        {
+          "@type": "ContactPoint",
+          "contactType": "customer service",
+          "name": "Central de atendimento",
+          "telephone": "+556236211919",
+          "email": "contato@jacobfacuri.com.br",
+          "url": "https://jacobfacuri.com.br/contato/",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday"
+            ],
+            "opens": "08:00",
+            "closes": "18:00"
+          },
+          "areaServed": "BR",
+          "availableLanguage": "pt-BR"
+        }
+      ],
+      "potentialAction": [
+        {
+          "@type": "ReserveAction",
+          "name": "Agendar exame de imagem eletivo pelo WhatsApp (segunda a sexta, 8h às 18h)",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://api.whatsapp.com/send?phone=5562999022623&text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20um%20exame.",
+            "inLanguage": "pt-BR",
+            "actionPlatform": [
+              "http://schema.org/DesktopWebPlatform",
+              "http://schema.org/MobileWebPlatform",
+              "http://schema.org/IOSPlatform",
+              "http://schema.org/AndroidPlatform"
+            ]
+          }
+        },
+        {
+          "@type": "CommunicateAction",
+          "name": "Ligar para a central de atendimento (62) 3621-1919",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "tel:+556236211919",
+            "inLanguage": "pt-BR"
+          }
+        }
+      ],
+      "availableService": [
+        {
+          "@type": "ImagingTest",
+          "name": "Ressonância magnética 1.5T",
+          "description": "Exame de imagem por ressonância magnética de 1.5T.",
+          "imagingTechnique": "https://schema.org/MRI",
+          "relevantSpecialty": "https://schema.org/Radiography"
+        },
+        {
+          "@type": "ImagingTest",
+          "name": "Tomografia computadorizada multislice",
+          "description": "Exame de imagem por tomografia computadorizada multislice, também usado como apoio ao diagnóstico no pronto-socorro.",
+          "imagingTechnique": "https://schema.org/CT",
+          "relevantSpecialty": "https://schema.org/Radiography"
+        },
+        {
+          "@type": "ImagingTest",
+          "name": "Ultrassom com Doppler",
+          "description": "Exame de ultrassom com Doppler, também usado como apoio ao diagnóstico no pronto-socorro.",
+          "imagingTechnique": "https://schema.org/Ultrasound",
+          "relevantSpecialty": "https://schema.org/Radiography"
+        },
+        {
+          "@type": "ImagingTest",
+          "name": "Raio-X digital",
+          "description": "Exame de raio-X digital, também usado como apoio ao diagnóstico no pronto-socorro.",
+          "imagingTechnique": "https://schema.org/XRay",
+          "relevantSpecialty": "https://schema.org/Radiography"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@id": "https://jacobfacuri.com.br/radiologia-diagnostica-digital/#catalog"
+      },
+      "parentOrganization": {
+        "@id": "https://jacobfacuri.com.br/#organization"
+      }
+    },
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://jacobfacuri.com.br/radiologia-diagnostica-digital/#catalog",
+      "name": "Exames de diagnóstico por imagem do Hospital Jacob Facuri",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Ressonância magnética 1.5T",
+            "serviceType": "Exame de imagem",
+            "description": "Exame de imagem por ressonância magnética de 1.5T.",
+            "url": "https://jacobfacuri.com.br/radiologia-diagnostica-digital/",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/radiologia-diagnostica-digital/#department"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Tomografia computadorizada multislice",
+            "serviceType": "Exame de imagem",
+            "description": "Exame de imagem por tomografia computadorizada multislice, também usado como apoio ao diagnóstico no pronto-socorro.",
+            "url": "https://jacobfacuri.com.br/radiologia-diagnostica-digital/",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/radiologia-diagnostica-digital/#department"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Ultrassom com Doppler",
+            "serviceType": "Exame de imagem",
+            "description": "Exame de ultrassom com Doppler, também usado como apoio ao diagnóstico no pronto-socorro.",
+            "url": "https://jacobfacuri.com.br/radiologia-diagnostica-digital/",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/radiologia-diagnostica-digital/#department"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Raio-X digital",
+            "serviceType": "Exame de imagem",
+            "description": "Exame de raio-X digital, também usado como apoio ao diagnóstico no pronto-socorro.",
+            "url": "https://jacobfacuri.com.br/radiologia-diagnostica-digital/",
+            "provider": {
+              "@id": "https://jacobfacuri.com.br/radiologia-diagnostica-digital/#department"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Hospital",
+      "@id": "https://jacobfacuri.com.br/#organization",
+      "name": "Hospital Jacob Facuri",
+      "alternateName": [
+        "Hospital e Centro Clínico Jacob Facuri",
+        "Centro Clínico Jacob Facuri"
+      ],
+      "legalName": "Hospital e Maternidade São Marcos Ltda",
+      "taxID": "01.554.104/0001-00",
+      "foundingDate": "1957",
+      "url": "https://jacobfacuri.com.br/",
+      "description": "Hospital geral privado e centro clínico no centro de Goiânia, Goiás, fundado em 1957, com 249 leitos e acreditação ONA nível 3. Atendimento particular e por 18 convênios em pronto-socorro 24h, centro cirúrgico com sete salas, UTIs adulto e neonatal, hemodinâmica 24h, exames de imagem e diagnósticos, e consultas em 24 especialidades com 134 especialistas.",
+      "disambiguatingDescription": "Hospital geral privado de média e alta complexidade e centro clínico ambulatorial localizado na Rua 08, nº 657, Centro, Goiânia (GO), registrado no CNES 2337800 sob razão social Hospital e Maternidade São Marcos Ltda, com pronto-socorro 24h, centro cirúrgico e mais de 30 consultórios. Endoscopia digestiva e colonoscopia são realizadas somente com agendamento prévio ou para pacientes internados.",
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "CNES",
+          "value": "2337800"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "CRM-GO",
+          "value": "107"
+        }
+      ],
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://jacobfacuri.com.br/#logo",
+        "url": "https://jacobfacuri.com.br/icone-512.png",
+        "contentUrl": "https://jacobfacuri.com.br/icone-512.png",
+        "width": 512,
+        "height": 512,
+        "caption": "Hospital Jacob Facuri"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "@id": "https://jacobfacuri.com.br/#primaryimage",
+        "url": "https://jacobfacuri.com.br/assets/site/imagemCompartilhamento.jpg",
+        "contentUrl": "https://jacobfacuri.com.br/assets/site/imagemCompartilhamento.jpg",
+        "caption": "Hospital Jacob Facuri em Goiânia, GO"
+      },
+      "telephone": [
+        "+556236211919",
+        "+556236211900",
+        "+5562999022623"
+      ],
+      "email": "contato@jacobfacuri.com.br",
+      "currenciesAccepted": "BRL",
+      "paymentAccepted": "Particular e convênios médicos, mediante confirmação de cobertura pela central de atendimento: Affego, Assefaz, Blue Saúde, Caesan Unimed, Cassi, Fundação Itaú, Fusex, Geap, Imas, Ipasgo, Mais Saúde, Porto Saúde, Postal Saúde, Saúde Caixa, Select, Unimed, Vitallis e Vivacom",
+      "isAcceptingNewPatients": true,
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Rua 08, nº 657, Centro",
+        "addressLocality": "Goiânia",
+        "addressRegion": "GO",
+        "postalCode": "74013-030",
+        "addressCountry": "BR"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": -16.6732056,
+        "longitude": -49.259802
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Goiânia"
+        },
+        {
+          "@type": "State",
+          "name": "Goiás"
+        },
+        {
+          "@type": "Country",
+          "name": "Brasil"
+        }
+      ],
+      "hasMap": "https://maps.app.goo.gl/DcSyeCZZJVirfKrGA",
+      "sameAs": [
+        "https://www.instagram.com/jacob.facuri/",
+        "https://www.youtube.com/@jacob.facuri",
+        "https://www.facebook.com/hospitaljacobfacuri",
+        "https://www.linkedin.com/company/hospital-jacob-facuri/",
+        "http://cnes2.datasus.gov.br/Mod_Conjunto.asp?VCo_Unidade=5208702337800"
+      ],
+      "medicalSpecialty": [
+        "Cardiovascular",
+        "CommunityHealth",
+        "Dentistry",
+        "DietNutrition",
+        "Emergency",
+        "Gastroenterologic",
+        "Gynecologic",
+        "Infectious",
+        "Musculoskeletal",
+        "Neurologic",
+        "Obstetric",
+        "Oncologic",
+        "Optometric",
+        "Otolaryngologic",
+        "Pediatric",
+        "PlasticSurgery",
+        "PrimaryCare",
+        "Pulmonary",
+        "Radiography",
+        "Surgical",
+        "Urologic"
+      ],
+      "knowsAbout": [
+        "Pronto-socorro 24 horas",
+        "Consultas médicas e odontológicas em 24 especialidades",
+        "Cirurgia geral",
+        "Cirurgia bariátrica",
+        "Cirurgia plástica",
+        "Cirurgia torácica",
+        "Cirurgia vascular",
+        "Cirurgia do aparelho digestivo",
+        "Coloproctologia",
+        "Cirurgia cardíaca",
+        "Cirurgia neurológica",
+        "Cirurgia oncológica",
+        "Cirurgia buco-maxilo-facial",
+        "Terapia intensiva adulto",
+        "UTI adulto humanizada",
+        "UTI neonatal",
+        "Hemodinâmica e cardiologia intervencionista 24 horas",
+        "Ressonância magnética 1.5T",
+        "Tomografia computadorizada multislice",
+        "Ultrassom com Doppler",
+        "Raio-X digital",
+        "Endoscopia digestiva eletiva",
+        "Colonoscopia eletiva",
+        "Oncologia clínica e cirúrgica",
+        "Oftalmologia",
+        "Ortopedia e traumatologia",
+        "Tratamento de doenças da coluna vertebral",
+        "Urologia",
+        "Disfunção erétil"
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Leitos totais",
+          "value": 249,
+          "unitText": "leitos"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Leitos de UTI adulto",
+          "value": 51,
+          "unitText": "leitos"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Leitos de UTI adulto humanizada",
+          "description": "Incluídos nos 51 leitos de UTI adulto",
+          "value": 13,
+          "unitText": "leitos"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Leitos de UTI neonatal",
+          "value": 30,
+          "unitText": "leitos"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Leitos de apartamento",
+          "value": 54,
+          "unitText": "leitos"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Leitos de enfermaria",
+          "value": 15,
+          "unitText": "leitos"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Salas cirúrgicas",
+          "value": 7,
+          "unitText": "salas"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Consultórios no Centro Clínico",
+          "description": "Mais de 30 consultórios",
+          "minValue": 30,
+          "unitText": "consultórios"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Especialidades atendidas",
+          "value": 24,
+          "unitText": "especialidades"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Profissionais no corpo clínico",
+          "value": 134,
+          "unitText": "profissionais"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Convênios atendidos",
+          "value": 18,
+          "unitText": "operadoras"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Área construída",
+          "value": 13500,
+          "unitCode": "MTK",
+          "unitText": "m²"
+        }
+      ],
+      "award": "Acreditação ONA nível 3 — Acreditado com Excelência",
+      "hasCertification": {
+        "@type": "Certification",
+        "name": "Acreditação ONA nível 3 — Acreditado com Excelência",
+        "issuedBy": {
+          "@type": "Organization",
+          "name": "Organização Nacional de Acreditação (ONA)",
+          "url": "https://www.ona.org.br/"
+        },
+        "certificationStatus": "https://schema.org/CertificationActive"
+      },
+      "employee": {
+        "@type": "Person",
+        "@id": "https://jacobfacuri.com.br/corpo-clinico/gastroenterologia/ibrahim-jacob-facuri/#profissional",
+        "name": "Ibrahim Jacob Facuri",
+        "url": "https://jacobfacuri.com.br/corpo-clinico/gastroenterologia/ibrahim-jacob-facuri/",
+        "jobTitle": "Diretor técnico e diretor clínico",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "CRM-GO",
+          "value": "4506"
+        }
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "00:00",
+          "closes": "23:59",
+          "description": "Hospital e pronto-socorro abertos 24 horas por dia, todos os dias"
+        }
+      ],
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "contactType": "emergency",
+          "name": "Pronto-socorro 24h",
+          "telephone": "+556236211919",
+          "email": "contato@jacobfacuri.com.br",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday",
+              "Saturday",
+              "Sunday"
+            ],
+            "opens": "00:00",
+            "closes": "23:59"
+          },
+          "areaServed": "BR",
+          "availableLanguage": "pt-BR"
+        },
+        {
+          "@type": "ContactPoint",
+          "contactType": "appointments",
+          "name": "Agendamento de consultas e exames eletivos",
+          "telephone": "+5562999022623",
+          "email": "consultas@jacobfacuri.com.br",
+          "url": "https://api.whatsapp.com/send?phone=5562999022623&text=Ol%C3%A1%2C%20gostaria%20de%20marcar%20uma%20consulta.",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday"
+            ],
+            "opens": "08:00",
+            "closes": "18:00"
+          },
+          "areaServed": "BR",
+          "availableLanguage": "pt-BR"
+        },
+        {
+          "@type": "ContactPoint",
+          "contactType": "customer service",
+          "name": "Central de atendimento",
+          "telephone": "+556236211919",
+          "email": "contato@jacobfacuri.com.br",
+          "url": "https://jacobfacuri.com.br/contato/",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday"
+            ],
+            "opens": "08:00",
+            "closes": "18:00"
+          },
+          "areaServed": "BR",
+          "availableLanguage": "pt-BR"
+        },
+        {
+          "@type": "ContactPoint",
+          "contactType": "customer service",
+          "name": "Telefone alternativo",
+          "telephone": "+556236211900",
+          "email": "contato@jacobfacuri.com.br",
+          "url": "https://jacobfacuri.com.br/contato/",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday"
+            ],
+            "opens": "08:00",
+            "closes": "18:00"
+          },
+          "areaServed": "BR",
+          "availableLanguage": "pt-BR"
+        },
+        {
+          "@type": "ContactPoint",
+          "contactType": "customer complaints",
+          "name": "Ouvidoria",
+          "telephone": "+556236211919",
+          "email": "ouvidoria@jacobfacuri.com.br",
+          "url": "https://jacobfacuri.com.br/ouvidoria/",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday"
+            ],
+            "opens": "08:00",
+            "closes": "18:00"
+          },
+          "areaServed": "BR",
+          "availableLanguage": "pt-BR"
+        }
+      ],
+      "potentialAction": [
+        {
+          "@type": "ReserveAction",
+          "name": "Agendar consulta ou exame eletivo pelo WhatsApp (segunda a sexta, 8h às 18h)",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://api.whatsapp.com/send?phone=5562999022623&text=Ol%C3%A1%2C%20gostaria%20de%20marcar%20uma%20consulta.",
+            "inLanguage": "pt-BR",
+            "actionPlatform": [
+              "http://schema.org/DesktopWebPlatform",
+              "http://schema.org/MobileWebPlatform",
+              "http://schema.org/IOSPlatform",
+              "http://schema.org/AndroidPlatform"
+            ]
+          }
+        },
+        {
+          "@type": "CommunicateAction",
+          "name": "Ligar para a central de atendimento (62) 3621-1919",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "tel:+556236211919",
+            "inLanguage": "pt-BR"
+          }
+        },
+        {
+          "@type": "CommunicateAction",
+          "name": "Ligar para o telefone alternativo (62) 3621-1900",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "tel:+556236211900",
+            "inLanguage": "pt-BR"
+          }
+        }
+      ],
+      "hasOfferCatalog": {
+        "@id": "https://jacobfacuri.com.br/#catalog"
+      },
+      "department": [
+        {
+          "@id": "https://jacobfacuri.com.br/pronto-socorro-24h/#emergencyservice"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/centro-clinico-consultorios/#medicalclinic"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/centro-cirurgico/#department"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/utis-adulto/#department"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/uti-neonatal/#department"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/hemodinamica-e-cardiologia/#department"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/radiologia-diagnostica-digital/#department"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/centro-diagnostico/#department"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/cancer-center/#department"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/oftalmologia/#department"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/apartamentos/#department"
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://jacobfacuri.com.br/#website",
+      "url": "https://jacobfacuri.com.br/",
+      "name": "Hospital Jacob Facuri",
+      "alternateName": "Hospital e Centro Clínico Jacob Facuri",
+      "description": "Site oficial do Hospital Jacob Facuri, hospital geral privado e centro clínico em Goiânia, GO.",
+      "inLanguage": "pt-BR",
+      "publisher": {
+        "@id": "https://jacobfacuri.com.br/#organization"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://jacobfacuri.com.br/radiologia-diagnostica-digital/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Início",
+          "item": "https://jacobfacuri.com.br/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Radiologia diagnóstica digital",
+          "item": "https://jacobfacuri.com.br/radiologia-diagnostica-digital/"
+        }
+      ]
+    },
+    {
+      "@type": [
+        "MedicalWebPage",
+        "FAQPage"
+      ],
+      "@id": "https://jacobfacuri.com.br/radiologia-diagnostica-digital/#webpage",
+      "url": "https://jacobfacuri.com.br/radiologia-diagnostica-digital/",
+      "name": "Radiologia Diagnóstica Digital em Goiânia, GO — Hospital Jacob Facuri",
+      "description": "Diagnóstico por imagem integrado ao hospital com ressonância magnética 1.5T, tomografia multislice, ultrassom com Doppler e raio-X digital.",
+      "inLanguage": "pt-BR",
+      "dateModified": "2026-11-25",
+      "isPartOf": {
+        "@id": "https://jacobfacuri.com.br/#website"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://jacobfacuri.com.br/#primaryimage"
+      },
+      "publisher": {
+        "@id": "https://jacobfacuri.com.br/#organization"
+      },
+      "about": {
+        "@id": "https://jacobfacuri.com.br/radiologia-diagnostica-digital/#department"
+      },
+      "breadcrumb": {
+        "@id": "https://jacobfacuri.com.br/radiologia-diagnostica-digital/#breadcrumb"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quais exames de imagem o Hospital Jacob Facuri realiza?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ressonância magnética 1.5T, tomografia computadorizada multislice, ultrassom com Doppler e raio-X digital, pela Radiologia Diagnóstica Digital — Clínica da Imagem, integrada ao hospital."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Como agendar exame de imagem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "De segunda a sexta-feira, das 8h às 18h, pelo WhatsApp +55 (62) 99902-2623, pelos telefones (62) 3621-1919 e (62) 3621-1900 ou pelo e-mail consultas@jacobfacuri.com.br."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "O pronto-socorro tem exames de imagem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sim. Tomografia, raio-X digital e ultrassom estão disponíveis como apoio ao diagnóstico no atendimento de urgência do pronto-socorro 24 horas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Os convênios cobrem exames de imagem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "O hospital atende particulares e 18 operadoras em internações, cirurgias, procedimentos e exames, mediante confirmação de cobertura do plano. A lista está em https://jacobfacuri.com.br/convenios/."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Onde fica a Clínica da Imagem do Hospital Jacob Facuri?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na Rua 08, nº 657, Centro, Goiânia – GO, CEP 74013-030, dentro do Hospital Jacob Facuri."
+          }
+        }
+      ]
+    }
+  ]
+}

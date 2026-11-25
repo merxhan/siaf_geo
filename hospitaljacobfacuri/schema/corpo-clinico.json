@@ -1,0 +1,3264 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Hospital",
+      "@id": "https://jacobfacuri.com.br/#organization",
+      "name": "Hospital Jacob Facuri",
+      "alternateName": [
+        "Hospital e Centro Clínico Jacob Facuri",
+        "Centro Clínico Jacob Facuri"
+      ],
+      "legalName": "Hospital e Maternidade São Marcos Ltda",
+      "taxID": "01.554.104/0001-00",
+      "foundingDate": "1957",
+      "url": "https://jacobfacuri.com.br/",
+      "description": "Hospital geral privado e centro clínico no centro de Goiânia, Goiás, fundado em 1957, com 249 leitos e acreditação ONA nível 3. Atendimento particular e por 18 convênios em pronto-socorro 24h, centro cirúrgico com sete salas, UTIs adulto e neonatal, hemodinâmica 24h, exames de imagem e diagnósticos, e consultas em 24 especialidades com 134 especialistas.",
+      "disambiguatingDescription": "Hospital geral privado de média e alta complexidade e centro clínico ambulatorial localizado na Rua 08, nº 657, Centro, Goiânia (GO), registrado no CNES 2337800 sob razão social Hospital e Maternidade São Marcos Ltda, com pronto-socorro 24h, centro cirúrgico e mais de 30 consultórios. Endoscopia digestiva e colonoscopia são realizadas somente com agendamento prévio ou para pacientes internados.",
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "CNES",
+          "value": "2337800"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "CRM-GO",
+          "value": "107"
+        }
+      ],
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://jacobfacuri.com.br/#logo",
+        "url": "https://jacobfacuri.com.br/icone-512.png",
+        "contentUrl": "https://jacobfacuri.com.br/icone-512.png",
+        "width": 512,
+        "height": 512,
+        "caption": "Hospital Jacob Facuri"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "@id": "https://jacobfacuri.com.br/#primaryimage",
+        "url": "https://jacobfacuri.com.br/assets/site/imagemCompartilhamento.jpg",
+        "contentUrl": "https://jacobfacuri.com.br/assets/site/imagemCompartilhamento.jpg",
+        "caption": "Hospital Jacob Facuri em Goiânia, GO"
+      },
+      "telephone": [
+        "+556236211919",
+        "+556236211900",
+        "+5562999022623"
+      ],
+      "email": "contato@jacobfacuri.com.br",
+      "currenciesAccepted": "BRL",
+      "paymentAccepted": "Particular e convênios médicos, mediante confirmação de cobertura pela central de atendimento: Affego, Assefaz, Blue Saúde, Caesan Unimed, Cassi, Fundação Itaú, Fusex, Geap, Imas, Ipasgo, Mais Saúde, Porto Saúde, Postal Saúde, Saúde Caixa, Select, Unimed, Vitallis e Vivacom",
+      "isAcceptingNewPatients": true,
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Rua 08, nº 657, Centro",
+        "addressLocality": "Goiânia",
+        "addressRegion": "GO",
+        "postalCode": "74013-030",
+        "addressCountry": "BR"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": -16.6732056,
+        "longitude": -49.259802
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Goiânia"
+        },
+        {
+          "@type": "State",
+          "name": "Goiás"
+        },
+        {
+          "@type": "Country",
+          "name": "Brasil"
+        }
+      ],
+      "hasMap": "https://maps.app.goo.gl/DcSyeCZZJVirfKrGA",
+      "sameAs": [
+        "https://www.instagram.com/jacob.facuri/",
+        "https://www.youtube.com/@jacob.facuri",
+        "https://www.facebook.com/hospitaljacobfacuri",
+        "https://www.linkedin.com/company/hospital-jacob-facuri/",
+        "http://cnes2.datasus.gov.br/Mod_Conjunto.asp?VCo_Unidade=5208702337800"
+      ],
+      "medicalSpecialty": [
+        "Cardiovascular",
+        "CommunityHealth",
+        "Dentistry",
+        "DietNutrition",
+        "Emergency",
+        "Gastroenterologic",
+        "Gynecologic",
+        "Infectious",
+        "Musculoskeletal",
+        "Neurologic",
+        "Obstetric",
+        "Oncologic",
+        "Optometric",
+        "Otolaryngologic",
+        "Pediatric",
+        "PlasticSurgery",
+        "PrimaryCare",
+        "Pulmonary",
+        "Radiography",
+        "Surgical",
+        "Urologic"
+      ],
+      "knowsAbout": [
+        "Pronto-socorro 24 horas",
+        "Consultas médicas e odontológicas em 24 especialidades",
+        "Cirurgia geral",
+        "Cirurgia bariátrica",
+        "Cirurgia plástica",
+        "Cirurgia torácica",
+        "Cirurgia vascular",
+        "Cirurgia do aparelho digestivo",
+        "Coloproctologia",
+        "Cirurgia cardíaca",
+        "Cirurgia neurológica",
+        "Cirurgia oncológica",
+        "Cirurgia buco-maxilo-facial",
+        "Terapia intensiva adulto",
+        "UTI adulto humanizada",
+        "UTI neonatal",
+        "Hemodinâmica e cardiologia intervencionista 24 horas",
+        "Ressonância magnética 1.5T",
+        "Tomografia computadorizada multislice",
+        "Ultrassom com Doppler",
+        "Raio-X digital",
+        "Endoscopia digestiva eletiva",
+        "Colonoscopia eletiva",
+        "Oncologia clínica e cirúrgica",
+        "Oftalmologia",
+        "Ortopedia e traumatologia",
+        "Tratamento de doenças da coluna vertebral",
+        "Urologia",
+        "Disfunção erétil"
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Leitos totais",
+          "value": 249,
+          "unitText": "leitos"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Leitos de UTI adulto",
+          "value": 51,
+          "unitText": "leitos"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Leitos de UTI adulto humanizada",
+          "description": "Incluídos nos 51 leitos de UTI adulto",
+          "value": 13,
+          "unitText": "leitos"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Leitos de UTI neonatal",
+          "value": 30,
+          "unitText": "leitos"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Leitos de apartamento",
+          "value": 54,
+          "unitText": "leitos"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Leitos de enfermaria",
+          "value": 15,
+          "unitText": "leitos"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Salas cirúrgicas",
+          "value": 7,
+          "unitText": "salas"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Consultórios no Centro Clínico",
+          "description": "Mais de 30 consultórios",
+          "minValue": 30,
+          "unitText": "consultórios"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Especialidades atendidas",
+          "value": 24,
+          "unitText": "especialidades"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Profissionais no corpo clínico",
+          "value": 134,
+          "unitText": "profissionais"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Convênios atendidos",
+          "value": 18,
+          "unitText": "operadoras"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Área construída",
+          "value": 13500,
+          "unitCode": "MTK",
+          "unitText": "m²"
+        }
+      ],
+      "award": "Acreditação ONA nível 3 — Acreditado com Excelência",
+      "hasCertification": {
+        "@type": "Certification",
+        "name": "Acreditação ONA nível 3 — Acreditado com Excelência",
+        "issuedBy": {
+          "@type": "Organization",
+          "name": "Organização Nacional de Acreditação (ONA)",
+          "url": "https://www.ona.org.br/"
+        },
+        "certificationStatus": "https://schema.org/CertificationActive"
+      },
+      "employee": {
+        "@type": "Person",
+        "@id": "https://jacobfacuri.com.br/corpo-clinico/gastroenterologia/ibrahim-jacob-facuri/#profissional",
+        "name": "Ibrahim Jacob Facuri",
+        "url": "https://jacobfacuri.com.br/corpo-clinico/gastroenterologia/ibrahim-jacob-facuri/",
+        "jobTitle": "Diretor técnico e diretor clínico",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "CRM-GO",
+          "value": "4506"
+        }
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "00:00",
+          "closes": "23:59",
+          "description": "Hospital e pronto-socorro abertos 24 horas por dia, todos os dias"
+        }
+      ],
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "contactType": "emergency",
+          "name": "Pronto-socorro 24h",
+          "telephone": "+556236211919",
+          "email": "contato@jacobfacuri.com.br",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday",
+              "Saturday",
+              "Sunday"
+            ],
+            "opens": "00:00",
+            "closes": "23:59"
+          },
+          "areaServed": "BR",
+          "availableLanguage": "pt-BR"
+        },
+        {
+          "@type": "ContactPoint",
+          "contactType": "appointments",
+          "name": "Agendamento de consultas e exames eletivos",
+          "telephone": "+5562999022623",
+          "email": "consultas@jacobfacuri.com.br",
+          "url": "https://api.whatsapp.com/send?phone=5562999022623&text=Ol%C3%A1%2C%20gostaria%20de%20marcar%20uma%20consulta.",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday"
+            ],
+            "opens": "08:00",
+            "closes": "18:00"
+          },
+          "areaServed": "BR",
+          "availableLanguage": "pt-BR"
+        },
+        {
+          "@type": "ContactPoint",
+          "contactType": "customer service",
+          "name": "Central de atendimento",
+          "telephone": "+556236211919",
+          "email": "contato@jacobfacuri.com.br",
+          "url": "https://jacobfacuri.com.br/contato/",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday"
+            ],
+            "opens": "08:00",
+            "closes": "18:00"
+          },
+          "areaServed": "BR",
+          "availableLanguage": "pt-BR"
+        },
+        {
+          "@type": "ContactPoint",
+          "contactType": "customer service",
+          "name": "Telefone alternativo",
+          "telephone": "+556236211900",
+          "email": "contato@jacobfacuri.com.br",
+          "url": "https://jacobfacuri.com.br/contato/",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday"
+            ],
+            "opens": "08:00",
+            "closes": "18:00"
+          },
+          "areaServed": "BR",
+          "availableLanguage": "pt-BR"
+        },
+        {
+          "@type": "ContactPoint",
+          "contactType": "customer complaints",
+          "name": "Ouvidoria",
+          "telephone": "+556236211919",
+          "email": "ouvidoria@jacobfacuri.com.br",
+          "url": "https://jacobfacuri.com.br/ouvidoria/",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday"
+            ],
+            "opens": "08:00",
+            "closes": "18:00"
+          },
+          "areaServed": "BR",
+          "availableLanguage": "pt-BR"
+        }
+      ],
+      "potentialAction": [
+        {
+          "@type": "ReserveAction",
+          "name": "Agendar consulta ou exame eletivo pelo WhatsApp (segunda a sexta, 8h às 18h)",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://api.whatsapp.com/send?phone=5562999022623&text=Ol%C3%A1%2C%20gostaria%20de%20marcar%20uma%20consulta.",
+            "inLanguage": "pt-BR",
+            "actionPlatform": [
+              "http://schema.org/DesktopWebPlatform",
+              "http://schema.org/MobileWebPlatform",
+              "http://schema.org/IOSPlatform",
+              "http://schema.org/AndroidPlatform"
+            ]
+          }
+        },
+        {
+          "@type": "CommunicateAction",
+          "name": "Ligar para a central de atendimento (62) 3621-1919",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "tel:+556236211919",
+            "inLanguage": "pt-BR"
+          }
+        },
+        {
+          "@type": "CommunicateAction",
+          "name": "Ligar para o telefone alternativo (62) 3621-1900",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "tel:+556236211900",
+            "inLanguage": "pt-BR"
+          }
+        }
+      ],
+      "hasOfferCatalog": {
+        "@id": "https://jacobfacuri.com.br/#catalog"
+      },
+      "department": [
+        {
+          "@id": "https://jacobfacuri.com.br/pronto-socorro-24h/#emergencyservice"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/centro-clinico-consultorios/#medicalclinic"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/centro-cirurgico/#department"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/utis-adulto/#department"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/uti-neonatal/#department"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/hemodinamica-e-cardiologia/#department"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/radiologia-diagnostica-digital/#department"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/centro-diagnostico/#department"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/cancer-center/#department"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/oftalmologia/#department"
+        },
+        {
+          "@id": "https://jacobfacuri.com.br/apartamentos/#department"
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://jacobfacuri.com.br/#website",
+      "url": "https://jacobfacuri.com.br/",
+      "name": "Hospital Jacob Facuri",
+      "alternateName": "Hospital e Centro Clínico Jacob Facuri",
+      "description": "Site oficial do Hospital Jacob Facuri, hospital geral privado e centro clínico em Goiânia, GO.",
+      "inLanguage": "pt-BR",
+      "publisher": {
+        "@id": "https://jacobfacuri.com.br/#organization"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://jacobfacuri.com.br/corpo-clinico/#itemlist",
+      "name": "Corpo clínico do Hospital Jacob Facuri",
+      "description": "Lista completa dos 134 especialistas cadastrados no corpo clínico do Hospital Jacob Facuri e do Centro Clínico em Goiânia, GO, organizados por especialidade médica e odontológica.",
+      "numberOfItems": 134,
+      "itemListOrder": "https://schema.org/ItemListUnordered",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/angiologia-cirurgia-vascular/alexandre-araujo-pereira/#profissional",
+            "name": "Alexandre Araujo Pereira",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/angiologia-cirurgia-vascular/alexandre-araujo-pereira/",
+            "medicalSpecialty": [
+              "https://schema.org/Cardiovascular"
+            ],
+            "knowsAbout": "Angiologia / Cirurgia Vascular",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/angiologia-cirurgia-vascular/caius-lucilius-de-castro-junior/#profissional",
+            "name": "Caius Lucilius de Castro Junior",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/angiologia-cirurgia-vascular/caius-lucilius-de-castro-junior/",
+            "medicalSpecialty": [
+              "https://schema.org/Cardiovascular"
+            ],
+            "knowsAbout": "Angiologia / Cirurgia Vascular",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/angiologia-cirurgia-vascular/emilio-carlos-leao-veloso/#profissional",
+            "name": "Emílio Carlos Leão Veloso",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/angiologia-cirurgia-vascular/emilio-carlos-leao-veloso/",
+            "medicalSpecialty": [
+              "https://schema.org/Cardiovascular"
+            ],
+            "knowsAbout": "Angiologia / Cirurgia Vascular",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/angiologia-cirurgia-vascular/frederico-araujo-oliveira/#profissional",
+            "name": "Frederico Araujo Oliveira",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/angiologia-cirurgia-vascular/frederico-araujo-oliveira/",
+            "medicalSpecialty": [
+              "https://schema.org/Cardiovascular"
+            ],
+            "knowsAbout": "Angiologia / Cirurgia Vascular",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/angiologia-cirurgia-vascular/marcelo-brito-de-mesquita-leite/#profissional",
+            "name": "Marcelo Brito de Mesquita Leite",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/angiologia-cirurgia-vascular/marcelo-brito-de-mesquita-leite/",
+            "medicalSpecialty": [
+              "https://schema.org/Cardiovascular"
+            ],
+            "knowsAbout": "Angiologia / Cirurgia Vascular",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/angiologia-cirurgia-vascular/thiago-peres-alves/#profissional",
+            "name": "Thiago Peres Alves",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/angiologia-cirurgia-vascular/thiago-peres-alves/",
+            "medicalSpecialty": [
+              "https://schema.org/Cardiovascular"
+            ],
+            "knowsAbout": "Angiologia / Cirurgia Vascular",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/buco-maxilo-facial/alex-alves-da-costa-andrade/#profissional",
+            "name": "Alex Alves da Costa Andrade",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/buco-maxilo-facial/alex-alves-da-costa-andrade/",
+            "medicalSpecialty": [
+              "https://schema.org/Dentistry"
+            ],
+            "knowsAbout": "Buco-maxilo-facial",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/buco-maxilo-facial/felipe-guedes-bueno/#profissional",
+            "name": "Felipe Guedes Bueno",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/buco-maxilo-facial/felipe-guedes-bueno/",
+            "medicalSpecialty": [
+              "https://schema.org/Dentistry"
+            ],
+            "knowsAbout": "Buco-maxilo-facial",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/buco-maxilo-facial/italo-cordeiro-de-toledo/#profissional",
+            "name": "Ítalo Cordeiro de Toledo",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/buco-maxilo-facial/italo-cordeiro-de-toledo/",
+            "medicalSpecialty": [
+              "https://schema.org/Dentistry"
+            ],
+            "knowsAbout": "Buco-maxilo-facial",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/buco-maxilo-facial/rosenvaldo-moreira-junior/#profissional",
+            "name": "Rosenvaldo Moreira Junior",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/buco-maxilo-facial/rosenvaldo-moreira-junior/",
+            "medicalSpecialty": [
+              "https://schema.org/Dentistry"
+            ],
+            "knowsAbout": "Buco-maxilo-facial",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cardiologia/lee-anderson-cruvinel/#profissional",
+            "name": "Lee Anderson Cruvinel",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cardiologia/lee-anderson-cruvinel/",
+            "medicalSpecialty": [
+              "https://schema.org/Cardiovascular"
+            ],
+            "knowsAbout": "Cardiologia (cirúrgica, clínica e intervencionista)",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cardiologia/silvio-sergio-pontes-camara/#profissional",
+            "name": "Silvio Sérgio Pontes Camara",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cardiologia/silvio-sergio-pontes-camara/",
+            "medicalSpecialty": [
+              "https://schema.org/Cardiovascular"
+            ],
+            "knowsAbout": "Cardiologia (cirúrgica, clínica e intervencionista)",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cardiologia/rodrigo-ruys-lopes-jasbick/#profissional",
+            "name": "Rodrigo Ruys Lopes Jasbick",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cardiologia/rodrigo-ruys-lopes-jasbick/",
+            "medicalSpecialty": [
+              "https://schema.org/Cardiovascular"
+            ],
+            "knowsAbout": "Cardiologia (cirúrgica, clínica e intervencionista)",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cardiologia/rodrigo-teixeira-cleto/#profissional",
+            "name": "Rodrigo Teixeira Cleto",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cardiologia/rodrigo-teixeira-cleto/",
+            "medicalSpecialty": [
+              "https://schema.org/Cardiovascular"
+            ],
+            "knowsAbout": "Cardiologia (cirúrgica, clínica e intervencionista)",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cardiologia/artur-henrique-de-souza/#profissional",
+            "name": "Artur Henrique de Souza",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cardiologia/artur-henrique-de-souza/",
+            "medicalSpecialty": [
+              "https://schema.org/Cardiovascular"
+            ],
+            "knowsAbout": "Cardiologia (cirúrgica, clínica e intervencionista)",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cardiologia/dilmar-cunha/#profissional",
+            "name": "Dilmar Cunha",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cardiologia/dilmar-cunha/",
+            "medicalSpecialty": [
+              "https://schema.org/Cardiovascular"
+            ],
+            "knowsAbout": "Cardiologia (cirúrgica, clínica e intervencionista)",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cardiologia/renato-morais-araujo/#profissional",
+            "name": "Renato Morais Araujo",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cardiologia/renato-morais-araujo/",
+            "medicalSpecialty": [
+              "https://schema.org/Cardiovascular"
+            ],
+            "knowsAbout": "Cardiologia (cirúrgica, clínica e intervencionista)",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-bariatrica/paulo-reis-esselin-de-melo/#profissional",
+            "name": "Paulo Reis Esselin de Melo",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-bariatrica/paulo-reis-esselin-de-melo/",
+            "medicalSpecialty": [
+              "https://schema.org/Surgical"
+            ],
+            "knowsAbout": "Cirurgia bariátrica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-bariatrica/jose-geraldo-moraes-sampaio-neto/#profissional",
+            "name": "José Geraldo Moraes Sampaio Neto",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-bariatrica/jose-geraldo-moraes-sampaio-neto/",
+            "medicalSpecialty": [
+              "https://schema.org/Surgical"
+            ],
+            "knowsAbout": "Cirurgia bariátrica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-bariatrica/danilo-fossalussa-minari/#profissional",
+            "name": "Danilo Fossalussa Minari",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-bariatrica/danilo-fossalussa-minari/",
+            "medicalSpecialty": [
+              "https://schema.org/Surgical"
+            ],
+            "knowsAbout": "Cirurgia bariátrica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-do-aparelho-digestivo/gustavo-de-faria-ferro/#profissional",
+            "name": "Gustavo de Faria Ferro",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-do-aparelho-digestivo/gustavo-de-faria-ferro/",
+            "medicalSpecialty": [
+              "https://schema.org/Surgical"
+            ],
+            "knowsAbout": "Cirurgia do aparelho digestivo",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-geral/breno-batista/#profissional",
+            "name": "Breno Batista",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-geral/breno-batista/",
+            "medicalSpecialty": [
+              "https://schema.org/Surgical"
+            ],
+            "knowsAbout": "Cirurgia geral",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-geral/breno-fernandes-barbosa/#profissional",
+            "name": "Breno Fernandes Barbosa",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-geral/breno-fernandes-barbosa/",
+            "medicalSpecialty": [
+              "https://schema.org/Surgical"
+            ],
+            "knowsAbout": "Cirurgia geral",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-geral/guilherme-rivelli-lamboglia/#profissional",
+            "name": "Guilherme Rivelli Lamboglia",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-geral/guilherme-rivelli-lamboglia/",
+            "medicalSpecialty": [
+              "https://schema.org/Surgical"
+            ],
+            "knowsAbout": "Cirurgia geral",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-geral/jackson-lima-azevedo/#profissional",
+            "name": "Jackson Lima Azevedo",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-geral/jackson-lima-azevedo/",
+            "medicalSpecialty": [
+              "https://schema.org/Surgical"
+            ],
+            "knowsAbout": "Cirurgia geral",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-geral/luis-felipe-becker-de-oliveira/#profissional",
+            "name": "Luis Felipe Becker de Oliveira",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-geral/luis-felipe-becker-de-oliveira/",
+            "medicalSpecialty": [
+              "https://schema.org/Surgical"
+            ],
+            "knowsAbout": "Cirurgia geral",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-geral/raphael-sales-nogueira-amorim-canedo/#profissional",
+            "name": "Raphael Sales Nogueira Amorim Canêdo",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-geral/raphael-sales-nogueira-amorim-canedo/",
+            "medicalSpecialty": [
+              "https://schema.org/Surgical"
+            ],
+            "knowsAbout": "Cirurgia geral",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 28,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-geral/renato-de-lima-cambotta/#profissional",
+            "name": "Renato de Lima Cambotta",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-geral/renato-de-lima-cambotta/",
+            "medicalSpecialty": [
+              "https://schema.org/Surgical"
+            ],
+            "knowsAbout": "Cirurgia geral",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 29,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-geral/marco-tulio-brandao-alves/#profissional",
+            "name": "Marco Túlio Brandão Alves",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-geral/marco-tulio-brandao-alves/",
+            "medicalSpecialty": [
+              "https://schema.org/Surgical"
+            ],
+            "knowsAbout": "Cirurgia geral",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 30,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-geral/diego-naziasene-de-almeida/#profissional",
+            "name": "Diego Naziasene de Almeida",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-geral/diego-naziasene-de-almeida/",
+            "medicalSpecialty": [
+              "https://schema.org/Surgical"
+            ],
+            "knowsAbout": "Cirurgia geral",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 31,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/antonio-urias-bernardino/#profissional",
+            "name": "Antônio Urias Bernardino",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/antonio-urias-bernardino/",
+            "medicalSpecialty": [
+              "https://schema.org/PlasticSurgery"
+            ],
+            "knowsAbout": "Cirurgia plástica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 32,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/danilo-estevam/#profissional",
+            "name": "Danilo Estevam",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/danilo-estevam/",
+            "medicalSpecialty": [
+              "https://schema.org/PlasticSurgery"
+            ],
+            "knowsAbout": "Cirurgia plástica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 33,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/douglas-vinicius-silva/#profissional",
+            "name": "Douglas Vinícius Silva",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/douglas-vinicius-silva/",
+            "medicalSpecialty": [
+              "https://schema.org/PlasticSurgery"
+            ],
+            "knowsAbout": "Cirurgia plástica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 34,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/guilherme-chaves-de-abreu/#profissional",
+            "name": "Guilherme Chaves de Abreu",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/guilherme-chaves-de-abreu/",
+            "medicalSpecialty": [
+              "https://schema.org/PlasticSurgery"
+            ],
+            "knowsAbout": "Cirurgia plástica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 35,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/gustavo-da-costa-machado/#profissional",
+            "name": "Gustavo da Costa Machado",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/gustavo-da-costa-machado/",
+            "medicalSpecialty": [
+              "https://schema.org/PlasticSurgery"
+            ],
+            "knowsAbout": "Cirurgia plástica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 36,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/paulo-ricardo-nunes-da-rocha/#profissional",
+            "name": "Paulo Ricardo Nunes da Rocha",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/paulo-ricardo-nunes-da-rocha/",
+            "medicalSpecialty": [
+              "https://schema.org/PlasticSurgery"
+            ],
+            "knowsAbout": "Cirurgia plástica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 37,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/randher-sergio-zeferino-de-moura-monteiro/#profissional",
+            "name": "Randher Sérgio Zeferino de Moura Monteiro",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/randher-sergio-zeferino-de-moura-monteiro/",
+            "medicalSpecialty": [
+              "https://schema.org/PlasticSurgery"
+            ],
+            "knowsAbout": "Cirurgia plástica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 38,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/rogerio-morale-de-oliveira/#profissional",
+            "name": "Rogerio Morale de Oliveira",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/rogerio-morale-de-oliveira/",
+            "medicalSpecialty": [
+              "https://schema.org/PlasticSurgery"
+            ],
+            "knowsAbout": "Cirurgia plástica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 39,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/willian-pires-de-oliveira-junior/#profissional",
+            "name": "Willian Pires de Oliveira Junior",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/willian-pires-de-oliveira-junior/",
+            "medicalSpecialty": [
+              "https://schema.org/PlasticSurgery"
+            ],
+            "knowsAbout": "Cirurgia plástica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 40,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/adevair-marques-filho/#profissional",
+            "name": "Adevair Marques Filho",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/adevair-marques-filho/",
+            "medicalSpecialty": [
+              "https://schema.org/PlasticSurgery"
+            ],
+            "knowsAbout": "Cirurgia plástica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 41,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/agnaldo-moitinho-damasceno-junior/#profissional",
+            "name": "Agnaldo Moitinho Damasceno Júnior",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/agnaldo-moitinho-damasceno-junior/",
+            "medicalSpecialty": [
+              "https://schema.org/PlasticSurgery"
+            ],
+            "knowsAbout": "Cirurgia plástica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 42,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/alysson-silva-pinheiro/#profissional",
+            "name": "Alysson Silva Pinheiro",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/alysson-silva-pinheiro/",
+            "medicalSpecialty": [
+              "https://schema.org/PlasticSurgery"
+            ],
+            "knowsAbout": "Cirurgia plástica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 43,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/antonio-silva-rocha-junior/#profissional",
+            "name": "Antonio Silva Rocha Junior",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/antonio-silva-rocha-junior/",
+            "medicalSpecialty": [
+              "https://schema.org/PlasticSurgery"
+            ],
+            "knowsAbout": "Cirurgia plástica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 44,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/dhyego-curado/#profissional",
+            "name": "Dhyego Curado",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/dhyego-curado/",
+            "medicalSpecialty": [
+              "https://schema.org/PlasticSurgery"
+            ],
+            "knowsAbout": "Cirurgia plástica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 45,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/leonardo-magalhaes-cavalcante/#profissional",
+            "name": "Leonardo Magalhães Cavalcante",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/leonardo-magalhaes-cavalcante/",
+            "medicalSpecialty": [
+              "https://schema.org/PlasticSurgery"
+            ],
+            "knowsAbout": "Cirurgia plástica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 46,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/rodolfo-guedes-afiune/#profissional",
+            "name": "Rodolfo Guedes Afiune",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/rodolfo-guedes-afiune/",
+            "medicalSpecialty": [
+              "https://schema.org/PlasticSurgery"
+            ],
+            "knowsAbout": "Cirurgia plástica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 47,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/suellen-gusmao/#profissional",
+            "name": "Suellen Gusmão",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/suellen-gusmao/",
+            "medicalSpecialty": [
+              "https://schema.org/PlasticSurgery"
+            ],
+            "knowsAbout": "Cirurgia plástica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 48,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/wander-antonio-bissi-pirota/#profissional",
+            "name": "Wander Antônio Bissi Pirota",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-plastica/wander-antonio-bissi-pirota/",
+            "medicalSpecialty": [
+              "https://schema.org/PlasticSurgery"
+            ],
+            "knowsAbout": "Cirurgia plástica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 49,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-toracica/marcelo-loze-de-queiroz/#profissional",
+            "name": "Marcelo Loze de Queiroz",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-toracica/marcelo-loze-de-queiroz/",
+            "medicalSpecialty": [
+              "https://schema.org/Surgical"
+            ],
+            "knowsAbout": "Cirurgia torácica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 50,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-vascular/verlaine-dos-reis/#profissional",
+            "name": "Verlaine dos Reis",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/cirurgia-vascular/verlaine-dos-reis/",
+            "medicalSpecialty": [
+              "https://schema.org/Cardiovascular"
+            ],
+            "knowsAbout": "Cirurgia vascular",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 51,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/ana-beatriz-sabino-pereira/#profissional",
+            "name": "Ana Beatriz Sabino Pereira",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/ana-beatriz-sabino-pereira/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 52,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/clara-elyades-araujo-cabral/#profissional",
+            "name": "Clara Elyades Araújo Cabral",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/clara-elyades-araujo-cabral/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 53,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/daniella-mendes-de-souza-sobrinho/#profissional",
+            "name": "Daniella Mendes de Souza Sobrinho",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/daniella-mendes-de-souza-sobrinho/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 54,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/danilo-alvin-de-paiva-goncalves-filho/#profissional",
+            "name": "Danilo Alvin de Paiva Gonçalves Filho",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/danilo-alvin-de-paiva-goncalves-filho/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 55,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/estefane-almeida-prado/#profissional",
+            "name": "Estéfane Almeida Prado",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/estefane-almeida-prado/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 56,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/ester-renata-souza-silva/#profissional",
+            "name": "Ester Renata Souza Silva",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/ester-renata-souza-silva/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 57,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/gabriel-mascarenhas-bergholz-sahium/#profissional",
+            "name": "Gabriel Mascarenhas Bergholz Sahium",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/gabriel-mascarenhas-bergholz-sahium/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 58,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/geovana-cabral-silva/#profissional",
+            "name": "Geovana Cabral Silva",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/geovana-cabral-silva/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 59,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/guilherme-de-assis-rodrigues/#profissional",
+            "name": "Guilherme de Assis Rodrigues",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/guilherme-de-assis-rodrigues/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 60,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/guilherme-de-oliveira-de-barbosa/#profissional",
+            "name": "Guilherme de Oliveira de Barbosa",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/guilherme-de-oliveira-de-barbosa/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 61,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/gutembergue-silva-oliveira-junior/#profissional",
+            "name": "Gutembergue Silva Oliveira Júnior",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/gutembergue-silva-oliveira-junior/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 62,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/ian-camilo-costa-maranhao/#profissional",
+            "name": "Ian Camilo Costa Maranhão",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/ian-camilo-costa-maranhao/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 63,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/ibrahim-jacob-facuri-filho/#profissional",
+            "name": "Ibrahim Jacob Facuri Filho",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/ibrahim-jacob-facuri-filho/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            },
+            "disambiguatingDescription": "Médico em Clínica médica. Não confundir com Ibrahim Jacob Facuri (Gastroenterologia) nem com Jacob Facuri Neto (Nutrologia)."
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 64,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/isabella-carneiro-oliveira-goncalves-vaz/#profissional",
+            "name": "Isabella Carneiro Oliveira Gonçalves Vaz",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/isabella-carneiro-oliveira-goncalves-vaz/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 65,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/joao-paulo-sabino-pereira/#profissional",
+            "name": "João Paulo Sabino Pereira",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/joao-paulo-sabino-pereira/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 66,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/joao-pedro-cajango-favero-coimbra/#profissional",
+            "name": "João Pedro Cajango Fávero Coimbra",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/joao-pedro-cajango-favero-coimbra/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 67,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/julia-sant-ana-zabrockis/#profissional",
+            "name": "Júlia Sant’ Ana Zabrockis",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/julia-sant-ana-zabrockis/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 68,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/lidia-andrea-karim-goncalves/#profissional",
+            "name": "Lídia Andrea Karim Goncalves",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/lidia-andrea-karim-goncalves/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 69,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/lorena-torres-magalhaes/#profissional",
+            "name": "Lorena Torres Magalhães",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/lorena-torres-magalhaes/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 70,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/lucas-martins-morais/#profissional",
+            "name": "Lucas Martins Morais",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/lucas-martins-morais/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 71,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/mardem-jose-cordeiro-souza-netto/#profissional",
+            "name": "Mardem José Cordeiro Souza Netto",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/mardem-jose-cordeiro-souza-netto/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 72,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/maria-carolina-aires-silva/#profissional",
+            "name": "Maria Carolina Aires Silva",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/maria-carolina-aires-silva/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 73,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/mariana-reis-chaves/#profissional",
+            "name": "Mariana Reis Chaves",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/mariana-reis-chaves/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 74,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/matheus-rezende-rabelo/#profissional",
+            "name": "Matheus Rezende Rabelo",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/matheus-rezende-rabelo/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 75,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/mauro-cordeiro-de-andrade-filho/#profissional",
+            "name": "Mauro Cordeiro de Andrade Filho",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/mauro-cordeiro-de-andrade-filho/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 76,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/mayara-esteves-franca-assuncao/#profissional",
+            "name": "Mayara Esteves França Assunção",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/mayara-esteves-franca-assuncao/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 77,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/nara-christyn-alves-araujo/#profissional",
+            "name": "Nara Christyn Alves Araújo",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/nara-christyn-alves-araujo/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 78,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/nathalia-de-pina-sousa-pinheiro/#profissional",
+            "name": "Nathália de Pina Sousa Pinheiro",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/nathalia-de-pina-sousa-pinheiro/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 79,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/nathan-bandeira-vinhal/#profissional",
+            "name": "Nathan Bandeira Vinhal",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/nathan-bandeira-vinhal/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 80,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/rafael-queiroz-de-oliveira/#profissional",
+            "name": "Rafael Queiroz de Oliveira",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/rafael-queiroz-de-oliveira/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 81,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/rafael-rosado-soares-dos-santos/#profissional",
+            "name": "Rafael Rosado Soares dos Santos",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/rafael-rosado-soares-dos-santos/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 82,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/rodrigo-dias-cassimiro/#profissional",
+            "name": "Rodrigo Dias Cassimiro",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/rodrigo-dias-cassimiro/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 83,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/rodrigo-fernandes-f-nassar/#profissional",
+            "name": "Rodrigo Fernandes F. Nassar",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/rodrigo-fernandes-f-nassar/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 84,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/rossini-santana-fleury-neto/#profissional",
+            "name": "Rossini Santana Fleury Neto",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/rossini-santana-fleury-neto/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 85,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/tamires-rocha-sanches/#profissional",
+            "name": "Tamires Rocha Sanches",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/tamires-rocha-sanches/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 86,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/victor-henrique-ferreira-santos/#profissional",
+            "name": "Victor Henrique Ferreira Santos",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/victor-henrique-ferreira-santos/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 87,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/vitoria-costa-ataides/#profissional",
+            "name": "Vitória Costa Ataídes",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/vitoria-costa-ataides/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 88,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/waler-jose-de-campos-reis/#profissional",
+            "name": "Waler José de Campos Reis",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/waler-jose-de-campos-reis/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 89,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/willian-lucio-nunes/#profissional",
+            "name": "Willian Lucio Nunes",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/clinica-medica/willian-lucio-nunes/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Clínica médica",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 90,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/coloproctologia-cirurgia-geral/cristiano-de-magalhaes-nunes/#profissional",
+            "name": "Cristiano de Magalhães Nunes",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/coloproctologia-cirurgia-geral/cristiano-de-magalhaes-nunes/",
+            "medicalSpecialty": [
+              "https://schema.org/Gastroenterologic"
+            ],
+            "knowsAbout": "Coloproctologia / Cirurgia Geral",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 91,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/gastroenterologia/ibrahim-jacob-facuri/#profissional",
+            "name": "Ibrahim Jacob Facuri",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/gastroenterologia/ibrahim-jacob-facuri/",
+            "medicalSpecialty": [
+              "https://schema.org/Gastroenterologic"
+            ],
+            "knowsAbout": "Gastroenterologia",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            },
+            "jobTitle": "Diretor técnico e diretor clínico",
+            "identifier": {
+              "@type": "PropertyValue",
+              "propertyID": "CRM-GO",
+              "value": "4506"
+            },
+            "disambiguatingDescription": "Médico em Gastroenterologia e diretor técnico e clínico do Hospital Jacob Facuri. Não confundir com Ibrahim Jacob Facuri Filho (Clínica médica) nem com Jacob Facuri Neto (Nutrologia)."
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 92,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/gastroenterologia/joffre-rezende-neto/#profissional",
+            "name": "Joffre Rezende Neto",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/gastroenterologia/joffre-rezende-neto/",
+            "medicalSpecialty": [
+              "https://schema.org/Gastroenterologic"
+            ],
+            "knowsAbout": "Gastroenterologia",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 93,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/ginecologia-e-obstetricia/julia-souza-santos-cargnin/#profissional",
+            "name": "Júlia Souza Santos Cargnin",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/ginecologia-e-obstetricia/julia-souza-santos-cargnin/",
+            "medicalSpecialty": [
+              "https://schema.org/Gynecologic",
+              "https://schema.org/Obstetric"
+            ],
+            "knowsAbout": "Ginecologia e obstetrícia",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 94,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/ginecologia-e-obstetricia/julmara-toledo/#profissional",
+            "name": "Julmara Toledo",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/ginecologia-e-obstetricia/julmara-toledo/",
+            "medicalSpecialty": [
+              "https://schema.org/Gynecologic",
+              "https://schema.org/Obstetric"
+            ],
+            "knowsAbout": "Ginecologia e obstetrícia",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 95,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/ginecologia-e-obstetricia/maria-elaine-de-assis-oliveira/#profissional",
+            "name": "Maria Elaine de Assis Oliveira",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/ginecologia-e-obstetricia/maria-elaine-de-assis-oliveira/",
+            "medicalSpecialty": [
+              "https://schema.org/Gynecologic",
+              "https://schema.org/Obstetric"
+            ],
+            "knowsAbout": "Ginecologia e obstetrícia",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 96,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/ginecologia-e-obstetricia/antonio-rosario/#profissional",
+            "name": "Antônio Rosário",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/ginecologia-e-obstetricia/antonio-rosario/",
+            "medicalSpecialty": [
+              "https://schema.org/Gynecologic",
+              "https://schema.org/Obstetric"
+            ],
+            "knowsAbout": "Ginecologia e obstetrícia",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 97,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/infectologia/debora-rigo-guimaraes-de-macedo-bento/#profissional",
+            "name": "Débora Rigo Guimarães de Macedo Bento",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/infectologia/debora-rigo-guimaraes-de-macedo-bento/",
+            "medicalSpecialty": [
+              "https://schema.org/Infectious"
+            ],
+            "knowsAbout": "Infectologia",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 98,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/medicina-de-familia/anna-luisa-soares-assuncao/#profissional",
+            "name": "Anna Luisa Soares Assunção",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/medicina-de-familia/anna-luisa-soares-assuncao/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Medicina de família",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 99,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/medicina-de-familia/mario-victor-costa-de-faria/#profissional",
+            "name": "Mario Victor Costa de Faria",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/medicina-de-familia/mario-victor-costa-de-faria/",
+            "medicalSpecialty": [
+              "https://schema.org/PrimaryCare"
+            ],
+            "knowsAbout": "Medicina de família",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 100,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/neurologia-clinica-e-cirurgica/fernando-simoes-nazareno/#profissional",
+            "name": "Fernando Simões Nazareno",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/neurologia-clinica-e-cirurgica/fernando-simoes-nazareno/",
+            "medicalSpecialty": [
+              "https://schema.org/Neurologic"
+            ],
+            "knowsAbout": "Neurologia (clínica e cirúrgica)",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 101,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/neurologia-clinica-e-cirurgica/helioenai-de-sousa-alencar/#profissional",
+            "name": "Helioenai de Sousa Alencar",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/neurologia-clinica-e-cirurgica/helioenai-de-sousa-alencar/",
+            "medicalSpecialty": [
+              "https://schema.org/Neurologic"
+            ],
+            "knowsAbout": "Neurologia (clínica e cirúrgica)",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 102,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/neurologia-clinica-e-cirurgica/paulo-ronaldo-jube-ribeiro/#profissional",
+            "name": "Paulo Ronaldo Jube Ribeiro",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/neurologia-clinica-e-cirurgica/paulo-ronaldo-jube-ribeiro/",
+            "medicalSpecialty": [
+              "https://schema.org/Neurologic"
+            ],
+            "knowsAbout": "Neurologia (clínica e cirúrgica)",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 103,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/neurologia-clinica-e-cirurgica/tiago-vinicius-silva-fernandes/#profissional",
+            "name": "Tiago Vinícius Silva Fernandes",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/neurologia-clinica-e-cirurgica/tiago-vinicius-silva-fernandes/",
+            "medicalSpecialty": [
+              "https://schema.org/Neurologic"
+            ],
+            "knowsAbout": "Neurologia (clínica e cirúrgica)",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 104,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/neurologia-clinica-e-cirurgica/wander-nasser-naves/#profissional",
+            "name": "Wander Nasser Naves",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/neurologia-clinica-e-cirurgica/wander-nasser-naves/",
+            "medicalSpecialty": [
+              "https://schema.org/Neurologic"
+            ],
+            "knowsAbout": "Neurologia (clínica e cirúrgica)",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 105,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/nutrologia/jacob-facuri-neto/#profissional",
+            "name": "Jacob Facuri Neto",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/nutrologia/jacob-facuri-neto/",
+            "medicalSpecialty": [
+              "https://schema.org/DietNutrition"
+            ],
+            "knowsAbout": "Nutrologia e medicina funcional integrativa",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            },
+            "disambiguatingDescription": "Médico em Nutrologia e medicina funcional integrativa. Não confundir com Ibrahim Jacob Facuri (Gastroenterologia) nem com Ibrahim Jacob Facuri Filho (Clínica médica)."
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 106,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/oncologia/daniel-de-paula-santana/#profissional",
+            "name": "Daniel de Paula Santana",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/oncologia/daniel-de-paula-santana/",
+            "medicalSpecialty": [
+              "https://schema.org/Oncologic"
+            ],
+            "knowsAbout": "Oncologia (clínica e cirúrgica)",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 107,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/oncologia/sarah-do-prado-pereira-barcelos/#profissional",
+            "name": "Sarah do Prado Pereira Barcelos",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/oncologia/sarah-do-prado-pereira-barcelos/",
+            "medicalSpecialty": [
+              "https://schema.org/Oncologic"
+            ],
+            "knowsAbout": "Oncologia (clínica e cirúrgica)",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 108,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/ortopedia-e-traumatologia/danillo-gomes-leite/#profissional",
+            "name": "Danillo Gomes Leite",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/ortopedia-e-traumatologia/danillo-gomes-leite/",
+            "medicalSpecialty": [
+              "https://schema.org/Musculoskeletal"
+            ],
+            "knowsAbout": "Ortopedia e Traumatologia",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 109,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/ortopedia-e-traumatologia/francisco-antonio-batista-carvalho-gedda/#profissional",
+            "name": "Francisco Antônio Batista Carvalho Gedda",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/ortopedia-e-traumatologia/francisco-antonio-batista-carvalho-gedda/",
+            "medicalSpecialty": [
+              "https://schema.org/Musculoskeletal"
+            ],
+            "knowsAbout": "Ortopedia e Traumatologia",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 110,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/ortopedia-e-traumatologia/joao-claudio-ferreira-miranda/#profissional",
+            "name": "João Cláudio Ferreira Miranda",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/ortopedia-e-traumatologia/joao-claudio-ferreira-miranda/",
+            "medicalSpecialty": [
+              "https://schema.org/Musculoskeletal"
+            ],
+            "knowsAbout": "Ortopedia e Traumatologia",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 111,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/ortopedia-e-traumatologia/leonardo-estanislau/#profissional",
+            "name": "Leonardo Estanislau",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/ortopedia-e-traumatologia/leonardo-estanislau/",
+            "medicalSpecialty": [
+              "https://schema.org/Musculoskeletal"
+            ],
+            "knowsAbout": "Ortopedia e Traumatologia",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 112,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/ortopedia-e-traumatologia/marcio-duarte-guimaraes/#profissional",
+            "name": "Márcio Duarte Guimarães",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/ortopedia-e-traumatologia/marcio-duarte-guimaraes/",
+            "medicalSpecialty": [
+              "https://schema.org/Musculoskeletal"
+            ],
+            "knowsAbout": "Ortopedia e Traumatologia",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 113,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/ortopedia-e-traumatologia/daniela-cristina-endres/#profissional",
+            "name": "Daniela Cristina Endres",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/ortopedia-e-traumatologia/daniela-cristina-endres/",
+            "medicalSpecialty": [
+              "https://schema.org/Musculoskeletal"
+            ],
+            "knowsAbout": "Ortopedia e Traumatologia",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 114,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/otorrinolaringologia/leonardo-henrique-tolentino/#profissional",
+            "name": "Leonardo Henrique Tolentino",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/otorrinolaringologia/leonardo-henrique-tolentino/",
+            "medicalSpecialty": [
+              "https://schema.org/Otolaryngologic"
+            ],
+            "knowsAbout": "Otorrinolaringologia",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 115,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/otorrinolaringologia/renata-cristine-figueiredo-cleto/#profissional",
+            "name": "Renata Cristine Figueiredo Cleto",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/otorrinolaringologia/renata-cristine-figueiredo-cleto/",
+            "medicalSpecialty": [
+              "https://schema.org/Otolaryngologic"
+            ],
+            "knowsAbout": "Otorrinolaringologia",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 116,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/otorrinolaringologia/renato-cardoso-guimaraes/#profissional",
+            "name": "Renato Cardoso Guimarães",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/otorrinolaringologia/renato-cardoso-guimaraes/",
+            "medicalSpecialty": [
+              "https://schema.org/Otolaryngologic"
+            ],
+            "knowsAbout": "Otorrinolaringologia",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 117,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/otorrinolaringologia/renato-marinho-correa/#profissional",
+            "name": "Renato Marinho Correa",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/otorrinolaringologia/renato-marinho-correa/",
+            "medicalSpecialty": [
+              "https://schema.org/Otolaryngologic"
+            ],
+            "knowsAbout": "Otorrinolaringologia",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 118,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/otorrinolaringologia/milla-rezende-parreira/#profissional",
+            "name": "Milla Rezende Parreira",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/otorrinolaringologia/milla-rezende-parreira/",
+            "medicalSpecialty": [
+              "https://schema.org/Otolaryngologic"
+            ],
+            "knowsAbout": "Otorrinolaringologia",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 119,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/otorrinolaringologia/guilherme-horbilon/#profissional",
+            "name": "Guilherme Horbilon",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/otorrinolaringologia/guilherme-horbilon/",
+            "medicalSpecialty": [
+              "https://schema.org/Otolaryngologic"
+            ],
+            "knowsAbout": "Otorrinolaringologia",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 120,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/pediatria/carolina-gomes-machado/#profissional",
+            "name": "Carolina Gomes Machado",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/pediatria/carolina-gomes-machado/",
+            "medicalSpecialty": [
+              "https://schema.org/Pediatric"
+            ],
+            "knowsAbout": "Pediatria",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 121,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/pediatria/danielle-tolentino-lousada-de-carvalho/#profissional",
+            "name": "Danielle Tolentino Lousada de Carvalho",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/pediatria/danielle-tolentino-lousada-de-carvalho/",
+            "medicalSpecialty": [
+              "https://schema.org/Pediatric"
+            ],
+            "knowsAbout": "Pediatria",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 122,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/pediatria/fernando-golcalves-borges/#profissional",
+            "name": "Fernando Golcalves Borges",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/pediatria/fernando-golcalves-borges/",
+            "medicalSpecialty": [
+              "https://schema.org/Pediatric"
+            ],
+            "knowsAbout": "Pediatria",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 123,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/pediatria/leticia-de-borba-neiva/#profissional",
+            "name": "Leticia de Borba Neiva",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/pediatria/leticia-de-borba-neiva/",
+            "medicalSpecialty": [
+              "https://schema.org/Pediatric"
+            ],
+            "knowsAbout": "Pediatria",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 124,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/pediatria/ludmila-ruys-lopes-jasbick/#profissional",
+            "name": "Ludmila Ruys Lopes Jasbick",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/pediatria/ludmila-ruys-lopes-jasbick/",
+            "medicalSpecialty": [
+              "https://schema.org/Pediatric"
+            ],
+            "knowsAbout": "Pediatria",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 125,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/pediatria/marcia-regina-rezende/#profissional",
+            "name": "Marcia Regina Rezende",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/pediatria/marcia-regina-rezende/",
+            "medicalSpecialty": [
+              "https://schema.org/Pediatric"
+            ],
+            "knowsAbout": "Pediatria",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 126,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/pediatria/simone-rosa-de-castro/#profissional",
+            "name": "Simone Rosa de Castro",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/pediatria/simone-rosa-de-castro/",
+            "medicalSpecialty": [
+              "https://schema.org/Pediatric"
+            ],
+            "knowsAbout": "Pediatria",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 127,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/pediatria/edward-esteves-pereira/#profissional",
+            "name": "Edward Esteves Pereira",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/pediatria/edward-esteves-pereira/",
+            "medicalSpecialty": [
+              "https://schema.org/Pediatric"
+            ],
+            "knowsAbout": "Pediatria",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 128,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/pediatria/mariana-f-g-toledo-franciscon/#profissional",
+            "name": "Mariana F. G. Toledo Franciscon",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/pediatria/mariana-f-g-toledo-franciscon/",
+            "medicalSpecialty": [
+              "https://schema.org/Pediatric"
+            ],
+            "knowsAbout": "Pediatria",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 129,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/pediatria/aline-amaral-moraes/#profissional",
+            "name": "Aline Amaral Moraes",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/pediatria/aline-amaral-moraes/",
+            "medicalSpecialty": [
+              "https://schema.org/Pediatric"
+            ],
+            "knowsAbout": "Pediatria",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 130,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/pediatria/debora-damiana-da-silveira-pereira/#profissional",
+            "name": "Debora Damiana da Silveira Pereira",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/pediatria/debora-damiana-da-silveira-pereira/",
+            "medicalSpecialty": [
+              "https://schema.org/Pediatric"
+            ],
+            "knowsAbout": "Pediatria",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 131,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/pneumologia/guylherme-saraiva/#profissional",
+            "name": "Guylherme Saraiva",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/pneumologia/guylherme-saraiva/",
+            "medicalSpecialty": [
+              "https://schema.org/Pulmonary"
+            ],
+            "knowsAbout": "Pneumologia",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 132,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/radiologia/mauricio-alvares-salum-ximenes/#profissional",
+            "name": "Maurício Álvares Salum Ximenes",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/radiologia/mauricio-alvares-salum-ximenes/",
+            "medicalSpecialty": [
+              "https://schema.org/Radiography"
+            ],
+            "knowsAbout": "Radiologia",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 133,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/urologia/luis-fernando-bastos-ribeiro/#profissional",
+            "name": "Luis Fernando Bastos Ribeiro",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/urologia/luis-fernando-bastos-ribeiro/",
+            "medicalSpecialty": [
+              "https://schema.org/Urologic"
+            ],
+            "knowsAbout": "Urologia",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 134,
+          "item": {
+            "@type": [
+              "Person",
+              "Physician"
+            ],
+            "@id": "https://jacobfacuri.com.br/corpo-clinico/urologia/rodrigo-barros-ribeiro/#profissional",
+            "name": "Rodrigo Barros Ribeiro",
+            "url": "https://jacobfacuri.com.br/corpo-clinico/urologia/rodrigo-barros-ribeiro/",
+            "medicalSpecialty": [
+              "https://schema.org/Urologic"
+            ],
+            "knowsAbout": "Urologia",
+            "worksFor": {
+              "@id": "https://jacobfacuri.com.br/#organization"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://jacobfacuri.com.br/corpo-clinico/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Início",
+          "item": "https://jacobfacuri.com.br/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Corpo clínico",
+          "item": "https://jacobfacuri.com.br/corpo-clinico/"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://jacobfacuri.com.br/corpo-clinico/#webpage",
+      "url": "https://jacobfacuri.com.br/corpo-clinico/",
+      "name": "Corpo clínico em Goiânia, GO — Hospital Jacob Facuri",
+      "description": "Médicos do Hospital Jacob Facuri por especialidade, com registro no conselho, RQE e currículo. Busque pelo nome ou filtre pela especialidade.",
+      "inLanguage": "pt-BR",
+      "dateModified": "2026-11-25",
+      "isPartOf": {
+        "@id": "https://jacobfacuri.com.br/#website"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://jacobfacuri.com.br/#primaryimage"
+      },
+      "publisher": {
+        "@id": "https://jacobfacuri.com.br/#organization"
+      },
+      "mainEntity": {
+        "@id": "https://jacobfacuri.com.br/corpo-clinico/#itemlist"
+      },
+      "about": {
+        "@id": "https://jacobfacuri.com.br/#organization"
+      },
+      "breadcrumb": {
+        "@id": "https://jacobfacuri.com.br/corpo-clinico/#breadcrumb"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://jacobfacuri.com.br/corpo-clinico/#faq",
+      "url": "https://jacobfacuri.com.br/corpo-clinico/",
+      "name": "Perguntas frequentes sobre o corpo clínico — Hospital Jacob Facuri",
+      "inLanguage": "pt-BR",
+      "isPartOf": {
+        "@id": "https://jacobfacuri.com.br/corpo-clinico/#webpage"
+      },
+      "about": {
+        "@id": "https://jacobfacuri.com.br/#organization"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quantos médicos fazem parte do corpo clínico do Hospital Jacob Facuri?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "O corpo clínico reúne 134 profissionais em 24 especialidades médicas e odontológicas. As maiores são clínica médica (39), cirurgia plástica (18), pediatria (11) e cirurgia geral (9)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Como encontrar um médico por nome ou especialidade?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na página do corpo clínico, é possível buscar pelo nome ou filtrar pela especialidade. Cada médico tem uma página com registro no conselho, RQE e currículo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Como agendar consulta com um especialista do corpo clínico?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "De segunda a sexta-feira, das 8h às 18h, pelo WhatsApp +55 (62) 99902-2623, pelos telefones (62) 3621-1919 e (62) 3621-1900 ou pelo e-mail consultas@jacobfacuri.com.br."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Como saber se o médico atende o meu convênio?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A central de atendimento confirma a cobertura do plano e a agenda do especialista. O hospital atende particulares e 18 operadoras, listadas em https://jacobfacuri.com.br/convenios/."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quem é o diretor técnico e clínico do Hospital Jacob Facuri?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "O diretor técnico e diretor clínico é o Dr. Ibrahim Jacob Facuri, gastroenterologista, CRM-GO 4506."
+          }
+        }
+      ]
+    }
+  ]
+}

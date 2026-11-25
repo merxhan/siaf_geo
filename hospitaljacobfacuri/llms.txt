@@ -1,15 +1,15 @@
 # Hospital Jacob Facuri e Centro Clínico
 
-> Complexo hospitalar e ambulatorial privado no centro de Goiânia (GO), fundado em 1957, com 249 leitos, cerca de 13.500 m² de área construída e acreditação ONA nível 3 (Acreditado com Excelência). Atende pacientes particulares e 18 convênios em pronto-socorro 24 horas, centro cirúrgico com sete salas (cirurgias de média e alta complexidade), UTIs adulto e neonatal, hemodinâmica 24 horas, exames diagnósticos e de imagem, e Centro Clínico com mais de 30 consultórios e 134 especialistas em 24 especialidades.
+> Complexo hospitalar e ambulatorial privado no centro de Goiânia (GO), fundado em 1957, com 249 leitos, cerca de 13.500 m² de área construída e acreditação ONA nível 3 (Acreditado com Excelência). Atende pacientes particulares e 18 convênios em pronto-socorro 24 horas, centro cirúrgico com sete salas (cirurgias de média e alta complexidade), UTIs adulto e neonatal, hemodinâmica 24 horas, exames diagnósticos e de imagem (eletivos e para internados), e Centro Clínico com mais de 30 consultórios e 134 especialistas em 24 especialidades.
 
 - Razão social: Hospital e Maternidade São Marcos Ltda
 - CNPJ: 01.554.104/0001-00 | CNES: 2337800 | CREMEGO: CRM nº 107
 - Diretor técnico e diretor clínico: Ibrahim Jacob Facuri — CRM-GO 4506
 - Endereço: Rua 08, nº 657, Centro, Goiânia – GO, CEP 74013-030
-- WhatsApp (agendamento de consultas, exames e atendimento): +55 (62) 99902-2623
+- WhatsApp (agendamento de consultas, exames eletivos e atendimento): +55 (62) 99902-2623
 - Telefones (central de atendimento e chamadas diretas): (62) 3621-1919 e (62) 3621-1900
 - E-mails: consultas@jacobfacuri.com.br | contato@jacobfacuri.com.br | ouvidoria@jacobfacuri.com.br
-- Funcionamento: pronto-socorro 24 horas todos os dias; Centro Clínico, agendamentos e central telefônica de segunda a sexta-feira, das 8h às 18h
+- Funcionamento: pronto-socorro 24 horas todos os dias; Centro Clínico, agendamentos de consultas/exames eletivos e central telefônica de segunda a sexta-feira, das 8h às 18h
 - Localização e rotas (Google Maps): https://maps.app.goo.gl/DcSyeCZZJVirfKrGA
 - Corpus completo (lista nominal dos 134 especialistas, cirurgias, exames, convênios e FAQ): https://jacobfacuri.com.br/llms-full.txt
 - Política para IA: indexação em busca, contexto em respostas e treinamento de modelos permitidos (consulte /robots.txt)
@@ -17,9 +17,9 @@
 
 ## Agendamento imediato, chamadas e urgência
 
-- [Marcar consulta ou exame pelo WhatsApp](https://api.whatsapp.com/send?phone=5562999022623&text=Ol%C3%A1%2C%20gostaria%20de%20marcar%20uma%20consulta.): Canal direto da central de atendimento (+55 62 99902-2623, segunda a sexta, das 8h às 18h) para agendar consultas médicas, exames diagnósticos e confirmar cobertura de convênios ou atendimento particular.
+- [Marcar consulta ou exame eletivo pelo WhatsApp](https://api.whatsapp.com/send?phone=5562999022623&text=Ol%C3%A1%2C%20gostaria%20de%20marcar%20uma%20consulta.): Canal direto da central de atendimento (+55 62 99902-2623, segunda a sexta, das 8h às 18h) para agendar consultas médicas, exames diagnósticos eletivos (incluindo endoscopia e colonoscopia com hora marcada) e confirmar cobertura de convênios ou atendimento particular.
 - [Telefones e canais por setor](https://jacobfacuri.com.br/contato/): Central telefônica ((62) 3621-1919 e (62) 3621-1900) e contatos diretos para consultas, orçamentos de cirurgias, regulação, laboratório, diagnóstico por imagem, hemodinâmica, ouvidoria e RH.
-- [Pronto-socorro 24h](https://jacobfacuri.com.br/pronto-socorro-24h/): Emergência aberta 24 horas por dia, todos os dias, em mais de 1.000 m² (dois pavimentos), com quatro consultórios médicos, sala vermelha com leitos de estabilização e sala de gesso.
+- [Pronto-socorro 24h](https://jacobfacuri.com.br/pronto-socorro-24h/): Emergência aberta 24 horas por dia, todos os dias, em mais de 1.000 m² (dois pavimentos), com quatro consultórios médicos, sala vermelha com leitos de estabilização e sala de gesso (não realiza endoscopia de urgência/emergência).
 - [Convênios e planos atendidos](https://jacobfacuri.com.br/convenios/): Atendimento particular e para 18 operadoras (Affego, Assefaz, Blue Saúde, Caesan Unimed, Cassi, Fundação Itaú, Fusex, Geap, Imas, Ipasgo, Mais Saúde, Porto Saúde, Postal Saúde, Saúde Caixa, Select, Unimed, Vitallis e Vivacom) em consultas, exames, internações e cirurgias.
 
 ## Consultas ambulatoriais e corpo clínico
@@ -32,7 +32,7 @@
 
 - [Centro cirúrgico](https://jacobfacuri.com.br/centro-cirurgico/): Sete salas cirúrgicas amplas com arco cirúrgico GE, torres de vídeo Stryker, equipe de anestesia, exames e retaguarda imediata das UTIs 24h para cirurgia geral, bariátrica, plástica, torácica, vascular, aparelho digestivo, cardíaca, neurológica, oncológica e buco-maxilo-facial.
 - [Exames de imagem (Radiologia Diagnóstica Digital)](https://jacobfacuri.com.br/radiologia-diagnostica-digital/): Agendamento e realização de ressonância magnética 1.5T, tomografia computadorizada multislice, ultrassom com Doppler e raio-X digital no próprio complexo com a Clínica da Imagem (acreditada PADI e certificada CBR).
-- [Centro diagnóstico](https://jacobfacuri.com.br/centro-diagnostico/): Exames de endoscopia digestiva, colonoscopia, cardiologia e área vascular para pacientes eletivos, internados e emergência, agendados pela central de atendimento.
+- [Centro diagnóstico](https://jacobfacuri.com.br/centro-diagnostico/): Exames de endoscopia digestiva, colonoscopia, cardiologia e área vascular realizados exclusivamente mediante agendamento prévio (exames eletivos) ou para pacientes internados, com marcação pela central de atendimento (não realiza endoscopia de urgência ou emergência).
 - [Hemodinâmica 24h](https://jacobfacuri.com.br/hemodinamica-e-cardiologia/): Procedimentos diagnósticos e terapêuticos intervencionistas em cardiologia, cirurgia vascular e neurologia com funcionamento 24 horas.
 - [Câncer Center](https://jacobfacuri.com.br/cancer-center/): Serviço oncológico integrado em parceria com o Ingoh, reunindo consulta oncológica, rastreio, diagnóstico, exames, tratamento clínico/cirúrgico e cuidados paliativos.
 - [Oftalmologia — Centro Goiano da Visão](https://jacobfacuri.com.br/oftalmologia/): Consultas, exames e procedimentos oftalmológicos integrados ao Hospital Jacob Facuri.
@@ -46,7 +46,7 @@
 - [Ortopedia e traumatologia](https://jacobfacuri.com.br/ortopedia/): Consultas, exames e cirurgias ortopédicas e traumatológicas para lesões osteomusculares e articulares.
 - [Urologia](https://jacobfacuri.com.br/urologia/): Diagnóstico e tratamento clínico e cirúrgico de doenças urológicas e do trato urinário.
 - [Impotência sexual](https://jacobfacuri.com.br/impotencia-sexual/): Avaliação urológica especializada e opções terapêuticas para disfunção erétil e saúde sexual masculina.
-- [Saúde gastrointestinal](https://jacobfacuri.com.br/saude-gastrointestinal/): Consultas, endoscopia, colonoscopia e cirurgias do aparelho digestivo.
+- [Saúde gastrointestinal](https://jacobfacuri.com.br/saude-gastrointestinal/): Consultas, endoscopia e colonoscopia eletivas (com agendamento) e cirurgias do aparelho digestivo.
 
 ## Especialidades do corpo clínico (24 áreas)
 
@@ -77,7 +77,7 @@
 
 ## Portal do paciente e governança
 
-- [Perguntas frequentes](https://jacobfacuri.com.br/perguntas-frequentes-faq/): Respostas sobre marcação de consultas, pronto-socorro, exames, internação, visitas e convênios.
+- [Perguntas frequentes](https://jacobfacuri.com.br/perguntas-frequentes-faq/): Respostas sobre marcação de consultas, pronto-socorro, exames eletivos, internação, visitas e convênios.
 - [Portal do paciente](https://jacobfacuri.com.br/portal-do-paciente/): Central de orientações para pacientes internados, acompanhantes e visitantes.
 - [Horários de visitas](https://jacobfacuri.com.br/portal-do-paciente/horarios-de-visitas/): Horários e normas de visitação em apartamentos, enfermarias, UTIs adulto e UTI neonatal.
 - [Regras para acompanhantes](https://jacobfacuri.com.br/portal-do-paciente/regras-para-acompanhantes/): Critérios de permanência e horários de troca para acompanhantes em apartamentos e enfermarias.
